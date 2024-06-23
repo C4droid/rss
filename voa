@@ -1,0 +1,187 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
+# vim:fenc=utf-8
+# Copyright © 2023 lennon
+#
+"""
+rss for 51voa
+"""
+import arrow
+import requests
+from bs4 import BeautifulSoup
+from mako.template import Template
+from requests.adapters import HTTPAdapter, Retry
+import time
+
+headers = {
+    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+}
+
+RSS = Template(
+    """<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>VOA Special English</title>
+        <link>https://www.51voa.com/VOA_Special_English/</link>
+        <language>en-us</language>
+        <itunes:category>ESL</itunes:category>
+        <itunes:author>VOA</itunes:author>
+        <description>美国之音（以下称VOA）的英语节目，按播音速度可分为两种：Standard English （标准英语）和 Special English（特别英语）。
+
+Special English 又叫“慢速英语”，是VOA 专为全世界非英语国家初学英语的听众安排的一种简易、规范的英语广播节目。该节目创始于50年代末期，是VOA 的专家们研究如何与世界各地的英语学习者进行交际的产物。它正式开播于1959年10月。当时只面向欧洲和中东，但由于这个节目适合许多国家英语学习者的需要，所以它的广播对象不久就扩大到世界其他地区，并很快在全世界范围内产生了广泛的影响。现在这个节目对欧洲、非洲和拉丁美洲每晚广播一次，对加勒比地区每晚广播一次（星期天除外），对东南亚广播次数最多，每天上午两次，晚上三次。
+
+30多年来，VOA 为了办好Special English节目，进行了大量的调查研究工作，对播音速度、内容及用词范围都作了具体规定，基本上达到了既能为英语学习者提供信息，又不损害英语本身风格的目的，使之成为VOA 独具特色，拥有最大量听众的节目。
+
+美国著名词汇学家S. B. Flexmer 指明了Special English的三条标准，也就是它所“特别”的地方：
+
+1、它是一种由美国人最常用的1500个基本单词为主体构成的美国英语；
+
+2、它用简短、明晰的句子写作和广播；
+
+3、它以每分钟90个单词的速度，即2/3的Standard English（标准英语）速度进行广播。
+
+Special English的节目可分为两大类：一类是新闻节目；一类是专题节目。
+
+1．新闻节目
+
+VOA Special English 的新闻广播向听众提供世界范围内的政治、经济、军事、外交、国际关系、宗教、天气以及各种重大事件和珍闻奇事等各个方面的信息，每天向东南亚地区广播五次，早上两次，晚上三次，每逢半点播出。
+
+Special English新闻节目每次长约十分钟，大都播出十条左右新闻，近一千个单词，每条新闻多为一分钟，但偶尔也有长达两分钟的要闻。除头条新闻外，每条新闻都由一个电头引导，这样显得结构分明，条理清晰，适宜初学英语的人收听。在节目结束之前，播音员常常用三四句话重播其中三条新闻的提要以加深听众对要闻的印象。
+
+Special English新闻中70%左右的内容与同时整点播出的Standard English新闻相同，但相同新闻的先后次序有所变动。每次节目的开头和结尾大同小异，格式比较固定。
+
+2．专题节目（一）
+
+Special English的专题节目（Feature Programs）,从时间上看，可分为两大类：一是每五分钟一次的专题，二是每十五分钟一次的专题。本节先介绍每项五分钟一次的专题材节目。
+
+Special English五分钟一次的专题材节目安排在Special English新闻节目之后和（或）每十五分钟一次的专题材节目之前播出，每星期播七次。根据内容，可分为三个小类，即：Science Report（科学报道），逢星期一、三、五播出，每天播六遍；Agriculture Report（农业报道），逢星期二、四播出，每天播六遍；Words And Their Stories（词语掌故），逢星期六和星期天播出，每天播五遍。这三个专题材各具特色，具有相对的独立性，听众每听完一个节目，都会获得一个完整的印象。
+
+Science Report（科学报道）这一专题材节目每周向听众介绍三篇有关现代科学技术最新发展情况的报道，涉及物理、化学、天文至高无上理、生物、环卫、心理、教育、医学和计算机等方面。适宜理工科大学生和科技工作者收集信息，积累资料，学习科技英语。
+
+Agriculture Report（农业报道） Agriculture Report是为农业科技工作者和生产者安排的一个专题。它专门报道世界各国，特别是美国现代农业生产的最新成文汇报总务科 学家对农业生产某一方面的研究进展，以及他们对影响农业生产的某一自然现象进行分析和研究的近况。此外，它还经常向听众介绍发展中国家家业生产的一些有益经验等内容。
+
+Words And Their Stories（词语掌故）这一专题节目，旨在向学习英语的听众介绍美国英语中生动有趣的词语和惯用法，并从科学研究和通俗词源学的角度来解释它们的含意、产生的背景及其在使用过程中的演变情况等。它通过讲故事的形式讲解每一个词语。这是VOA Special English中的优秀节目之一，是学习美国英语的极好材料。通过收听这一节目，听众不仅能学到娓娓动听的掌故和地道的美国英语，而且能增加美国的社会文化背景知识，历史传统与现状的了解。
+
+VOA 为了更好地办好这个节目，便于听众收听学习，于1978年编辑出版了一本名为Words And Their Stories的书，共收集一百篇故事，作者是Herbert Sutcliffe, Harold Bermen 及VOA 该节目的部分编辑人员。在每次的实际广播中，播音员都以此书为蓝本，再根据需要对原稿进行适当增删。按每周两个故事计算，此书的一百个故事还不能满足一年的播音需要。于是编辑们就是重播部分词语掌故的同时，不断增加许多新的词语掌故，及时将词源学家的最新研究成果和不断增加的新词汇介绍给听众。收听实践证明，初学者在收听过程中必然会遇到许多人名、地名和一些较难的句子，有时甚至在听完之后还很难理解所播词语的确切含义及其汉语意思，为此，听众可参看1983年由中国对外翻译出版公司出版的该书英汉对照本中的有关部分。
+
+3．专题节目（二）
+
+VOA Special English的专题节目，除上节谈的五分钟一次的以外，还有本节要介绍的每十五分钟一次的节目。这类节目共有七个不同的小专题，以星期为单位循环，每天分四次复播出一个专题，但星期日和星期六的两个专题材每晚只播三遍，每次节目约十分钟，继每次五分钟的专题节目之后播出。
+
+这类专题节目的基本结构是，在特定的伴声中先报告当次节目的名称，并扼要介绍其主要内容，然后播送节目正文。最后，在伴乐声中报告节目主持人和撰稿人的姓名，以邀请听众在下周的这个时间继续收听该节目而结束。
+
+People in America（美国人物志） 这是有关美国历史名人的一个专题节目，每逢星期天晚上播出。它向听众介绍在美国历史上产生过重大影响、起过重要作用、作出了突出贡献的科学、文学、政治、或其他各方面的历史人物。节目一般都对他们的生平事迹进行简要的叙述，对其贡献作出评介，类似人物小传。有的重要人物事迹很多，必须用两次或几次的节目时间进行联播。对这样的节目要坚持收听，才会获得完整的印象。
+
+TThis is America（今日美国） This Is America向听众介绍美国人民的生活、学习、工作和娱乐情况，是英语学习者解美国社会的一条渠道。该专题大都一个节目一个整体，每逢星期一晚播出。
+
+Science in the News（科学新闻） 这一专题材主要对新近的科学技术新闻进行综述或摘要广播。向听众介绍世界各国在自然、医学、疾病、原子能、航天等方面的科研动态、成果、突破性进展及存在的困难。涉及当今世界人们普遍关心的重大问题，如核事故、航天飞机爆炸、自然灾害、环境污染和爱滋病等等。每逢星期二播出，每次播一到五条新闻摘要。
+
+Explorations（自然探索） 每逢星期三晚上，听众可以收听到Explorations这一专题节目。该专题既涉及人类遨游太空、探索原子、研究自身、改造自然的现代技术，也报道发展中国家开发新资源，利用新工艺改善人民生活等方面的成就，其侧重点在各种科技实验和简易实用技术方面。该节目一般安排一段时间播一个系列，每次播出一个主题，以便能将某项新技术的研究和应用的全过程介绍给听众，电台还乐意为感兴趣的听众提供所需的文字材料。
+
+The Making of a Nation（建国史话） 这一专题节目向听众介绍美利坚合众国从十三个殖民地区域到现代工业国的孕育、诞生以及形成超级大国的历史过程，并以历史为线索，特定的历史时期为单位，以重大的历史事件为主题材来叙述各个党派、各届总统和政府的历史作用与贡献。这是每个英语学习者都应了解的基本知识。The Making of a Nation每逢星期四播出。这是个系列节目，坚持收听，则有助于系统了解美国的历史概况。
+
+American Mosaic（美国万花筒） American Mosaic是一个radio magazine（广播杂志）节目。该节目题材广泛、内容丰，展示着美国社会文化生活中比较轻松愉快的生活画面；听众收听该节目就如同在阅读一本图文并茂的杂志。它每次有三到五个小节目，涉及音乐、图书、技术和教育等方面的内容。我们既可以从中欣赏到著名歌唱的优秀歌曲，对美国音乐有所了解，又可以获取一些生动有趣的现代美国社会生活知识，随着播音员那亲切悦耳的声音步入美国风景如画的大好河山；同时还能听到世界各地的听众提出的有关英语语方文学等方面的问题和电台的解答。
+
+American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
+        <itunes:explicit>no</itunes:explicit>
+        %for e in entries:
+          <item>
+            <title>${e.title}</title>
+            <pubDate>${e.ctime}</pubDate>
+            <enclosure type="audio/mpeg" url="${e.audio}"/>
+            <content:encoded><![CDATA[${e.content}]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+        %endfor
+    </channel>
+</rss>
+"""
+)
+
+
+class Entry(object):
+    def __init__(self):
+        self.title = None
+        self.link = None
+        self.author = None
+        self.audio = None
+        self.tran = False
+        self.ctime = None
+        self.image = None
+
+    def __str__(self):
+        return str(
+            (
+                self.ctime,
+                self.title,
+            )
+        )
+
+
+session = requests.Session()
+session.headers.update(headers)
+retries = Retry(total=3, backoff_factor=1)
+session.mount("http://", HTTPAdapter(max_retries=retries))
+session.mount("https://", HTTPAdapter(max_retries=retries))
+
+
+def get(link):
+    response = session.get(link, timeout=30)
+    response.encoding = "UTF-8"
+    return BeautifulSoup(response.text, "lxml")
+
+
+def get_translate(entry):
+    body = get(entry.link.replace(".html", "_1.html"))
+    entry.title += " | " + body.find("div", class_="title").get_text()
+    entry.content = str(body.find("div", class_="content"))
+
+
+def get_content(entry):
+    body = get(entry.link)
+    entry.author = body.find("span", class_="byline").get_text().replace("By ", "")
+    # 29 July 2023
+    # Tue, 01 Aug 2023 03:08:26 +0000
+    entry.ctime = arrow.get(
+        body.find("span", class_="datetime").get_text(), "DD MMMM YYYY"
+    ).format("ddd, DD MMM YYYY HH:mm:ss Z")
+    entry.audio = body.find(id="mp3")["href"]
+    entry.content = str(body.find("div", class_="content"))
+    if entry.tran:
+        get_translate(entry)
+
+
+def main():
+    body = get("https://www.51voa.com/VOA_Special_English/")
+    lis = body.select("div.list li")
+    entries = []
+    # 定义重试次数
+    retry_num = 3
+    # 用于记录重试结果，默认 0 ，成功 1， 失败 -1
+    result_map = {}
+    for i in range(retry_num):
+        for li in lis:
+            if result_map.get(li, 0) == 1:
+                # 已完成，忽略
+                continue
+            a = li.select("a")[-1]
+            entry = Entry()
+            entry.title = a.get_text()
+            entry.link = "https://www.51voa.com" + a["href"]
+            a = li.find("a", class_="tran")
+            if a:
+                entry.tran = True
+            try:
+                get_content(entry)
+                time.sleep(1)
+            except:
+                result_map[li] = -1
+                continue
+            result_map[li] = 1
+            entries.append(entry)
+    with open("voa.xml", "w", encoding="utf8") as f:
+        f.write(RSS.render(entries=entries))
+
+
+if __name__ == "__main__":
+    main()

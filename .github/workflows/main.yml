@@ -1,0 +1,44 @@
+name: update atom
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 10,22 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: set up python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+
+      - name: install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -i https://mirrors.aliyun.com/pypi/simple arrow
+          pip install -i https://mirrors.aliyun.com/pypi/simple bs4
+          pip install -i https://mirrors.aliyun.com/pypi/simple lxml
+          pip install -i https://mirrors.aliyun.com/pypi/simple Mako
+          pip install -i https://mirrors.aliyun.com/pypi/simple requests
+
+      - name: run script
+        run: |
+          git pull -f
+          rm -f syndicate.xml voa.xml 1024.xml
+          python syndicate
+          python voa
+          python cl
+
+      - name: git push
+        run: |
+          git add .
+          git config --global user.name "action@bot"
+          git config --global user.email "linkong@gmail.com"
+          git commit -m "GitHub Actions update at $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
+          git push -f
