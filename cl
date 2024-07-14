@@ -21,7 +21,6 @@ subscribes = [
     "thread0806.php?fid=7&search=667132",
     "thread0806.php?fid=7&search=112203",
     "thread0806.php?fid=7&search=660896",
-    "thread0806.php?fid=7&search=638015",
     "thread0806.php?fid=7&search=661736",
     "thread0806.php?fid=7&search=558533",
     "thread0806.php?fid=7&search=413469",
