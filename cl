@@ -15,7 +15,7 @@ headers = {
     "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
 }
 
-host = "https://cl.9561x.xyz/"
+host = "https://cl.2076x.xyz/"
 
 subscribes = [
     "thread0806.php?fid=7&search=667132",
@@ -23,7 +23,6 @@ subscribes = [
     "thread0806.php?fid=7&search=660896",
     "thread0806.php?fid=7&search=661736",
     "thread0806.php?fid=7&search=558533",
-    "thread0806.php?fid=7&search=413469",
     "thread0806.php?fid=7&search=639381",
     "thread0806.php?fid=7&search=421692",
 ]
