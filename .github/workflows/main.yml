@@ -30,7 +30,8 @@ jobs:
       - name: run script
         run: |
           git pull -f
-          rm -f syndicate.xml 1024.xml
+          rm -f syndicate.xml 1024.xml voa.xml
+          python voa
           python syndicate
           python cl
 
