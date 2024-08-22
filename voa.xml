@@ -65,6 +65,116 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Tech Tip: How to Keep Your Chatbot Activity More Private (2024/8/22)</title>
+            <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/tech-tip-how-to-keep-your-chatbot-activity-more-private.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/><span class="datetime">21 August, 2024</span><br/>
+<p>Operators of artificial intelligence (AI) <strong>chatbot</strong> tools have made it clear that users' requests can be saved and used to further develop the AI systems.</p>
+<p>But what if a user does not want that? Some tools permit users to request that personal information used in chatbot requests not be saved or used to develop or train AI systems.</p>
+<p>Technology experts say it could be too late for users who have already provided information to these tools to have the data removed. But the Associated Press is offering the following advice for users who want to increase their privacy protections.</p><div class="contentImage"><img alt="Barbara Winston uses a computer at her home in Northbrook, Ill., on Sunday, June 30, 2024, several days after taking an introduction to artificial intelligence class at a local senior center. (AP Photo/Teresa Crawford)" src="https://files.21voa.com/gdb/01000000-c0a8-0242-8d2c-08dcc202a29a_cx0_cy6_cw0_w268_r1.jpg"/><br/><span class="imagecaption">Barbara Winston uses a computer at her home in Northbrook, Ill., on Sunday, June 30, 2024, several days after taking an introduction to artificial intelligence class at a local senior center. (AP Photo/Teresa Crawford)</span></div>
+<p><strong>Google Gemini</strong></p>
+<p>Google saves chatbot interactions, known as conversations<strong>,</strong> with its Gemini tool. The company says it uses the data to train its machine learning systems. But the company does give users a way to limit the information captured and to remove past conversations.</p>
+<p>For users 18 or older, requests are kept for 18 months, although this can be changed in user settings. Human workers are sometimes used by Google to examine some user conversations as part of efforts to improve Gemini's systems. In general, Google warns Gemini users not to enter any sensitive information they do not want human workers to see.</p>
+<p>Gemini users can change or “opt-out” of these <strong>default</strong> settings. From the main Gemini website <a class="wsw__a" href="https://gemini.google.com/?hl=en">page</a>, users should find and click on the “Activity” button toward the bottom left of the page. From there, they can click the “Turn off” <strong>button</strong> next to the heading “Gemini Apps Activity.” Users then have the chance to block future conversations from being saved. They can also choose to have all previous conversations removed.</p>
+<p>Whether a user chooses to turn their activity off or leave it on, Google notes that all conversations with Gemini are saved for 72 hours to “provide the service and process any <strong>feedback</strong>.”</p>
+<p><strong>Meta AI</strong></p>
+<p>Meta has an AI chatbot used across its social media services Facebook, WhatsApp and Instagram. The company says its AI models are trained on information shared by users including social media posts and photos. Meta says it does not train its AI systems on private messages sent by users to friends or family.</p>
+<p>Not everyone can opt out of this policy. People in the 27-nation European Union and Britain – both of which have strong privacy rules – can. This process can be completed from Meta's main <a class="wsw__a" href="https://www.facebook.com/privacy/policy/">Privacy Center</a>. Click “Other Policies and Articles” from the list near the bottom on the left side, then click the part related to AI. Users can then find a <a class="wsw__a" href="https://www.facebook.com/help/contact/1266025207620918">link</a> to a form to opt out.</p>
+<p>People in the United States and other countries without national data privacy laws do not have this ability.</p>
+<p>Meta's Privacy Center does link to a form where users can request that their data captured by third parties not be used to "develop and improve AI at Meta.” But the company says these requests are examined before being acted upon and might be rejected based on local laws.</p>
+<p><strong>Microsoft Copilot</strong></p>
+<p>With Microsoft's Copilot chatbot, personal users cannot opt out of having their data used to develop the company's AI models. The best a user can do is to remove conversations with the chatbot by going to Microsoft account's settings and privacy page. Find the drop-down choice called “Copilot interaction history” or “Copilot activity history” to find the button to remove the history.</p>
+<p><strong>OpenAI's ChatGPT</strong></p>
+<p>Users of OpenAI's <a class="wsw__a" href="https://chatgpt.com/">ChatGPT</a> service can make privacy changes from the tool's settings page. Find the “data controls” setting and remove the choice called "Improve the model for everyone." If a user does not have an account, they can click on the small question mark at the bottom right of the page. Then click “Settings” to see the same choice to opt out of AI training.</p>
+<p>OpenAI explains on its data controls “help page” that when users opt out, their conversations will still appear in the history but will not be used for training. The company says these temporary conversations will be kept for 30 days.</p>
+<p><strong>Anthropic's Claude AI</strong></p>
+<p>Anthropic is an AI research company based in San Francisco. The company says its <a class="wsw__a" href="https://claude.ai/">Claude AI</a> tool is not trained on personal data. However, users can request permission for specific conversations to be used in training or not. Users can do this by giving the conversation a “thumbs up” or “thumbs down” or by emailing the company.</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Bryan Lynn wrote this story for VOA Learning English, based on reports from The Associated Press, Google, Meta and other online sources. </em></p>
+<p><strong>___________________________________________</strong></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>chatbot </strong>– <em>n.</em> a computer program designed to interact with humans</p>
+<p><strong>default</strong> <em>– n. </em>what exists or usually happens if no changes are made</p>
+<p><strong>button </strong>– n. an image, or icon, that appears on a computer screen which the user can click to cause software to perform some kind of action</p>
+<p><strong>feedback </strong><em>– n. </em>information or statements of opinion about something</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>What Is Ketamine? (2024/8/22)</title>
+            <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/what-is-ketamine.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Caty Weaver</span><br/><span class="datetime">21 August, 2024</span><br/>
+<p>An investigation into the death of American actor Matthew Perry has led to criminal charges against five people. Perry, a star of the popular television series <em>Friends</em>, died suddenly in October. He was 54. Doctors who examined his body after death said Perry died from an <strong>overdose</strong> of the powerful drug ketamine.</p>
+<p><strong>So what is ketamine?</strong></p>
+<p>Ketamine is a powerful anesthetic. The drug is often used to put people into a deep sleep for medical operations, also called surgery. The treatment is called general anesthesia. A doctor can inject the drug into a muscle or through a liquid flow directly into a patient's veins.</p><div class="contentImage"><img alt="FILE - Matthew Perry poses for a portrait on Feb. 17, 2015, in New York. A ketamine overdose killed the American actor on October 28, 2023. He was 54 years old. (Photo by Brian Ach/Invision/AP, File)" src="https://files.21voa.com/gdb/c5bab48c-c720-4b25-96f8-8f634bd6c285_w268_r1.jpg"/><br/><span class="imagecaption">FILE - Matthew Perry poses for a portrait on Feb. 17, 2015, in New York. A ketamine overdose killed the American actor on October 28, 2023. He was 54 years old. (Photo by Brian Ach/Invision/AP, File)</span></div>
+<p>The drug's chemistry is similar to the recreational drug called PCP. Some people use ketamine recreationally for its <strong>euphoric</strong> effects. It can cause <strong>hallucinations</strong> and can affect breathing and the heart.</p>
+<p><strong>Ketamine becomes popular</strong></p>
+<p>The United States Food and Drug Administration (FDA) approved ketamine for use only for general anesthesia. However, American doctors are free to <strong>prescribe</strong> drugs for treatments other than those approved by the FDA. This is known as off-label use.</p>
+<p>Ketamine use has seen a huge, fast rise in recent years as a treatment for pain and mental health disorders, including depression and anxiety.</p>
+<p>Perry was using it to treat depression. His usual doctors were treating him with what is called ketamine infusion therapy. However, investigators say the actor turned to other sources when his doctors refused to give him as much as he wanted.</p>
+<p>Last week, government lawyers said Perry got ketamine illegally through a group that included two doctors, Perry's assistant and a woman they identified as the “Ketamine Queen.” Perry's assistant injected the actor with ketamine — including several times on the day Perry died.</p>
+<p><strong>How else is ketamine being used?</strong></p>
+<p>Emergency medical workers also sometimes use ketamine to <strong>sedate</strong> people who appear to be out of control, aggressive or a threat to themselves or others. Some states and agencies around the country have begun to reconsider this use of ketamine because of the drug's health risks.</p>
+<p>In 2019, an American court found two emergency medical workers guilty in the overdose killing of a teenager in Colorado. The medical team injected the man with a deadly amount of ketamine during a police operation.</p>
+<p>An Associated Press investigation found that, generally, use of ketamine and similar drugs as a policing or security tool has spread quietly across the nation over the last 15 years.</p>
+<p>I'm Caty Weaver.</p>
+<p><em>The Associated Press reported this story. Caty Weaver adapted the report for VOA Learning English. </em></p>
+<p>_______________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>overdose </strong><em>–n. </em>a lethal or toxic amount (as of a drug)</p>
+<p><strong>euphoric </strong><em>–adj.</em> marked by a feeling of great happiness and excitement: characterized by, based on, or producing euphoria</p>
+<p><strong>hallucination </strong><em>–n.</em> the awareness of something (as a visual image, a sound, or a smell) that seems to be experienced through one of the senses but is not real, cannot be sensed by someone else, and is usually the result of mental illness or the effect of a drug</p>
+<p><strong>prescribe </strong><em>–v.</em> to write or give medical orders, such as for drugs or other treatments</p>
+<p><strong>sedate </strong><em>–v </em><strong> </strong>to dose with sedatives, drugs that can make people sleep</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Mongolia Aims to Gain More Foreign Visitors (2024/8/22)</title>
+            <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/mongolia-aims-to-gain-more-foreign-visitors.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By John Russell</span><br/><span class="datetime">21 August, 2024</span><br/>
+<p>Mongolia, with its beautiful land and open spaces, is hoping to get more foreign visitors.</p>
+<p>Like most countries, Mongolia's <strong>tourism</strong> industry was hurt by the COVID-19 pandemic.</p>
+<p>It has launched a “Welcome to MonGOlia” campaign to gain more visitors. The government has added flights and simplified the visa process, offering visa-free visits for many countries.</p><div class="contentImage"><img alt="Tourists take photos near the 40-meter-tall stainless steel statue of Genghis Khan, a national hero who amassed power to become the leader of the Mongols in the early 13th century on the outskirts of Ulaanbaatar, Mongolia on July 1, 2024. (AP Photo/Ng Han Guan)" src="https://files.21voa.com/gdb/da66ae98-df97-420e-ac26-01cbf21a5f4e_w268_r1.jpg"/><br/><span class="imagecaption">Tourists take photos near the 40-meter-tall stainless steel statue of Genghis Khan, a national hero who amassed power to become the leader of the Mongols in the early 13th century on the outskirts of Ulaanbaatar, Mongolia on July 1, 2024. (AP Photo/Ng Han Guan)</span></div>
+<p>At least 437,000 foreign visitors came in the first seven months of this year, up 25 percent over the same period last year.</p>
+<p>That total includes increasing numbers from Europe, the United States and Japan. Visitors from South Korea nearly doubled, thanks in part to the fact that the flight between the countries is under four hours.</p>
+<p>However, Mongolia's government is still short of its goal of 1 million visitors per year from 2023-2025.</p>
+<p>The country has a population of 3.3 million people. About half of them live in the capital, Ulaanbaatar. As a result, there is plenty of open space for <strong>adventure</strong> <strong>tourists</strong> to explore, said Egjimaa Battsooj, who works for a tour company.</p>
+<p>The company offers adventures including <strong>horseback</strong> trips and camping trips with the possibility of staying in gers, the traditional homes still used by Mongolia's herders.</p>
+<p>There is little chance of running across private property, so few places are off-limits, she said.</p>
+<p>“You don't need to open a gate, you don't need to have permission from anyone,” Battsooj said, sitting in front of a map of Mongolia.</p>
+<p>“We are kind of like the last truly <strong>nomad </strong>culture on the whole planet,” she added.</p>
+<p>Lonely Planet, a travel guide publisher, named Mongolia its top destination in its Best in Travel 2024 report. The pope's visit to Mongolia last year also helped bring attention to the country.</p>
+<p>Its <strong>breakdancers </strong>became stars at last year's Asian Games. And some local bands have developed a global following, like The Hu, a band that mixes traditional Mongolian instruments and throat singing with modern rock.</p>
+<p>Most people know little about Mongolia. American tourist Michael John said he knew some of the history about Genghis Khan. He had also seen a documentary on eagles used by hunters before deciding to stop in Ulaanbaatar as part of a longer vacation.</p>
+<p>“It was a great opportunity to learn more,” the 40-year-old said.</p>
+<p>Tourism represented 7.2 percent of Mongolia's <strong>gross domestic product</strong> and 7.6 percent of its employment in 2019 before the industry collapsed because of the COVID-19 pandemic, the World Bank says. But the organization noted chances for “<strong>substantial </strong>growth” for Mongolia, with “diverse nature and <strong>stunning sceneries</strong>” and sports and adventure tourism possibilities.</p>
+<p>Mongolia tourism advertisements bring attention to all of those interests. The ads show beautiful frozen lakes in winter, the Northern Lights and events like reindeer sledding and riding, camel racing, and hiking.</p>
+<p>Munkhjargal Dayan offers rides on camels, traditional archery and the opportunity to have eagles trained for hunting stand on a visitor's arm.</p>
+<p>“We want to show tourists coming from other countries that we have such a way of life in Mongolia,” he said, waiting for tourists by a big statue of Genghis Kahn on the outskirts of Ulaanbaatar.</p>
+<p>Outside the lively capital, getting around can be difficult in summer as the land becomes wet. There are limited roads and buildings, a shortage of places to stay, and a lack of skilled labor in some areas.</p>
+<p>It is also easy for foreigners to get lost, with few signs in English, said Dutch tourist Jasper Koning. Nevertheless, he said he was thoroughly enjoying his trip.</p>
+<p>“The weather is super, the scenery is more than super, it's clean, the people are friendly,” he said.</p>
+<p>I'm John Russell.</p>
+<p><em>Olivia Zhang and David Rising reported this story for the Associated Press. John Russell adapted it for VOA Learning English. </em></p>
+<p>_______________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>tourism</strong><em> – n.</em> the practice of traveling for fun</p>
+<p><strong>adventure</strong><em> –n.</em> an experience that is exciting</p>
+<p><strong>tourist</strong> <em>– n.</em> a person who travels for fun</p>
+<p><strong>horseback</strong><em> – adj.</em> on the back of a horse</p>
+<p><strong>nomad</strong> <em>– n.</em> a member of a people who move from place to place usually seasonally</p>
+<p><strong>breakdancer</strong> <em>– n.</em> a person who breakdances (performs a kind of hip-hop dance)</p>
+<p><strong>gross domestic product (GDP)</strong><em> –n. </em>a measure of the size of a country's economy equal to the value of all the goods and services produced in one year</p>
+<p><strong>substantial</strong> <em>– adj.</em> considerable in quantity, important</p>
+<p><strong>stunning</strong> <em>– adj.</em> impressive especially in beauty or excellence</p>
+<p><strong>scenery</strong> <em>– n.</em> a beautiful view or landscape</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>UN: Violence Is Harming Haiti’s Schools (2024/8/21)</title>
             <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/un-violence-is-harming-haiti-s-schools.mp3"/>
@@ -1659,103 +1769,6 @@ For VOA Learning English, this is Everyday Grammar.</p>
 <p><strong>comic strip </strong>–n. a series of pictures telling, often funny, stories that appears in newspapers or books as a series that continues for a time</p>
 <p><strong>character </strong>–n. a person who appears in stories, plays, movies or TV who is not real</p>
 <p><strong>knock out </strong>–v. to strike a person so that they lose consciousness or cannot continue</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>In Puerto Rico, Well-known Rapper also Works as a Doctor (2024/8/3)</title>
-            <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/in-puerto-rico-well-known-rapper-also-works-as-a-doctor.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/>
-<span class="datetime">02 August, 2024</span><br/>
-<p>A popular rapper in Puerto Rico has kept his job as a doctor to help deal with a shortage of medical workers in the United States territory.</p>
-<p>Many Puerto Ricans know Dr. Pedro Juan Vázquez by his performing name, PJ Sin Suela. But others are now getting to see his medical skills as he often goes <strong>door-to-door</strong> to serve patients.</p>
-<p>The 34-year-old Vázquez recently told The Associated Press (AP) he is still living out his love of music. He also believes he is helping those in need and bringing attention to a health crisis in Puerto Rico.</p>
-<div class="contentImage"><img alt="Dr. Pedro Juan Vázquez, better known by his stage name PJ Sin Suela, attends to a patient in Loiza, Puerto Rico, Saturday, May 25, 2024. (AP Photo/Alejandro Granadillo)" src="https://files.21voa.com/gdb/01000000-0aff-0242-768e-08dcacb0edef_cx0_cy6_cw0_w268_r1.jpg"/><br/>
-<span class="imagecaption">Dr. Pedro Juan Vázquez, better known by his stage name PJ Sin Suela, attends to a patient in Loiza, Puerto Rico, Saturday, May 25, 2024. (AP Photo/Alejandro Granadillo)</span></div>
-<p>The U.S. territory is currently facing power outages as well as a shortage of medical professionals. Many doctors and other workers have gone to the U.S. mainland seeking better pay.</p>
-<p>A 2023 report by Puerto Rican policy group Center for a New Economy found the territory had lost more than 8,600 doctors out of nearly 18,800 in just over 10 years. The problem is expected to get worse in the coming years.</p>
-<p>“We have a huge <strong>exodus</strong> of young people,” Vázquez told the AP. He added, “In Puerto Rico, we have a crisis much bigger than people think.”</p>
-<p>Vázquez said he travels from the capital, San Juan, to rural areas of the island at least once a week. During these trips, he seeks to treat communities struggling from the combined effects of hurricanes, earthquakes and a weak economy.</p>
-<p>When not working as a doctor, Vázquez produces and performs music that brings attention to issues including social inequality, poverty and gun violence.</p>
-<p>In one song, he brings up the territory's problems with violence. “A bullet is flying, lost like a child,” he raps, “the wind <strong>caresses</strong> it, seeks to make news, falling into a skull, without any kind of justice.” The rap song, in English, is called <em>Bullets Cry</em>.</p>
-<p>In another song, called <em>We are More</em>, Vázquez comments on the territory's economic problems. He raps, “The debt has been placed before the worker, the one who goes outside under the rain and the sun, public servers, teachers and nurses."</p>
-<p>Vázquez has left and returned to the island several times. This is common for many Puerto Ricans, who hold U.S. passports. He does not criticize those who have left Puerto Rico for the U.S. mainland. “You can't judge anybody, everybody has their story,” he said. “I'm <strong>blessed</strong> to have two <strong>careers</strong> that I can do and live off of.”</p>
-<p>Vázquez was born in the Bronx area of New York City. But he moved with his family to the town of Ponce, Puerto Rico. Later, he went to Pennsylvania, before returning to Bayamón, Puerto Rico. It was there that Vázquez studied medicine. He became a doctor in 2015.</p>
-<p>He became a household name as a rapper for a younger generation in Latin America in 2018. The single that made Vázquez a star was called <em>What Is Your Plan?</em> He worked with Puerto Rican musician Bad Bunny and reggaeton singer Nejo on the song.</p>
-<p>When the COVID-19 pandemic hit in 2020, he decided to start working in medicine again. Vázquez worked full-time at a hospital in Ponce for a year. Then, as a general doctor, he treated patients of all ages.</p>
-<p>Vázquez noted that some doctors questioned his medical abilities at first, since he had spent years performing as a rapper. But after a short time, he said, “Everybody knew that this wasn't a joke for me, and that I'm really good at what I do.”</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English. </em></p>
-<p><strong>___________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>door-to-door </strong><em>–idiom</em> to go from house to house in a neighborhood</p>
-<p><strong>exodus</strong><em> - n.</em> when a large number of people all leave a place together</p>
-<p><strong>caress </strong><em>– v.</em> to touch or stroke lightly or lovingly</p>
-<p><strong>blessed </strong>-<strong> </strong><em>adj. </em>of or enjoying happiness</p>
-<p><strong>career </strong>–n. the path of a person's work live involving different but usually related jobs or professions</p></div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Spoiled Food and Drink (2024/8/3)</title>
-            <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/spoiled-food-and-drink.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Andrew Smith</span><br/><span class="datetime">02 August, 2024</span><br/>
-<p>Hello! This week on <em>Ask a Teacher</em>, we answer a question from Noura about how to describe food that is no longer safe to eat.</p>
-<p><strong>Question</strong></p>
-<p>Dear Teacher,</p><div class="contentImage"><img src="https://files.21voa.com/gdb/01000000-0aff-0242-e47f-08dcb00fd98c_w268_r1.png"/></div>
-<p>Would you please tell us the words we use to describe spoiled food? Now I use only one or two words for all of food types, such as " rotten" or "spoiled." However, in my native language we use different words for different categories like spoiled vegetables, bread, beverages, [and] meat-dishes. I wonder if it is the same in English too.</p>
-<p><strong>Answer</strong></p>
-<p>Thank you for writing to us, Noura. I'm happy to answer this question.</p>
-<p>Let's begin with the two words you mention, “rotten,” and “spoiled”. We can use both words to talk about food in general. So, we can say either of the following:</p>
-<p><em>That food is rotten.</em></p>
-<p><em>That food is spoiled.</em></p>
-<p>But for some foods, we use “rotten” much more than we use “spoiled.” For example, we can say rotten eggs, rotten tomatoes, rotten apples, rotten vegetables, rotten fruit, and so on. The most common usage of “rotten” is with eggs.</p>
-<p>We use “spoiled” mostly when talking about meat or milk.</p>
-<p>Another general term for spoiled food or drink is the expression “gone bad”.</p>
-<p>Now let's look at some other terms we use with certain foods and drinks.</p>
-<p>“Rancid” describes foods that contain fats that have started to go bad. These typically include nuts, seeds, and oils. Fish, meat, and poultry can also become rancid.</p>
-<p>We use the word “stale” to describe bread that has become hard and difficult to eat. And “wilted” describes lettuce or other greens that are no longer fresh.</p>
-<p>Mold is a kind of very small fungus. It makes food go bad and can be found on fruit, bread and cheese. The adjective we use for mold is “moldy.”</p>
-<p>We use the adjective “sour” or the expression “to go sour” to describe milk or cream that has started to spoil. Note that there is also a food called sour cream, which is safe to eat – and quite tasty!</p>
-<p>As you can see, a meal with rancid, stale, sour, wilted, moldy, rotten and spoiled food is one to avoid!</p>
-<p>For our readers and listeners, do you have a question about American English? Send us an email at <a class="wsw__a" href="21voa.com">21voa.com</a>.</p>
-<p>And that's <em>Ask a Teacher</em>.</p>
-<p>I'm Andrew Smith.</p>
-<p><em>Andrew Smith wrote this lesson for VOA Learning English.</em></p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Study: ‘Super Jupiter’ Planet Takes 100 Years to Orbit Star (2024/8/2)</title>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202408/study-super-jupiter-planet-takes-100-years-to-orbit-star.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/><span class="datetime">01 August, 2024</span><br/>
-<p>Astronomers say they have observed a new <strong>exoplanet</strong> that orbits far away from its star although it is a large and massive planet.</p>
-<p>An international group of researchers said they learned new things about the planet after examining data from the James Webb Space Telescope. The telescope is operated by the American space agency NASA.</p>
-<p>The gas giant, which has been named Epsilon Indi A b, was first <a class="wsw__a" href="https://science.nasa.gov/exoplanet-catalog/epsilon-indi-a-b/">discovered</a> in 2019. It is also known as a “super Jupiter,” meaning it is similar to Jupiter in our own solar system, but more massive.</p><div class="contentImage"><img alt="This illustration provided by the Max Planck Institute for Astronomy in July 2024 depicts a cold gas giant orbiting a red dwarf. (T. M&lt;I&gt;&amp;#&lt;/I&gt;252;ller (MPIA/HdA) via AP)" src="https://files.21voa.com/gdb/01000000-0aff-0242-c0ba-08dcafdbe324_w268_r1.jpg"/><br/><span class="imagecaption">This illustration provided by the Max Planck Institute for Astronomy in July 2024 depicts a cold gas giant orbiting a red dwarf. (T. M<i>&amp;#</i>252;ller (MPIA/HdA) via AP)</span></div>
-<p>Scientists estimate the exoplanet's <strong>diameter</strong> is about the same as Jupiter's, but it is about six times more massive. The team said the planet has an atmosphere rich in hydrogen like Jupiter's.</p>
-<p>Epsilon Indi A b is estimated to be about 12 light-years away from Earth. A light year is the distance light travels in a year – about 9.5 trillion kilometers.</p>
-<p>International researchers led by Germany's Max Planck Institute examined new telescope images of Epsilon Indi A b. They said they learned the massive exoplanet orbits the star Epsilon Indi A, which is part of a three-star system.</p>
-<p>The scientists said one surprising discovery was that the exoplanet seems to take at least 100 years to orbit its star and possibly as many as 250 years. The research shows Epsilon Indi A b orbits its star at a distance equal to 15 times the distance from the Earth to our own sun.</p>
-<p>The researchers said they were able to “directly” observe the gas giant by using a tool on the James Webb to block the light of the planet's main star. The team was then able to identify the exoplanet as a bright spot of infrared light.</p>
-<p>The new findings recently appeared <a class="wsw__a" href="https://www.nature.com/articles/s41586-024-07837-8">in a study</a> in the publication <em>Nature</em>.</p>
-<p>Scientists estimate the planet and star are about 3.5 billion years old. That is 1 billion years younger than our own solar system.</p>
-<p>Elisabeth Matthews is an astrophysicist at the Max Planck Institute for Astronomy. Matthews led the research. She told The Associated Press in an email the exoplanet appears to be older and brighter than had been thought.</p>
-<p>The team noted the planet's star is so bright that it can be seen with the unaided eye from the Southern Hemisphere.</p>
-<p>But Matthews noted that nothing in the newly collected data suggests that Epsilon Indi A b has the right conditions to support life. “This is a gas giant with no hard surface or liquid water oceans," she said.</p>
-<p>Matthews said studying worlds similar to Jupiter can help scientists understand “how these planets <strong>evolve</strong>” over many, many years.</p>
-<p>The first exoplanets outside our solar system were confirmed in the early 1990s. NASA's total count today stands at about 5,690. The majority of these exoplanets were identified through the so-called “<strong>transit</strong>” method. This involves repeatedly observing drops in starlight that might happen when a planet partly blocks light from its star.</p>
-<p>Land- and spaced-based telescopes also search for new data on exoplanets, especially ones that might be similar to Earth.</p>
-<p>NASA launched the James Webb Space Telescope in 2021. It is currently the largest and most powerful astronomical observatory ever placed in space.</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English.</em></p>
-<p><strong>__________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>exoplanet </strong><em>- n.</em> a planet of a star that sits outside the solar system</p>
-<p><strong>diameter </strong><em>– n.</em> the length of a straight line through the center of an object or space</p>
-<p><strong>evolve </strong><em>– v. </em>to develop gradually over time</p>
-<p><strong>transit </strong><em>– v. </em>to pass through or across a place, area of country, on the way to someplace else</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
