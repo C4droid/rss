@@ -65,6 +65,128 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Tech Tip: How to Protect Communications through Encryption (2024/12/19)</title>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202412/tech-tip-how-to-protect-communications-through-encryption.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By John Russell</span><br/><span class="datetime">18 December, 2024</span><br/>
+<p>U.S. cybersecurity officials are advising people to use <strong>encryption</strong> in their communications after a major <strong>hacking</strong> campaign.</p>
+<p>Federal officials released a list of security suggestions for U.S. telecommunications companies that were targeted.</p>
+<p>The advice includes one suggestion that everyone can use: “Ensure that traffic is end-to-end encrypted to the maximum <strong>extent </strong>possible.”</p><div class="contentImage"><img alt="FILE - An attendee at the Microsoft Ignite conference records an address on Nov. 19, 2024, in Chicago. (AP Photo/Charles Rex Arbogast, File)" src="https://files.21voa.com/gdb/5ab9677b-ca52-4218-b328-45e322bc50da_w268_r1.jpg"/><br/><span class="imagecaption">FILE - An attendee at the Microsoft Ignite conference records an address on Nov. 19, 2024, in Chicago. (AP Photo/Charles Rex Arbogast, File)</span></div>
+<p>End-to-end encryption, also known as E2EE, means that messages are protected so that only the sender and receiver can see them. If anyone else gets the message, all they will see is disordered information that cannot be understood without the <strong>key</strong>.</p>
+<p>Law enforcement officials had until now resisted encryption. This resistance is because the encryption means the technology companies themselves will not be able to look at the messages. In addition, the companies will not be able to respond to law enforcement requests to turn the data over.</p>
+<p>The Associated Press (AP) recently offered some ways that normal people can use for end-to-end encryption :</p>
+<p><strong>Texting </strong></p>
+<p>Officials said the hackers targeted the <strong>metadata</strong> of a large number of people. That included information on the dates, times and <strong>recipients </strong>of calls and <strong>texts</strong>. The hackers also got to see the information from texts from a much smaller number of people.</p>
+<p>If you are an iPhone user, information in text messages that you send to someone else who also has an iPhone will be encrypted end-to-end. Look for the blue text bubbles which mean that the messages are encrypted iMessages.</p>
+<p>The same goes for Android users sending texts through Google Messages. There will be a lock next to the timestamp on each message to show that the encryption is on.</p>
+<p>But there is a weakness. When iPhone and Android users text each other, the messages are encrypted only using Rich Communication Services (RCS). That is a common method for messaging that has replaced the older SMS and MMS methods.</p>
+<p>Apple notes that RCS messages “aren't end-to-end encrypted, which means they're not protected from a third party reading them while they're sent between devices.”</p>
+<p>Samsung, which sells Android smartphones, also indirectly described the issue in a small area at the bottom of a press release last month. Samsung said about RCS, “Encryption only available for Android-to-Android communication.”</p>
+<p><strong>Chat apps </strong></p>
+<p>To avoid getting caught out when exchanging texts, experts recommend using encrypted messaging <strong>apps</strong>.</p>
+<p>Privacy supporters are big fans of Signal, which uses end-to-end encryption on all messages and voice calls. Signal is an app that is run by an independent nonprofit group based in Mountainview, California. It promises never to sell customer data. The group has also made its source code publicly available so that it can be examined by anyone “for security and correctness.”</p>
+<p>Signal's encryption method is so respected that it has been included into competitor WhatsApp.</p>
+<p>End-to-end encryption is also the normal mode for Facebook Messenger, which like WhatsApp is owned by Meta Platforms.</p>
+<p><strong>What about Telegram? </strong></p>
+<p>Telegram is an app that can be used for one-on-one discussions, group chats and broadcast “channels.” But Telegram does not use end-to-end encryption normally. Users have to turn on end-to-end encryption. And Telegram's end-to-end encryption does not work with group chats.</p>
+<p>Cybersecurity experts have warned people against using Telegram for private communications.</p>
+<p><strong>Making calls </strong></p>
+<p>Instead of using your phone to make calls through a wireless cellular network, you can make voice calls with Signal and WhatsApp. Both apps encrypt calls with the same technology that they use to encrypt messages.</p>
+<p>There are other choices. If you have an iPhone, you can use Facetime for calls, while Android owners can use the Google Fi service. Both are end-to-end encrypted.</p>
+<p>However, with all these choices, the person on the other end will also have to have the app.</p>
+<p>WhatsApp and Signal users can choose the privacy setting they want in the settings. Such choices include hiding an IP address during calls to prevent your general location from being guessed.</p>
+<p>I'm John Russell.</p>
+<p><em>Kelvin Chan reported on this story for the Associated Press. John Russell adapted it for VOA Learning English. </em></p>
+<p>______________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>encryption</strong><em> – n.</em> changing something (such as data) into a code</p>
+<p><strong>hack </strong><em>– v.</em> to gain illegal access to a computer network, computer system, phone, etc.</p>
+<p><strong>extent</strong> <em>– n.</em> a degree, point, or limit to which something goes to</p>
+<p><strong>key</strong><em> –n.</em> information that permits a computer application to un-encrypt a message permitting the receiver to read it</p>
+<p><strong>metadata</strong> <em>-- n.</em> data that gives information about other data</p>
+<p><strong>recipient</strong> <em>– n.</em> someone who receives something</p>
+<p><strong>text (message)</strong> <em>–n.</em> a short message sent through a computer program from one person to another which can contain a written message, links or pictures</p>
+<p><strong>app (application)<em> </em></strong><em>–n.</em> a computer program that is designed to do one task or several linked tasks</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Winter Work for the Gardeners (2024/12/19)</title>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202412/winter-work-for-the-gardeners.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Mario Ritter, Jr.</span><br/><span class="datetime">18 December, 2024</span><br/>
+<p>For people in parts of the world with seasons — especially cold ones — winter might seem like a time to rest and to take a break from <strong>garden</strong> work.</p>
+<p>But it is not, says Associated Press gardening expert Jessica Damiano.</p>
+<p>Autumn and winter are the best times to attend to your garden's needs and prepare for the next growing season. There is much to do for both outdoor and indoor plants.</p><div class="contentImage"><img alt="This Dec. 5, 2024, image provided by Jessica Damiano shows a thick layer of fallen leaves serving as mulch to protect spring bulbs planted in a Long Island, New York, garden bed. (Jessica Damiano via AP)" src="https://files.21voa.com/gdb/0043f07c-2958-42c0-b929-da9acf869f82_w268_r1.jpg"/><br/><span class="imagecaption">This Dec. 5, 2024, image provided by Jessica Damiano shows a thick layer of fallen leaves serving as mulch to protect spring bulbs planted in a Long Island, New York, garden bed. (Jessica Damiano via AP)</span></div>
+<p><strong>Outdoor care</strong></p>
+<p>For people who want flowers like tulips in the early spring plant the <strong>bulbs</strong> that produce them if your soil is not frozen. If you can still dig, plant tulips, daffodils and other bulbs.</p>
+<p>Cover them with about eight centimeters of <strong>mulch</strong>, leaves or dried grass. This will prevent freezing and melting temperatures from forcing them out of the ground over the winter.</p>
+<p>During winter months, even in more temperate areas, some plants need protection from the cold. These include some fruit trees, like citrus, dahlias and many plants that <strong>bloom</strong> in the spring. In winter conditions, a cloth cover called burlap can help limit the damaging effects of wind.</p>
+<p>If snow builds up on the branches of evergreen trees and shrubs, remove it. The heavy weight can damage branches.</p>
+<p>Keep a record of plants you mean to move from one place to another in your garden. The notes will guide you in early spring: a time that is best to move plants that bloom early in the season.</p>
+<p>if you have extra seeds, consider trading them with gardening friends or at a gardening event. Store and organize seeds for the future in glass containers in cool places without light. Make sure to write down what they are and when they were collected.</p>
+<p>If insects or diseases were a problem during the growing season, use winter months to read about <strong>companion</strong> plants that can ease the problem in the coming year.</p>
+<p><strong>Indoor care</strong></p>
+<p>The cold winter months also affect houseplants. Bring houseplants near a south-facing or west-facing window to get the most sunlight possible. Turn the houseplants about one fourth of a turn each time you water them. This will support more even growth.</p>
+<p>If you are buying poinsettias for the holidays, be sure to examine them for whiteflies before bringing them home. If you do not, you could bring home insects.</p>
+<p>If you plant Amaryllis bulbs indoors now, they will bloom during the coldest months of the winter. Plant them with their pointed ends reaching out of the potting soil and place them in a warm, sunny spot, watering them well.</p>
+<p>After they bloom, keep them in a cooler place to extend the life of their flowers but keep them away from children and pets. Amaryllis bulbs are poisonous to eat.</p>
+<p><strong>Remember the birds</strong></p>
+<p>Damiano also advises to remember that non-migrating birds need food because most of their food sources are gone during the winter months. High quality birdseed and water can help.</p>
+<p>These same birds will repay the effort by feeding on thousands of insects that threaten your garden during the warm growing season.</p>
+<p>I'm Caty Weaver.</p>
+<p><em>Jessica Damiano reported this story for the Associated Press. Mario Ritter, Jr. adapted it for VOA Learning English. </em></p>
+<p>_______________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>garden</strong><strong> </strong>–n. an area where trees and plants grow in a way designed by a gardener to produce flowers and small crops for food</p>
+<p><strong>bulb</strong> <em>–n. </em>a round piece of plant tissue that becomes a flowing plant when grown in the ground</p>
+<p><strong>bloom</strong> <em>–n. </em>the flowering state</p>
+<p><strong>mulch</strong> <em>–n.</em> broken down plant material such as leaves and bark that is put on the ground to enrich the soil and protect existing plants</p>
+<p><strong>delicate</strong><strong> </strong>–adj. very fine and sensitive to difficult conditions</p>
+<p><strong>companion</strong><strong> </strong>–n. someone or something that goes well with another</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Youth Church Orchestra Aims to Help Musicians of Color (2024/12/19)</title>
+            <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202412/youth-church-orchestra-aims-to-help-musicians-of-color.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Andrew Smith</span><br/><span class="datetime">18 December, 2024</span><br/>
+<p>For more than two years, Ebonie Vazquez searched to find a music teacher of color for her son, Giovanni. He is 11 years old and loves to play the violin. Now, she has found that teacher at New Hope Presbyterian Church, a Christian religious center, near Los Angeles, California.</p>
+<p>Chineta Goodjoin, a Black <strong>pastor, </strong>leads New Hope. She started a string orchestra at the church in April to help children of color have a better chance to learn classical music.</p>
+<p>Goodjoin and the orchestra's leaders think it is important for the music teachers to look like their students and share similar life experiences. That is why the orchestra's director, Charles Dickerson and all its music teachers are people of color.</p><div class="contentImage"><img alt="Giovanni Vazquez plays the violin during a string orchestra rehearsal at New Hope Presbyterian Church on Wednesday, Oct. 16, 2024, in Anaheim, California. (AP Photo/William Liang)" src="https://files.21voa.com/gdb/dcb9f483-89e9-4534-b7ba-c39840f9051d_cx13_cy0_cw83_w268_r1.jpg"/><br/><span class="imagecaption">Giovanni Vazquez plays the violin during a string orchestra rehearsal at New Hope Presbyterian Church on Wednesday, Oct. 16, 2024, in Anaheim, California. (AP Photo/William Liang)</span></div>
+<p>Dickerson is also the director of the Inner City Youth Orchestra of Los Angeles, which he founded in 2009. After Goodjoin's daughter Nyla began playing in that orchestra, Goodjoin decided to build a similar group at her church.</p>
+<p>The church's orchestra now has about 18 members, aged nine to 20. They play the violin, viola, bass and cello. The orchestra accepts all students who want to join.</p>
+<p>Ebonie Vazquez says having teachers of color has helped the orchestra members feel like they fit in well.</p>
+<p>“It's important they don't feel like <strong>outsiders</strong>, but are supported and feel like they belong,” she said. “It has definitely helped my son connect more to the music and the <strong>craft</strong>.”</p>
+<p>Her son Giovanni said that in the church orchestra, he could play classical music or popular modern music. He values being part of the church orchestra because “it's a piece of our community.”</p>
+<p>“They <strong>encourage</strong> young musicians of color and everyone gets a chance to play and maybe use it as <strong>a stepping stone</strong> to get better or even turn this into a career,” he said.</p>
+<p>Elizabeth Moulthrop is executive director of El Sistema, an international network of music education programs that was founded in Venezuela.</p>
+<p>She said programs like the church orchestra can help students go to life-changing summer music camps, receive college scholarships, and find connections to jobs.</p>
+<p>Goodjoin said she and her husband, Reggie Goodjoin, see a future for the orchestra where “African American kids play classical music and play it well.” Reggie Goodjoin is a jazz musician and the church's music director.</p>
+<p>The group plays a mix of both classical and popular music. “I like to say they play everything from Bach to Beyonce,” added Goodjoin. They also learn music by famous African American jazz composers such as Count Basie and Duke Ellington.</p>
+<p>Goodjoin said she believes the church is a great place to start talking about fairness<strong> </strong>in music. “Music is freedom,” Goodjoin added.</p>
+<p>The pastor is already getting praise from parents. One boy who plays the upright bass was about to quit playing because no one in his school orchestra looked like him.</p>
+<p>“His mom said that when he came here, the pressure to play and compete was taken off and that it's a <strong>delight</strong> to now watch her son light up feeling a sense of worthiness,” she said.</p>
+<p>Dickerson said he started the Los Angeles orchestra when a group of students told him they wanted to play closer to where they live.</p>
+<p>“They would have to drive long distances to be in these orchestras where they didn't know the other kids,” he said. “The young kids from our communities were always put in the back row and the back row was right next to the door.”</p>
+<p>“It's easy to walk out that door,” he added, “when you don't really feel accepted and when you know you're probably not as skilled as the others.” He added that those other students usually had more music lessons and started playing at a younger age.</p>
+<p>Dickerson said the Black Church has at times been the only place the African American community could organize services they needed, such as banks and newspapers.</p>
+<p>“If we can come together in the church and create a symphonic orchestra, all I can say is all praise to God,” he added.</p>
+<p>I'm Andrew Smith. And I'm Anna Matteo.</p>
+<p><em>Deepa Bharath wrote this story for The Associated Press. Andrew Smith adapted it for VOA Learning English. </em></p>
+<p><em>_________________________________________________</em></p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>pastor </strong><em>-n. </em>a leader of a church</p>
+<p><strong>outsider </strong><em>-n. </em>a person who does not belong to a particular group</p>
+<p><strong>craft </strong><em>-n. </em>an activity that involves doing something skillfully</p>
+<p><strong>encourage</strong><em> -v. </em>to help people want to do things</p>
+<p><strong>a stepping stone </strong><em>-noun phrase -- </em>an experience that can help you make progress, especially in your career</p>
+<p><strong>delight </strong><em>-n. </em>something that brings happiness</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>Geothermal Development Faces Barriers in Southeast Asia (2024/12/18)</title>
             <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202412/geothermal-development-faces-barriers-in-southeast-asia.mp3"/>
@@ -1857,113 +1979,6 @@ The laugh made the hair on my head stand up. Then Fortunato spoke, in a sad voic
 <p><strong>palace</strong> - <em>n</em>. a very large and impressive house</p>
 <p><strong>cellar</strong> - <em>n</em>. the part of a building that is entirely or partly below the ground</p>
 <p><strong>insult</strong> - <em>v</em>. to do or say something that is o<i></i>64256;ensive to (someone) : to do or say something that shows a lack of respect for (someone) (“She felt they had insulted her by repeatedly ignoring her</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>It and That (2024/11/30)</title>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202411/it-and-that.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Andrew Smith</span><br/><span class="datetime">29 November, 2024</span><br/>
-<p>Hello! This week on <em>Ask a Teacher</em>, we answer a question from Masa in Japan about the usage of the words “it” and “that” in English conversation.</p>
-<p><strong>Question`</strong></p>
-<p>Dear teacher,</p><div class="contentImage"><img src="https://files.21voa.com/gdb/dc0486e7-42af-4c21-88f3-fc823a8869f0_w268_r1.jpg"/></div>
-<p>I'd like to ask about [the choice of] pronouns, either "it" or "that,” in my English conversation. Sometimes, I'm confused about [choosing] these words.<br/>
-Thank you,</p>
-<p>Masa</p>
-<p><strong>Answer</strong></p>
-<p>I'm happy to answer this question, Masa.</p>
-<p>We usually use the word “it” to describe a general state of our environment or a situation. And we often use the word “that” to answer something specific that someone said.</p>
-<p>Let's consider the word “it” first. To describe a state means to describe what the environment or situation is like. The word “it” gives us a quick way of doing this. And we typically contract the word “it” with the verb “is” and say “It's”. So instead of saying:</p>
-<p><em>The weather is very cold in Siberia in the winter. </em></p>
-<p>We can simply say:</p>
-<p><em><u>It's</u></em><em> very cold in Siberia in the winter. </em></p>
-<p>Similarly, we can say:</p>
-<p><em><u>It's</u> noisy here.</em></p>
-<p><em><u>It's</u> crowded right now on the train.</em></p>
-<p>We can also use the word “it” to describe what it is like to do something in general. Consider these examples:</p>
-<p><em><u>It's</u> difficult to find a good hotel in that city. </em></p>
-<p><em><u>It's</u> normal to feel nervous before giving a speech.</em></p>
-<p>Now, let's consider the word “that.” Instead of describing the state of an environment, each of the following examples shows a person responding to a specific statement.</p>
-<p>A: <em>I'm surprised you disagree with her.</em></p>
-<p>B: <em>No, no,</em> <em><u>that</u> is not what I mean. I agree with what she said. </em></p>
-<p> </p>
-<p><em>A: Is <u>that</u> your explanation?</em></p>
-<p><em>B: <u>That</u> is the best answer I can give you.</em></p>
-<p> </p>
-<p><em>A: Did Diane say she was leaving her job? </em></p>
-<p><em>B: <u>That</u> is what I heard. </em></p>
-<p>So, in general, when you answer to someone in conversation, you can use the word “that.”</p>
-<p>However, there are times when we use the word “it” to answer something specific. For example, if someone asks you if you enjoy an activity, you can reply:</p>
-<p><em>Yes, <u>it's</u> great. I love <u>it</u>. </em></p>
-<p>There are many more uses of the word “that.” You can read and listen to a previous <em>Ask a Teacher </em>program: <a class="wsw__a" href="https://www.21voa.com/a/this-and-that/7328363.html"><em>This and That</em></a><em>.</em></p>
-<p>For our readers and listeners, what are your questions about American English? We'd like to hear from you. Send us an email at <a class="wsw__a" href="21voa.com">21voa.com</a>. And please include where you are from in your email, too.</p>
-<p>And that's <em>Ask a Teacher</em>.</p>
-<p>I'm Andrew Smith.</p>
-<p><em>Andrew Smith wrote this lesson for VOA Learning English.</em></p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Astronomers Study Newly Discovered Fast-forming Exoplanet (2024/11/29)</title>
-            <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202411/astronomers-study-newly-discovered-fast-forming-exoplanet.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Caty Weaver</span><br/><span class="datetime">28 November, 2024</span><br/>
-<p>Astronomers have observed a newborn planet that formed in three million years, a relatively brief time. They say the discovery<strong> </strong>leads to questions about the current understanding of the speed of planetary formation.</p>
-<p>Space scientists estimate the planet to be around 10 to 20 times the mass of Earth. It is an exoplanet, meaning a planet outside our solar system. It is one of the youngest exoplanets ever discovered. It exists among dense gas and dust orbiting a young star. The orbiting matter is called a protoplanetary disk. It provides the materials necessary for planet formation.</p>
-<p>The star it orbits is not as hot and is about half as bright as our sun. The star's mass is about 70 percent that of the sun. It is in our Milky Way galaxy, about 520 light-years from Earth. A light-year is the distance light travels in a year, 9.5 trillion kilometers.</p><div class="contentImage"><img alt="Artist's concept of a young, newly discovered planet, exposed to observation by a warped debris disk. Photo by NASA/JPL-Caltech/R. Hurt, K. Miller (Caltech/IPAC)
-" src="https://files.21voa.com/gdb/535a22b8-ad2a-4c90-a66f-51a06576c157_cx0_cy54_cw0_w268_r1.jpg"/><br/><span class="imagecaption">Artist's concept of a young, newly discovered planet, exposed to observation by a warped debris disk. Photo by NASA/JPL-Caltech/R. Hurt, K. Miller (Caltech/IPAC)
-</span></div>
-<p>"This discovery confirms that planets can be in a <strong>cohesive</strong> form within 3 million years, which was <strong>previously</strong> unclear as Earth took 10 to 20 million years to form," said Madyson Barber, a research student at the University of North Carolina at Chapel Hill (UNC). Barber is the lead writer of the study published recently in <em>Nature </em>magazine.</p>
-<p>"We don't really know how long it takes for planets to form," UNC professor and study co-writer Andrew Mann added. "We know that <strong>giant</strong> planets must form faster than their disk<strong> dissipates</strong> because they need a lot of gas from the disk. But disks take 5 to 10 million years to dissipate. So do planets form in one million years? Five? Ten?"</p>
-<p>The planet orbits its star every 8.8 days. Its mass is in between that of Earth, the largest of our solar system's rocky planets, and Neptune, the smallest of the gas planets. It is less dense than Earth and has a <strong>diameter</strong> about 11 times greater. Its chemical makeup is not known.</p>
-<p>The researchers suspect that the planet formed further away from its star and then moved closer.</p>
-<p>"Forming large planets close to the star is difficult because the protoplanetary disk dissipates away from closest to the star the fastest, meaning there's not enough material to form a large planet that close that quickly," Barber said.</p>
-<p>The researchers found the planet using the so-called "transit" method: observation of a drop in the star's brightness, from the <strong>perspective</strong> of an observer on Earth, when the planet passes in front of it. NASA's Transiting Exoplanet Survey Satellite, or TESS, space telescope discovered the exoplanet.</p>
-<p>"This is the youngest-known transiting planet. It is on par with the youngest planets known," Barber said.</p>
-<p>Stars and planets form from clouds of interstellar gas and dust.</p>
-<p>"To form a star-planet system, the cloud of gas and dust will collapse and<strong> spin </strong>into a flat environment, with the star at the center and the disk surrounding it. Planets will form in that disk. The disk will then dissipate” starting from the star side, Barber said.</p>
-<p>"It was previously thought that we wouldn't be able to find a transiting planet this young because the disk would be in the way. But for some reason that we aren't sure of, the outer disk is <strong>warped</strong>, leaving a perfect window to the star," Barber added.</p>
-<p>I'm Caty Weaver.</p>
-<p><em>Reuters news agency reported this story. Caty Weaver adapted it for VOA Learning English.</em></p>
-<p><strong>_____________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>cohesive </strong><em>– n.</em> exhibiting or producing the act or state of sticking together tightly</p>
-<p><strong>previously </strong><em>– adv</em>. before; in the past</p>
-<p><strong>giant </strong><em>– n</em>.<strong> </strong>huge</p>
-<p><strong>dissipate </strong><em>– n. </em>to break up and scatter or vanish</p>
-<p><strong>diameter </strong><em>– adj.</em> the length of a straight line through the center of an object or space</p>
-<p><strong>spin </strong><em>– v. </em>to turn in a circular motion</p>
-<p><strong>warp </strong>- to be turned or twisted out of, or as if out of, shape</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>‘Mini Moon’ Object Moves Away from Earth’s Orbit (2024/11/29)</title>
-            <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202411/mini-moon-object-moves-away-from-earth-s-orbit.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/><span class="datetime">28 November, 2024</span><br/>
-<p>An <strong>asteroid</strong> that moved closer to Earth's orbit in recent months is now moving away from our planet as gravity pulls it back toward the sun.</p>
-<p>The asteroid is small – about 10 meters long – and never presented any threat to Earth. But the object, known as 2024 PT5, was recently pulled closer to our planet by Earth's gravitational forces.</p>
-<p>Scientists sometimes call such objects “mini-moons.” This is because they behave similarly to the permanent moon orbiting Earth when they are captured by gravity. But they are much smaller and stay only temporarily in Earth's orbit.</p><div class="contentImage"><img alt="FILE - A supermoon with a partial lunar eclipse rises over Lake Michigan in Chicago, Sept. 17, 2024. (AP Photo/Kiichiro Sato, File)" src="https://files.21voa.com/gdb/cc2e8c42-9edf-4bbd-bcf3-79dfd7cf9d2e_cx0_cy8_cw0_w268_r1.jpg"/><br/><span class="imagecaption">FILE - A supermoon with a partial lunar eclipse rises over Lake Michigan in Chicago, Sept. 17, 2024. (AP Photo/Kiichiro Sato, File)</span></div>
-<p>The American space agency NASA <a class="wsw__a" href="https://blogs.nasa.gov/planetarydefense/2024/10/02/nasa-to-track-asteroid-2024-pt5-on-next-close-pass-january-2025/">said</a> it does not consider 2024 PT5 a mini-moon because it was never expected to be fully captured by Earth's gravity. But NASA has described the small asteroid as “an interesting object” that is worthy of study. Such asteroids are considered near-Earth objects.</p>
-<p>The space agency <a class="wsw__a" href="https://blogs.nasa.gov/planetarydefense/2024/10/02/nasa-to-track-asteroid-2024-pt5-on-next-close-pass-january-2025/">noted</a> that similarities between the asteroid's motion and that of Earth suggest the object could be a large piece of rock that broke off from the moon's surface after an asteroid strike in the distant past.</p>
-<p>The object was first observed on August 7 by two astronomer brothers from Spain's Complutense University of Madrid – Carlos de la Fuente Marcos and Raúl de la Fuente Marcos. They identified the asteroid through observations made by a telescope in South Africa.</p>
-<p>The Spanish astronomers said it appeared 2024 PT5 is part of a group of near-Earth objects within the Arjuna asteroid belt. They wrote that asteroids in this belt are believed to be “surrounding the path followed by the Earth-moon system.”</p>
-<p>The Associated Press reported the astronomers had used telescopes in the Spanish Canary Islands, off the coast of northwestern Africa, to make hundreds of observations. The object is currently more than 3.5 million kilometers from Earth. Only powerful telescopes can see the asteroid because of its small size and low brightness.</p>
-<p>The astronomers say 2024 PT5 should head back to Earth in the coming weeks. It is expected to pass as close as 1.8 million kilometers from Earth in January. The moon stays at a distance of about 384,000 kilometers from our planet, NASA <a class="wsw__a" href="https://science.nasa.gov/moon/facts/">explains</a>.</p>
-<p>The asteroid will then move farther into the solar system while orbiting the sun. Scientists say the next time the object is expected to make another close move toward Earth is in 2055.</p>
-<p>Raul de la Fuente Marcos told the AP that 2024 PT5 was first identified in August and began its move toward Earth in late September. He said the object's path was similar to the shape of a horseshoe.</p>
-<p>De la Fuente Marcos noted that by the time the asteroid returns in January, it will be moving at more than double the speed from September. Current data suggests that during its 2055 visit, it will again make a temporary and partial circle around Earth.</p>
-<p>NASA said teams at its Center for Near Earth Object Studies had continually followed the movements of 2024 PT5. It is normal for NASA and its international partners to continuously search the skies for near-Earth objects. Such objects include asteroids and <strong>comets</strong> that come within 50 million kilometers of Earth's orbit.</p>
-<p>The search system, called ATLAS, involves four different telescopes. Two of them are based in Hawaii. Another operates in Chile and the other sits in South Africa. NASA explains that ATLAS is designed to search the whole sky several times each night looking for moving objects.</p>
-<p>The space agency <a class="wsw__a" href="https://blogs.nasa.gov/planetarydefense/2024/10/02/nasa-to-track-asteroid-2024-pt5-on-next-close-pass-january-2025/">says</a> it will use its large Goldstone Solar System Radar observer – which sits in Barstow, California – to follow 2024 PT5 when it again is pulled toward Earth's orbit in 2025.</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English. </em></p>
-<p><strong>__________________________________________</strong></p>
-<h2 class="wsw__h2">Words in This Story</h2>
-<p><strong>asteroid </strong><em>– n.</em> a rocky object that goes around the sun like a planet</p>
-<p><strong>comet </strong><em>– n.</em> an object in space that leaves a bright line behind it in the sky</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
