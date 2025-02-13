@@ -65,6 +65,121 @@ American Mosaic（美国万花筒） American Mosaic是一个radio magazine（�
 American Stories（美国故事） 这一专题材节目安排在每星期六晚上播出。这样能使听众在学习和工作之余，得以轻松一下头脑。我们可以通过这一美国文学的“窗口”，接触各种流派、各类名家的文学作品。了解美国英语的时代特色，欣赏、学习美国人民运用语方的技巧，并从那些佳作名篇中获得艺术享受。该节目对短篇故事采取一次播一篇的方式，对中、长篇小说则先进行简写加工，再分几次播出全文。在播出故事正文之前，播音员常常先介绍故事的主要情节。对需要分几次节目时间播出的中长篇，在播第二或以后各部分之前，主持人还先重述已播部分的故事梗概，以唤起听众的回忆，使故事听起来更加连贯。</description>
         <itunes:explicit>no</itunes:explicit>
           <item>
+            <title>Important Terms and Ideas for Describing Artificial Intelligence  (2025/2/13)</title>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202502/important-terms-and-ideas-involved-in-describing-artificial-intelligence.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By John Russell</span><br/><span class="datetime">12 February, 2025</span><br/>
+<p>There are several terms experts use to describe computer systems in the field of artificial intelligence.</p>
+<p>Recently, the French News Agency (AFP) defined some of the common terms and ideas used in that field.</p>
+<p>Here is a version for English learners:</p><div class="contentImage"><img act="" ai="" alt="FILE - A copy of " artificial="" at="" big="" britain="" data="" display="" during="" european="" expo="" february="" in="" infantes="" intelligence="" isabel="" london="" olympia="" on="" reuters="" src="https://files.21voa.com/gdb/aeda1905-020d-4606-b3e9-ae4b0ccd1d81_w268_r1.jpg" the="" union=""/><br/><span class="imagecaption">FILE - A copy of "The European Union Artificial Intelligence (AI) Act" on display during the AI &amp; Big Data Expo 2025 at the Olympia, in London, Britain, February 5, 2025. REUTERS/Isabel Infantes</span></div>
+<p><strong>Artificial intelligence </strong></p>
+<p>The first term is “artificial intelligence.”</p>
+<p>When asked what artificial intelligence is, the AI-powered ChatGPT system says that the term means “the<strong> simulation</strong> of human intelligence in machines that are programmed to think, learn and make decisions".</p>
+<p>AI's main quality or characteristic is taking in large amounts of data and then processing it using methods from <strong>statistics</strong>.</p>
+<p>AI involves using ideas from many fields including computing, mathematics, languages, psychology, and others.</p>
+<p>Currently, the technology is being used heavily for investigating health issues, translating human languages, and predicting problems in machine tools and self-driving cars. But AI is affecting many fields of business and industry.</p>
+<p><strong>Algorithm </strong></p>
+<p>A second important term is “algorithm.”</p>
+<p>An algorithm is important to all computer operations. It is a series of steps or instructions followed by a computer program to get a result.</p>
+<p>Algorithms can give rules for an AI's behavior, helping it to realize the objectives of computer program developers.</p>
+<p>Unlike a simple computer program, AI algorithms permit a computer system to “learn” for itself.</p>
+<p><strong>Machine learning </strong></p>
+<p>A third important term is “machine learning.”</p>
+<p>Machine learning is one method that researchers have used in their efforts to produce artificial intelligence.</p>
+<p>Machine learning lets computers learn from data without being directly programmed on what results to produce.</p>
+<p>In recent years, the field of <strong>neural</strong> networks has given important results.</p>
+<p>In a neural network, connections between some <strong>nodes </strong>are strengthened and others weakened as the system learns and makes changes.</p>
+<p>Learning can be "supervised." This means the system learns to put new data into specific groups based on a model. For example, the system could learn to identify <strong>spam</strong> in an email or other messaging programs.</p>
+<p>"Unsupervised" learning permits the system to independently discover new areas or ways of doing things. These discoveries in the available data might not have been immediately clear.</p>
+<p>An example would be letting an online store identify buying<strong> trends </strong>in sales data.</p>
+<p>"Reinforcement" learning adds a process of repeated trial-and-error. In this process, the system is rewarded based on its outcomes, causing it to learn and improve.</p>
+<p>One example might be a self-driving vehicle whose objective is to reach its destination as quickly as possible but also safely. That requirement would lead it to learn to stop at red lights although it requires additional time.</p>
+<p><strong>Deep learning </strong></p>
+<p>Deep learning owes its name to its use of many layers of neural networks.</p>
+<p>Raw data is examined by each layer in turn at growing levels of <strong>abstraction</strong>.</p>
+<p>Geoffrey Hinton received the 2024 Nobel Prize in Physics. Hinton is credited with developing deep learning. Hinton received the prize along with 1980s neural-network developer John Hopfield.</p>
+<p>Francis Bach, head of France's SIERRA statistical learning laboratory, said this about deep learning: "The more layers you have, the more complex behavior can become, and the more complex the behavior can be, the easier it is to learn a desired behavior <strong>efficiently</strong>."</p>
+<p>The method might help lead to scientific discoveries.</p>
+<p><strong>Language models </strong></p>
+<p>We now turn to large language models (LLMs).</p>
+<p>These might be the most popular example of generative AI. Large language models power tools like OpenAI's ChatGPT or Google's Gemini.</p>
+<p>Such systems are able to write long papers, answer legal questions or even produce a cake recipe based on their statistical models.</p>
+<p>But the technology is still new. LLM's can suffer from "hallucinations"- the creation of content that is false or incorrect.</p>
+<p><strong>Artificial general intelligence </strong></p>
+<p>A final important term is artificial general intelligence (AGI) - one the big goals of the whole AI field.</p>
+<p>AGI suggests the unrealized dream of a machine able to reproduce all human processes of human thinking.</p>
+<p>People who push the idea include OpenAI chief Sam Altman and his competitors at Anthropic. They consider such a system to be within reach.</p>
+<p>The goal is to use large amounts of data and processing power to train LLMs that are increasingly powerful.</p>
+<p>But critics say that LLM technology has important limits, including its ability to reason.</p>
+<p>Maxime Amblard, computing professor at France's University of Lorraine, told AFP last year, "LLMs do not work like human beings."</p>
+<p>Amblard added that humans, as flesh-and-blood -intelligent beings, are "sense-making machines" with different abilities from today's computer systems.</p>
+<p>I'm Anna Matteo. And I'm John Russell.</p>
+<p><em>Pierre Celerier reported on this story for Agence France-Presse. John Russell adapted it for VOA Learning </em></p>
+<p>_____________________________________________________</p>
+<h2 class="wsw__h2">Words in This Story</h2>
+<p><strong>simulation</strong> <em>– n. </em>the representation of the functioning of one system or process by means of the functioning of another system</p>
+<p><strong>statistics</strong> <em>–n. pl. (science)</em> the field of processing numerical information to describe processes and things</p>
+<p><strong>neural </strong><em>–adj.</em> related to the brain or nerves</p>
+<p><strong>node </strong><em>– n. </em>a point at which smaller parts begin or center</p>
+<p><strong>spam<em> </em></strong><em>– n.</em> unsolicited messages (such as an email) that often have a commercial purpose</p>
+<p><strong>trend </strong><em>– n.</em> a line or direction of movement or change</p>
+<p><strong>abstraction </strong>–<em>n.</em> the formation of ideas</p>
+<p><strong>efficiently </strong><em>– adv.</em> with success, competence, or a suitable effect</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>Cambodia Warns of ‘Aggressive’ Monkeys around Angkor Wat  (2025/2/13)</title>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202502/cambodia-warns-of-aggressive-monkeys-around-angkor-wat.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/><span class="datetime">12 February, 2025</span><br/>
+<p>Cambodian officials are warning visitors to the nation's famous Angkor Wat complex of buildings to stay away from wild m<i><i>onkey</i></i>s. They say the animals have become aggressive and destructive.</p>
+<p>The officials blamed the behavior of the macaque m<i><i>onkey</i></i>s on visitors to the area who feed the animals or interact with them.</p>
+<p>Social media influencers – many of them on YouTube – use video of the m<i><i>onkey</i></i>s to grow their online followings, the officials added.</p><div class="contentImage"><img alt="YouTuber Phut Phu takes videos of m&lt;I&gt;&lt;I&gt;onkey&lt;/I&gt;&lt;/I&gt;s near the Bayon temple of an Angkor Wat temple complex in Siem Reap province, Cambodia, Tuesday, April 2, 2024. (AP Photo/Heng Sinith)" src="https://files.21voa.com/gdb/7e6de401-8042-465a-92c3-df1fce4c62c7_w268_r1.jpg"/><br/><span class="imagecaption">YouTuber Phut Phu takes videos of m<i><i>onkey</i></i>s near the Bayon temple of an Angkor Wat temple complex in Siem Reap province, Cambodia, Tuesday, April 2, 2024. (AP Photo/Heng Sinith)</span></div>
+<p>The macaques are native to forest areas surrounding Angkor Wat, a UNESCO World Heritage Site in northwestern Cambodia. The m<i><i>onkey</i></i>s have become more destructive of property around the popular <strong>tourist</strong> area.</p>
+<p>Officials watching the animals told the French News Agency, AFP, that too much human interaction – especially by people filming material to publish online – had changed the m<i><i>onkey</i></i>s' behavior.</p>
+<p>The agency that operates Angkor Wat is the APSARA National Authority. It said in a statement that a small number of YouTubers repeatedly feed the m<i><i>onkey</i></i>s to create videos. This "changed the m<i><i>onkey</i></i>s' natural behavior from being wild animals to <strong>domestic</strong> ones that are aggressive, steal food, and cause injuries among people."</p>
+<p>Agency spokesman Long Kosal told AFP that officials also worry about the m<i><i>onkey</i></i>s causing damage to stonework that dates back centuries. "On top of biting visitors, they have been climbing up and pushing stones down, damaging temples," he said. Some macaques had also damaged information signs.</p>
+<p>Local officials have urged tourists to leave the m<i><i>onkey</i></i>s alone while visiting Angkor Wat. They added that they are currently looking for "an <strong>appropriate</strong> solution" to solve the problem.</p>
+<p>Angkor Wat was the capital of the Khmer Empire. Building work began on the complex about 900 years ago. It remains Cambodia's top tourist site and earns a lot of money for the developing nation. More than one million foreign tourists visited the area last year.</p>
+<p>Since becoming a world heritage site in 1992, Angkor Wat and the surrounding forest have received increased legal protection and security.</p>
+<p>Officials have expressed hope that wildlife sightings around Angkor Wat will increase visitor interest and support <strong>conservation</strong> education efforts.</p>
+<p>Last year, Cambodian officials announced a plan to carry out a <strong>census</strong> of m<i><i>onkey</i></i>s in public areas to identify and take away those presenting a danger to humans.</p>
+<p>I'm Bryan Lynn.</p>
+<p><em>Agence France-Presse reported this story. Bryan Lynn adapted the report for VOA Learning English.</em></p>
+<p><strong>_____________________________________________</strong>________</p>
+<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
+<p><strong>tourist </strong><em>– n. </em>someone who visits a place for pleasure and does not live there</p>
+<p><strong>domestic</strong><strong> </strong><em>– adj.</em> inside one country and not international</p>
+<p><strong>appropriate </strong><em>– adj. </em>suitable or right for a particular situation</p>
+<p><strong>conservation </strong><em>– n. </em>an organized effort that aims to protect animals and natural resources</p>
+<p><strong>census</strong><strong> </strong><em>– n. </em>an effort to officially count the number of people living in a certain area</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
+            <title>George Washington – the First President  (2025/2/13)</title>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202502/george-washington-first-president.mp3"/>
+            <content:encoded><![CDATA[<div class="content"><span class="byline">By Jill Robbins</span><br/><span class="datetime">12 February, 2025</span><br/>
+<p>George Washington was the first president of the United States. He served from 1789 to 1797. He was a famous general who led the American colonists to freedom from British rule and he <strong>presided</strong> over the convention that created the U.S. Constitution.</p>
+<p>He wanted to retire from public service and return home. But the country's founders wanted him to move to New York and serve as the American president. Washington accepted the job as his duty.</p>
+<p>Washington was sworn in as president in 1789. He had to invent the job of being president for all future presidents. He established a group of advisors — called the cabinet—as well as the nation's official money. He appointed a six-member Supreme Court. And he created the Department of Foreign Affairs, now called the State Department. He hoped to act in such a way that future presidents could continue to build on what he began.</p><div class="contentImage"><img alt="Martha and George Washington with their grandchildren. Courtesy George Washington's Mount Vernon." src="https://files.21voa.com/gdb/900EEF71-D49B-418C-A213-4BA10138FAF7_w268_r1.jpg"/><br/><span class="imagecaption">Martha and George Washington with their grandchildren. Courtesy George Washington's Mount Vernon.</span></div>
+<p>From the beginning, George Washington was careful to establish a good working relationship with Congress. By his actions, he confirmed the separation of powers of the three <strong>branches</strong> of the government, as described in the Constitution.</p>
+<p>Historian Joseph Ellis says one of the best things about George Washington was his ability to give up power. At the end of the Revolutionary War, General Washington returned his sword. And at the end of his second term, President Washington simply returned home.</p>
+<p>Like many plantation owners, Washington was a slave holder. By the end of his life, Washington opposed slavery. He left a <strong>will</strong> ordering his survivors to free his slaves after his wife's death.</p>
+<p>Three years after he finished his second term as president, Washington fell ill. On December 14, 1799, he died in his bed, surrounded by his wife, enslaved maids, and friends. He was 67.</p>
+<p>I'm Jill Robbins.</p>
+<p><em>Kelly Jean Kelly and Steve Ember reported this story for VOA Learning English. Jill Robbins adapted it for Learning English. </em></p>
+<p>______________________________________________</p>
+<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
+<p><strong>preside</strong><strong> </strong>– <em>v</em>. to formally oversee a meeting or office</p>
+<p><strong>branch</strong> <em>–n.</em> a major part of a government with powers and responsibilities that are different from other parts</p>
+<p><strong>will </strong>– <em>n</em>. a legal document in which a person states who should receive his or her possessions after he or she dies</p>
+</div>]]></content:encoded>
+            <itunes:explicit>no</itunes:explicit>
+          </item>
+          <item>
             <title>American Inventions: The Television  (2025/2/12)</title>
             <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
             <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202502/american-inventions-the-television.mp3"/>
@@ -1751,114 +1866,6 @@ Sherlock Holmes is an imaginary private detective created by British writer Arth
 <p><strong>biodiversity </strong>– <em>n.</em> biological variety in an environment as indicated by numbers of different species of plants and animals <strong>conservation</strong> – <em>n.</em> planned management of a natural resource to prevent exploitation, destruction, or neglect</p>
 <p><strong>allow </strong>– <em>v. </em>to permit; to let</p>
 <p><strong>megawatt </strong>– <em>n.</em> one million watts</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>No Soil Needed to Grow Air Plants at Home  (2025/1/21)</title>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202501/no-soil-needed-to-grow-air-plants-at-home.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Bryan Lynn</span><br/><span class="datetime">20 January, 2025</span><br/>
-<p>If you are looking for houseplants that do not take up a lot of space and are easy to grow, air plants might be the right choice.</p>
-<p>There are more than 500 different <strong>species </strong>of air plants. Officially they are known as Tillandsia. These plants are native to places in<strong> </strong>North and South America that support year-round plant growth. Air plants belong to the same family as the pineapple.</p>
-<p>Instead of soil, these plants attach themselves to things like trees, rocks and buildings. They do not cause problems for the objects they grow on. Air plants do not have roots. They depend on specialized cells – called trichomes – to permit their leaves to take in water and nutrients.</p><div class="contentImage"><img alt="This image provided by Drift in Air Plants shows a Tillandsia xerographica air plant in Bakersfield, California. (Jennifer Tuttle/Drift in Air Plants via AP)" src="https://files.21voa.com/gdb/38950b6c-8cd1-4636-8a34-17153f9148cb_cx0_cy9_cw0_w268_r1.jpg"/><br/><span class="imagecaption">This image provided by Drift in Air Plants shows a Tillandsia xerographica air plant in Bakersfield, California. (Jennifer Tuttle/Drift in Air Plants via AP)</span></div>
-<p>Associated Press gardening writer Jessica Damiano has experimented with air plants and offers these guidelines for people wanting to grow them.</p>
-<p><strong>Sunlight</strong></p>
-<p>Air plants require bright, indirect light. So, they should be placed near an east- or west-facing window, but not directly in front of it. Direct sunlight can burn the plant's leaves.</p>
-<p><strong>Watering</strong></p>
-<p>In homes with average <strong>humidity</strong> levels, put air plants in a bowl of room-temperature water once a week for 30 to 60 minutes. In homes with drier air, this process can be repeated when needed.</p>
-<p>Lightly shake the plants to remove extra water. Then, place them upside-down on a cloth to dry for several hours. This step is necessary to prevent water from collecting on the plant's leaves, which can cause damage.</p>
-<p>If using chlorinated water, it is best to let the liquid sit for 12 to 24 hours to permit the chemical to <strong>dissipate</strong> before watering plants. Air plants are especially sensitive to chlorine.</p>
-<p><strong>Feeding the plants</strong></p>
-<p>Growers should feed their air plants with any all-purpose houseplant, <a class="wsw__a" name="_Int_eTz32nqz">bromeliad</a> or orchid fertilizer. The substance should be added to the soaking water monthly to provide added nutrients. Use about half the amount suggested by the fertilizer manufacturer.</p>
-<p><strong>Life cycle</strong></p>
-<p>Air plants <strong>bloom</strong> only once. The resulting pink, coral, purple or white flowers are a signal that the plants are nearing death. However, air plants produce offshoots, known as “pups.” These can be separated into new plants once they grow to about one-third the size of the parent.</p>
-<p><strong>So many choices</strong></p>
-<p>Notable air plants include Spanish moss which can be found hanging from large trees in tropical or subtropical areas. In the home, Spanish moss is grown in a humid environment, such as a bathroom.</p>
-<p>Another kind is Tillandsia <em>ionantha</em>, which is also known as the sky plant. It is a <strong>shaggy</strong>-looking plant with green bracts. Bracts are leaf-like structures that grow from the area just beneath a flower. The tops of <a class="wsw__a" name="_Int_lnnkCrAw">bracts</a> can turn pink or purple before flowering.</p>
-<p>Tillandsia <em>caput-medusae</em> is named for its similarity to the snake-haired head of Medusa, from Greek mythology. The plant is popular because of its long, wavy leaves that grow upward from a fat, round base.</p>
-<p>Perhaps the most unusual species of Tillandsia is the <a class="wsw__a" name="_Hlk187660007">Xerographic</a> air plant. This kind is known as the King of Air Plants. It can grow up to about one-half meter. The plant's long, thin silver leaves <strong>curl </strong>downward to produce a round shape that sets it apart from other air plants.</p>
-<p><strong>How to show your Tillandsia</strong></p>
-<p>You can place air plants in just about any spot that provides the required sunlight and good air flow.</p>
-<p>Glass containers or <strong>terrariums</strong> are popular choices. But growers can also put air plants inside seashells or on rocks. One could even create a floating Tillandsia garden by hanging several plants from <a class="wsw__a" name="_Int_dYc5qcDC">fishing</a> line.</p>
-<p>The plants can also be attached to natural wood pieces with wire or glue. Some choose to grow them inside hanging <strong>frames</strong>. When choosing placement possibilities, the main thing to keep in mind is to make sure you are fully meeting all the plant's needs.</p>
-<p>I'm Bryan Lynn.</p>
-<p><em>The Associated Press reported this story. Bryan Lynn adapted the report for VOA Learning English.</em></p>
-<p><strong>______________________________________</strong></p>
-<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>species </strong><em>– n. </em>a group of animals or plants that are similar and can produce young animals or plants</p>
-<p><strong>humidity</strong><strong> </strong><em>– n.</em> a measurement of how much water is in the air</p>
-<p><strong>dissipate </strong>–v. to dry up, disappear through evaporation or by becoming less and less dense</p>
-<p><strong>bloom </strong><em>– v. </em>when a flower fully opens</p>
-<p><strong>shaggy </strong><em>– adj. </em>having or covered with long, <a class="wsw__a" name="_Int_yT73SHaK">rough</a> and messy hair</p>
-<p><strong>curl</strong><strong> </strong><em>– v. </em>when something moves in a circular direction</p>
-<p><strong>terrarium </strong><em>– n. </em>a container, often made of glass, that is used to keep small plants in</p>
-<p><strong>frame </strong><em>– n. </em>a border that surrounds and supports a picture, <a class="wsw__a" name="_Int_rJDKPMgA">door</a> or window</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Learn to Have Better Balance and Prevent Falls as You Age  (2025/1/21)</title>
-            <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202501/learn-to-have-better-balance-and-prevent-falls-as-you-age.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By Jill Robbins</span><br/><span class="datetime">20 January, 2025</span><br/>
-<p>To age well, doctors say we should remember the importance of good balance. It matters when you wash yourself, put clothing on and, generally, move around in your home and elsewhere. As we age, good balance permits us to live more independently.</p>
-<p>Difficulties with balance can be dangerous. The United States Centers for Disease Control reports that three million older people in America seek medical care for fall-related injuries each year. But we can prevent some falls, said Roopa Anmolsingh. She is a geriatrician, a doctor who specializes in treating old people. She is also the creator of the balance class program at Cleveland Clinic in Ohio. She said that "Some people have a <strong>misconception</strong> that part of getting old is, you're going to fall. That's not true. You can control how you fall, or if you fall."</p>
-<p>To prevent falls, geriatricians say people should start asking themselves questions about their balance as early as 50 years old. Here are the questions:</p><div class="contentImage"><img alt="FILE - A couple walk on a sidewalk in Santiago, Chile, Wednesday on May 3, 2017. " src="https://files.21voa.com/gdb/e26a4513-386c-4b2e-b739-68d383c6ac29_w268_r1.jpg"/><br/><span class="imagecaption">FILE - A couple walk on a sidewalk in Santiago, Chile, Wednesday on May 3, 2017. </span></div>
-<p><strong>Do I ever feel unsteady?</strong></p>
-<p>If you feel<strong> </strong>unsteady, or lose balance, from time to time, ask your doctor to check all your body systems that can affect balance. Along with muscle and bone problems, unsteadiness can also result from poor blood pressure, inner-ear problems, nervous system issues and more.</p>
-<p>Maybe you do not have unsteadiness but wonder about your skill at balancing. You can test yourself easily and at home to find out if you need any medical intervention.</p>
-<p>Stand next to a wall or something that can provide support if needed. Raise one leg. Can you hold that position for 10 seconds? Now try the other leg. If you can stand on each leg alone for 10 seconds, you should be fine, said Greg W. Hartley, a professor of physical therapy specializing in geriatrics at the University of Miami in Florida.</p>
-<p>"If you can't do that, then you should probably go see a physical therapist," he said. A physical therapist treats people with conditions or injuries that affect body movement.</p>
-<p>Another at-home test is called TUG, for "timed up and go." Hartley suggests doing this test with supervision. You begin the test from a seated position. Then, stand up and start a timer immediately. Walk three meters, turn and walk back to your seat. Stop the timer as soon as you sit down. If the test takes you longer to complete than 15 seconds, your risk for falling is very high. But, if you do it in 12 seconds or less, your fall risk is almost zero.</p>
-<p>Also, <a class="wsw__a" href="https://www.ncoa.org/tools/falls-free-checkup/">The National Council on Aging offers an online set of questions</a> to predict your risk of a fall.</p>
-<p><strong>What can I do to improve balance?</strong></p>
-<p>Because muscle mass lessens in most people during their 30s, geriatricians say the best way to keep good balance is to stay physically active throughout life. Anmolsingh says it is never too late to act on that advice.</p>
-<p>Activities including<strong> tai chi</strong> and <strong>yoga </strong>are good for older adults because they involve controlled movements while <strong>shifting</strong> body weight. There also are simpler exercises people can work into their everyday lives.</p>
-<p>Anmolsingh says standing on one foot while waiting in line at a store is good. Or, at home, sit down and stand up several times straight without using a support. Another easy exercise is the three-way leg lift. Hold on to a support, then lift a leg to the front, then to the side and then to the back.</p>
-<p><strong>How often should I do the exercises?</strong></p>
-<p>The National Institute of Aging says people should spend at least 150 minutes per week in general physical activity to improve balance and overall health.</p>
-<p>Hartley said exercises done on a usual basis help train the brain to react correctly when you start to fall.</p>
-<p>"Just like an athlete needs to do repetition to train for a sport, you're doing repetition to train for everyday balance activities," he said.</p>
-<p>I'm Jill Robbins.</p>
-<p><em>Albert Stumm reported this story for the Associated Press.</em><em> Jill Robbins adapted it for Learning English. </em></p>
-<p>______________________________________________</p>
-<h2 class="wsw__h2"><strong>Words in This Story</strong></h2>
-<p><strong>misconception</strong> – <em>n</em>. a wrong or mistaken idea</p>
-<p><strong>tai chi </strong>- <em>n</em>. a Chinese form of exercise that uses very slow and controlled movements</p>
-<p><strong>yoga</strong> – <em>n</em>. a system of exercises for mental and physical health</p>
-<p><strong>shift</strong> – <em>v</em>. to move or to cause (something or someone) to move to a different place, or position</p>
-<p><strong>athlete</strong> – <em>n</em>. a person who is trained in or good at sports, games, or exercises that require physical skill and strength</p>
-</div>]]></content:encoded>
-            <itunes:explicit>no</itunes:explicit>
-          </item>
-          <item>
-            <title>Researchers Use Lasers to Study Ancient Peruvian Mummies   (2025/1/20)</title>
-            <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
-            <enclosure type="audio/mpeg" url="https://files.21voa.com/audio/202501/researchers-use-lasers-to-study-ancient-peruvian-mummies.mp3"/>
-            <content:encoded><![CDATA[<div class="content"><span class="byline">By John Russell</span><br/><span class="datetime">19 January, 2025</span><br/>
-<p>For more than 5,000 years, humans have covered themselves with permanent artistic designs known as tattoos.</p>
-<p>In a recent study, researchers used lasers to uncover highly complex designs of ancient tattoos on <strong>mummies </strong>from Peru.</p>
-<p>The skin of the mummies and the black liquid, or ink, used to make the tattoos permitted researchers to observe fine details. These marks are not <strong>visible</strong> to the human eye, said study co-writer Michael Pittman of the Chinese University of Hong Kong.</p><div class="contentImage"><img alt="This August 2024 photo provided by researchers shows a mummified human from Peru's Chancay culture. (Tom Kaye via AP)" src="https://files.21voa.com/gdb/ba4e6410-471c-4273-9ddd-20ed618142ee_w268_r1.jpg"/><br/><span class="imagecaption">This August 2024 photo provided by researchers shows a mummified human from Peru's Chancay culture. (Tom Kaye via AP)</span></div>
-<p>The researchers examined around 100 mummies dating to around 775 years ago. The mummies were from coastal Peru's Chancay culture, which grew and developed before the Inca empire and the arrival of Europeans.</p>
-<p>All the individuals had some form of tattoos on the back of their hands, knuckles, arms or other body parts. The study paid careful attention to four individuals with “<strong>exceptional</strong> tattoos” — designs of shapes such as triangles and diamonds, said Pittman.</p>
-<p>It was not clear how the tattoos were created. But they are “of a quality that stands up against the really good electric tattooing of today,” said Aaron Deter-Wolf of the Tennessee Division of Archaeology. Deter-Wolf was not involved in the research.</p>
-<p>The study results appeared recently in the publication <a class="wsw__a" href="https://www.pnas.org/doi/10.1073/pnas.2421517122" target="_blank">Proceedings of the National Academy of Sciences</a>.</p>
-<p>Using lasers that make skin <strong>glow</strong>, “we basically turn skin into a <strong>light bulb</strong>,” said study co-writer Tom Kaye of the nonprofit Foundation for Scientific Advancement based in Sierra Vista, Arizona.</p>
-<p>The findings were “helpful to learn about new non-destructive technologies that can help us study and document sensitive archaeological materials,” such as mummies, said Deter-Wolf.</p>
-<p>The oldest known tattoos ever discovered are on the remains of a Neolithic man who lived in the Italian Alps around five thousand years ago. Many mummies from ancient Egypt also have tattoos, as do remains from cultures around the world.</p>
-<p>People have used tattooing for many reasons throughout history. The marks can show cultural or individual identity, social standing, and more. Tattoos also have been used for protection against disease or to deepen relationships with spirits or gods, suggested Lars Krutak. Krutak, who works at the Museum of International Folk Art in Santa Fe, New Mexico, was not involved in the research.</p>
-<p>Designs on ancient <strong>textile</strong> and stone products are more commonly found in good condition for study than are ancient tattoos. But ancient tattoos when studied can provide information about art forms that would not otherwise be available, suggested Martin Smith of Bournemouth University. Smith was not involved in the recent study.</p>
-<p>I'm John Russell.</p>
-<p><em>Christina Larson reported on this story for the Associated Press. John Russell adapted it for VOA Learning English. </em></p>
-<p>___________________________________________</p>
-<h2 class="wsw__h2"><strong>Words in This Story </strong></h2>
-<p><strong>mummy</strong><em> – n.</em> human remains that are in good condition or very well preserved</p>
-<p><strong>visible</strong> <em>– adj.</em> capable of being seen</p>
-<p><strong>exceptional</strong> <em>– adj.</em> superior, rare, much better than average</p>
-<p><strong>glow</strong> <em>– v. </em>to shine as if filled with light</p>
-<p><strong>light bulb</strong><em> – n.</em> an electric lamp</p>
-<p><strong>textile</strong> <em>– n</em>. woven cloth, fibers, or yarn</p>
 </div>]]></content:encoded>
             <itunes:explicit>no</itunes:explicit>
           </item>
