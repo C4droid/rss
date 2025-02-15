@@ -10,4 +10,4 @@
 
 直接使用 github raw 格式订阅 `syndicate.xml`，会提示 "error mime type text/plain"，无法解析文件内容
 
-推荐使用第三方服务来引用 `syndicate.xml`，例如 `https://mirror.ghproxy.com/https://raw.githubusercontent.com/C4droid/rss/syndicate.xml`
+推荐使用第三方服务来引用 `syndicate.xml`，例如 `https://ghfast.top/https://raw.githubusercontent.com/C4droid/rss/main/syndicate.xml`
