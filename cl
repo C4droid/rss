@@ -11,8 +11,13 @@ from bs4 import BeautifulSoup
 from mako.template import Template
 import requests
 
+# Calculate the expiry date (1 year from now)
+# Format to UTC string
+expiry_string = arrow.utcnow().shift(years=1).format("ddd, DD MMM YYYY HH:mm:ss GMT")
+
 headers = {
-    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0"
+    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0",
+    "Cookie": f"ismob=0; expires={expiry_string}; path=/",  # Construct the cookie string
 }
 
 host = "https://cc.xgbrnb.org/"
