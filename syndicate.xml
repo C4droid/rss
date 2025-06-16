@@ -505,63 +505,11 @@ warns against any process that ignores the human toll of Russian occupation and 
 </div>]]></content>
   </entry>
   <entry>
-    <title>AI’s Reliability Crisis</title>
-    <link href="https://www.project-syndicate.org/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" />
-    <id>https://www.project-syndicate.org/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06</id>
-    <published>2025-06-15T00:00:21+00:00</published>
-    <updated>2025-06-15T00:00:21+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">
-<a class="track-event overlay" data-entity-id="682c3de74408e5c196759100" data-entity-link-name="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-language="english" href="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" title="AI’s Reliability Crisis"><span class="u-tos">AI’s Reliability Crisis</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">AI’s Reliability Crisis</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Jun 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="gary-marcus" data-entity-type="member" data-event-action="click" data-href-original="columnist/gary-marcus" data-language="english" href="columnist/gary-marcus">Gary  Marcus </a>
-explains why large language models are and will remain fundamentally blind to truth.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">
-<a class="track-event overlay" data-entity-id="682c3de74408e5c196759100" data-entity-link-name="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-language="english" href="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" title="AI’s Reliability Crisis"><span class="u-tos">AI’s Reliability Crisis</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">AI’s Reliability Crisis</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Jun 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="gary-marcus" data-entity-type="member" data-event-action="click" data-href-original="columnist/gary-marcus" data-language="english" href="columnist/gary-marcus">Gary  Marcus </a>
-explains why large language models are and will remain fundamentally blind to truth.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="2e022ad7e2d94a95a3be7ffdf6818081"> NEW YORK –<strong> </strong>OpenAI’s celebrated o3 model recently said that I died, and that was not even the worst part. Although o3, the product of years of research, is one of the latest, greatest large language models (LLMs) available, the <a href="https://docs.google.com/document/d/1pqFVmXtJrzqZcHxbh7CixSqvKTI6gTWK3iBU7GaB-KE/edit?tab=t.0">obituary</a> that it wrote for me (at the behest of a podcaster who was running an <a href="https://x.com/liron/status/1922961457336983869?s=61">experiment</a> to test one of my AI predictions) was filled with hallucinations. It offered a lovely, but fake, quote from AI pioneer Yoshua Bengio – “We should be grateful for critics like Gary … they keep us honest about what’s still missing” – and it claimed that I once publicly debated Geoffrey Hinton, the “godfather of AI” (he has always declined my offers). </p>
-</div>]]></content>
-  </entry>
-  <entry>
     <title>A New Nuclear Calculus?</title>
     <link href="https://www.project-syndicate.org/magazine/trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06" />
     <id>https://www.project-syndicate.org/magazine/trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06</id>
-    <published>2025-06-15T00:00:20+00:00</published>
-    <updated>2025-06-15T00:00:20+00:00</updated>
+    <published>2025-06-15T00:00:21+00:00</published>
+    <updated>2025-06-15T00:00:21+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06">
 <a class="track-event overlay" data-entity-id="6825ff4d7677230345af611d" data-entity-link-name="trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/magazine/trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06" data-language="english" href="/magazine/trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06" title="A New Nuclear Calculus?"><span class="u-tos">A New Nuclear Calculus?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -606,6 +554,58 @@ consider whether America's friends and allies should pursue their own nuclear-we
  | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/trump-new-nuclear-calculus-for-us-allies-by-thorsten-benner-et-al-2025-06" target="_blank">archive.is</a></div>
     <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
 <p data-line-id="ae77b334241441dabb8f10cf16b74d38"><em>PS Quarterly</em> regularly features short responses from experts on topics of global concern, and this time we are revisiting the always-fraught issue of nuclear deterrence. For decades, the number of nuclear-weapons states has remained relatively steady, owing to multilateral agreements like the Nuclear Non-Proliferation Treaty and the role of America’s “nuclear umbrella” – an extended deterrence regime in which the United States has committed to defend allies by any means necessary. But with the Trump administration casting doubt on longstanding commitments, and with nuclear-saber rattling having returned as an instrument of war, many governments are weighing their options.</p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>AI’s Reliability Crisis</title>
+    <link href="https://www.project-syndicate.org/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" />
+    <id>https://www.project-syndicate.org/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06</id>
+    <published>2025-06-15T00:00:20+00:00</published>
+    <updated>2025-06-15T00:00:20+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">
+<a class="track-event overlay" data-entity-id="682c3de74408e5c196759100" data-entity-link-name="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-language="english" href="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" title="AI’s Reliability Crisis"><span class="u-tos">AI’s Reliability Crisis</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">AI’s Reliability Crisis</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Jun 15, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="gary-marcus" data-entity-type="member" data-event-action="click" data-href-original="columnist/gary-marcus" data-language="english" href="columnist/gary-marcus">Gary  Marcus </a>
+explains why large language models are and will remain fundamentally blind to truth.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">
+<a class="track-event overlay" data-entity-id="682c3de74408e5c196759100" data-entity-link-name="generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" data-language="english" href="/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" title="AI’s Reliability Crisis"><span class="u-tos">AI’s Reliability Crisis</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/ce974c4f30911fe5a691024797a37fbe.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06">AI’s Reliability Crisis</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Jun 15, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="gary-marcus" data-entity-type="member" data-event-action="click" data-href-original="columnist/gary-marcus" data-language="english" href="columnist/gary-marcus">Gary  Marcus </a>
+explains why large language models are and will remain fundamentally blind to truth.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/generative-ai-fundamentally-unreliable-and-with-no-apparent-solution-by-gary-marcus-2025-06" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="2e022ad7e2d94a95a3be7ffdf6818081"> NEW YORK –<strong> </strong>OpenAI’s celebrated o3 model recently said that I died, and that was not even the worst part. Although o3, the product of years of research, is one of the latest, greatest large language models (LLMs) available, the <a href="https://docs.google.com/document/d/1pqFVmXtJrzqZcHxbh7CixSqvKTI6gTWK3iBU7GaB-KE/edit?tab=t.0">obituary</a> that it wrote for me (at the behest of a podcaster who was running an <a href="https://x.com/liron/status/1922961457336983869?s=61">experiment</a> to test one of my AI predictions) was filled with hallucinations. It offered a lovely, but fake, quote from AI pioneer Yoshua Bengio – “We should be grateful for critics like Gary … they keep us honest about what’s still missing” – and it claimed that I once publicly debated Geoffrey Hinton, the “godfather of AI” (he has always declined my offers). </p>
 </div>]]></content>
   </entry>
   <entry>
