@@ -11,11 +11,61 @@
   </author>
 
   <entry>
+    <title>What It Means to Build Local AI</title>
+    <link href="https://www.project-syndicate.org/commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" />
+    <id>https://www.project-syndicate.org/commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06</id>
+    <published>2025-06-25T00:00:30+00:00</published>
+    <updated>2025-06-25T00:00:30+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06">
+<a class="track-event overlay" data-entity-id="685bc0d1543873511dd94379" data-entity-link-name="local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" data-language="english" href="/commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" title="What It Means to Build Local AI"><span class="u-tos">What It Means to Build Local AI</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06">What It Means to Build Local AI</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Jun 25, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="elina-noor" data-entity-type="member" data-event-action="click" data-href-original="columnist/elina-noor" data-language="english" href="columnist/elina-noor">Elina Noor </a>
+explains how Southeast Asian developers can ensure cultural agency in their models.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06">
+<a class="track-event overlay" data-entity-id="685bc0d1543873511dd94379" data-entity-link-name="local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" data-language="english" href="/commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06" title="What It Means to Build Local AI"><span class="u-tos">What It Means to Build Local AI</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/a3459d2bc4a6cc4ddfa7987f6239b6a8.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/local-ai-accounting-for-language-culture-history-different-forms-of-sense-making-by-elina-noor-2025-06">What It Means to Build Local AI</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Jun 25, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="elina-noor" data-entity-type="member" data-event-action="click" data-href-original="columnist/elina-noor" data-language="english" href="columnist/elina-noor">Elina Noor </a>
+explains how Southeast Asian developers can ensure cultural agency in their models.        </p>
+</header>
+</li>
+    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="82d495bf490d4c9983aa65f32521b1e3"> SINGAPORE – Following OpenAI’s public launch of ChatGPT in November 2022, the underpinnings of AI large language models seemed firmly “WIRED”: Western, industrialized, rich, educated, and democratic. Everyone assumed that if LLMs spoke a particular language and reflected a particular worldview, it would be a Western one. OpenAI even <a href="https://help.openai.com/en/articles/8313359-is-chatgpt-biased">acknowledged</a> ChatGPT’s skew toward Western views and the English language. </p><p data-line-id="32cf278ce934406296c719ddec6c181f"> But even before OpenAI’s US competitors (Google and Anthropic) released their own LLMs the following year, Southeast Asian developers had recognized the need for AI tools that would speak to their own region in its many languages – no small task, given that more than <a href="https://link.springer.com/rwe/10.1007/978-3-319-02344-1_35">1,200 languages</a> are spoken here. </p><p data-line-id="8c9bab8b5cbb45c492da9b2bb937d7be"> Moreover, in a region where distant civilizational memories often collide with contemporary, post-colonial histories, language is profoundly political. Even seemingly mono-lingual countries belie marked <a href="https://www.ethnologue.com/">diversity</a>: Cambodians speak nearly 30 languages; Thais, roughly 70; and Vietnamese, over 100. This is also a region where communities mix languages seamlessly, where nonverbal cues speak volumes, and where oral traditions are sometimes more prevalent than textual means of capturing the deep cultural and historical nuances that have been encoded in language. </p><p data-line-id="b4a0211511e94068b11c3ca6e66c2d7a"> Not surprisingly, those trying to build truly local AI models for a region with so many under-represented languages have faced many obstacles, from a paucity of high-quality, high-quantity annotated data to a lack of access to the computing power needed to build and train models from scratch. In some cases, the challenges are even more basic, reflecting a shortage of native speakers and standardized orthography or frequent electricity supply disruptions. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Go beyond the headlines to understand the issues, forces, and trends shaping the US presidential election – and the likely implications of its outcome." data-label="Sign up for our weekly newsletter, PS Politics" data-link-name="newsletter-politics" data-newsletter="prosyn-above-the-fold" data-newsletter-subscribe-form="true"></div><p data-line-id="853a5ef1bf2040c7bed54fd0a840c093"> Given these constraints, many of the region’s AI developers have settled for fine-tuning established models built by foreign incumbents. This involves taking a pre-trained model that has been fed large quantities of data and training it on a smaller dataset for a specific skill or task. Between 2020 to 2023, Southeast Asian language models such as PhoBERT (Vietnamese), IndoBERT (Indonesian), and Typhoon (Thai) were derived from much larger models such as Google’s BERT; Meta’s RoBERTa (later LLaMA), and France’s Mistral. Even the early versions of SeaLLM, a <a href="https://arxiv.org/pdf/2312.00738">suite</a> of models optimized for regional languages and released by Alibaba’s DAMO Academy, were built on Meta, Mistral, and Google’s architecture. </p><p data-line-id="e7ab12a7872f4f78a1d68cd137831f6e"> But in 2024, Alibaba Cloud’s Qwen disrupted this Western dominance, offering Southeast Asia a wider set of options. A Carnegie Endowment for International Peace <a href="https://carnegieendowment.org/research/2025/01/speaking-in-code-contextualizing-large-language-models-in-southeast-asia?lang=en">study</a> finds that five of the 21 regional models launched that year were built on Qwen. </p><p data-line-id="30df0bdb923e4de38b6224937d86dc31"> Still, just as Southeast Asian developers previously had to account for a latent Western bias in the available foundation models, now they must be mindful of the ideologically <a href="https://www.computerweekly.com/news/366618734/DeepSeek-R1-more-readily-generates-dangerous-content-than-other-large-language-models">filtered</a><a href="https://arxiv.org/abs/2410.18417">perspectives</a> embedded in pre-trained Chinese models. Ironically, efforts to localize AI and ensure greater agency for Southeast Asian communities could deepen developers’ dependence on much larger players, at least in the initial stages. </p><p data-line-id="50905b1693ae4450a12b6777c6a51627"> Nonetheless, Southeast Asian developers have begun to address this problem, too. Multiple models, including <a href="https://huggingface.co/aisingapore/Llama-SEA-LION-v3-70B-IT">SEA-LION</a> (a collection of 11 official regional languages), <a href="https://arxiv.org/abs/2311.02945">PhoGPT</a> (Vietnamese), and <a href="https://arxiv.org/abs/2401.14680">MaLLaM</a> (Malay), have been pre-trained from scratch on a large, generic dataset of each particular language. This key step in the machine-learning process will allow these models to be further fine-tuned for specific tasks. </p><p data-line-id="19dd09c99b73477a813ef00bec7462c0"> Although SEA-LION continues to rely on Google’s architecture for its pre-training, its use of a regional-language dataset has facilitated the development of homegrown models such as Sahabat-AI, which communicates in Indonesian, Sundanese, Javanese, Balinese, and Bataknese. Sahabat-AI proudly <a href="https://sahabat-ai.com/en#model">describes</a> itself as “a testament to Indonesia’s commitment to AI sovereignty.” </p><p data-line-id="eecece5cd87749b19da1fa25eb55ed1b"> But representing native perspectives also requires a strong base of local knowledge. We cannot faithfully present Southeast Asian perspectives and values without understanding the politics of language, traditional sense-making, and historical dynamics. </p><p data-line-id="9c1d9034cab446b6955a1fd611b93c09"> For example, time and space – widely understood in the modern context to be linear, divisible, and measurable for the purposes of maximizing productivity – are perceived differently in many indigenous communities. Balinese historical writings that defy conventional patterns of chronology might be viewed as myths or legends in Western terms, but they continue to shape how these communities make sense of the world. </p><p data-line-id="ec41ed97f52249078af4c5c1ebba83df"> Historians of the region have <a href="https://www.jstor.org/stable/2505223">cautioned</a> that applying a Western lens to local texts heightens the risk of misinterpreting indigenous perspectives. From the eighteenth to the nineteenth centuries, Indonesia’s colonial administrators frequently read <a href="https://www.ide.go.jp/library/English/Publish/Periodicals/De/pdf/68_02_05.pdf">their own understanding</a> of Javanese chronicles into translated reproductions. As a result, many biased British and European observations of Southeast Asians have come to be treated as valid historical accounts, and ethnic categorizations and stereotypes from official documents have been internalized. If AIs are trained on these data, the biases could end up further entrenched. </p><p data-line-id="c92234b5deed40a087434120a6933a4a"> Data is not knowledge. Since language is inherently social and political – reflecting the relational experiences of those who use it – asserting agency in the age of AI must go beyond the technical sufficiency of models that communicate in local languages. It requires consciously filtering legacy biases, questioning assumptions about our identity, and rediscovering indigenous knowledge repositories in our languages. We cannot project our cultures faithfully through technology if we barely understand them in the first place. </p>
+</div>]]></content>
+  </entry>
+  <entry>
     <title>The Middle East War Enters a New Phase</title>
     <link href="https://www.project-syndicate.org/commentary/us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06" />
     <id>https://www.project-syndicate.org/commentary/us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06</id>
-    <published>2025-06-24T00:00:30+00:00</published>
-    <updated>2025-06-24T00:00:30+00:00</updated>
+    <published>2025-06-24T00:00:29+00:00</published>
+    <updated>2025-06-24T00:00:29+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06">
 <a class="track-event overlay" data-entity-id="685aedc9541f359e8a0ed782" data-entity-link-name="us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06" data-language="english" href="/commentary/us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06" title="The Middle East War Enters a New Phase"><span class="u-tos">The Middle East War Enters a New Phase</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -56,16 +106,18 @@ thinks the US attacks on three nuclear sites raise more questions than have been
 thinks the US attacks on three nuclear sites raise more questions than have been answered so far.        </p>
 </header>
 </li>
-    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="402fdf01ce564f3b9088da1ccdb9ef5b"> NEW YORK – We are now in the third phase of the current crisis in the Middle East. In the previous two phases, the initiative was with Israel and then the United States. Now it has passed to Iran. </p><p data-line-id="1a541b4fb44948a5a95d4f196c84d37d"> To recap: In the first phase, Israel, concerned that Iran had moved much closer to developing nuclear weapons, attacked Iranian military sites, nuclear installations, and leadership figures. Israel’s government, more risk-averse in the wake of the Hamas attack of October 7, was no longer constrained by fear of retaliation from Iranian proxies it had degraded or by Iran’s ability to defend itself, which Israel had also weakened. </p><p data-line-id="9dec407dfff846f5ace5b4f9bde1b587"> The war’s second phase was initiated by the US, which targeted three installations central to Iran’s nuclear program. B-2 stealth bombers dropped a number of large “bunker buster” bombs over the uranium enrichment complexes at Fordow and Natanz while US submarines launched Tomahawk cruise missiles at the nuclear facility in Isfahan. </p><p data-line-id="155db71081ab4547b648cef6a6830bdd"> For both Israel and the US, this was a war of choice: other options were available. Moreover, the attacks were preventive, rather than preemptive, in the sense that an Iranian nuclear breakout was a gathering threat, not an imminent one. It is less clear why the US acted when it did, other than that diplomacy looked unpromising and there was an opportunity to undertake the mission with minimum risk to US forces. That said, both Israel and the US had run out of patience with Iran, which was enriching uranium to levels that made sense only if its goal was to develop nuclear weapons rather than generate electricity. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Go beyond the headlines to understand the issues, forces, and trends shaping the US presidential election – and the likely implications of its outcome." data-label="Sign up for our weekly newsletter, PS Politics" data-link-name="newsletter-politics" data-newsletter="prosyn-above-the-fold" data-newsletter-subscribe-form="true"></div><p data-line-id="3ed0e49598964022a673765566adbfa0"> US President Donald Trump <a href="https://www.nbcnews.com/world/middle-east/trump-claims-obliteration-iran-nuclear-sites-missing-uranium-rcna214439">claimed</a> that the attacks he ordered were a spectacular military success and that the three Iranian facilities were completely “obliterated.” This has yet to be shown. Normally, assessing bomb damage in such circumstances takes some time, and is as much an art as a science. </p><p data-line-id="cc1ccfcb951e4d58b4cb7f961d7c32ca"> More important, the attack could have succeeded in destroying the three selected facilities but failed in the larger sense of eliminating Iran’s efforts to develop nuclear weapons. In fact, this is almost certain to be the case, as Iran had ample opportunity to relocate enriched uranium, advanced centrifuges, and other bomb-related technology to multiple locations that for now are unknown. </p><p data-line-id="4a5b9d85b60044b79d383e0fc477f562"> What, then, should we expect from Iran? Much is being written about Iran’s retaliatory options. Iran could wage cyber warfare against targets in the US or around the world. It could mount assorted terrorist actions against American civilians, businesses, and embassies. It could attack the estimated <a href="https://www.aljazeera.com/news/2025/6/12/mapping-us-troops-and-military-bases-in-the-middle-east">40,000</a> US troops in the Middle East, as well as the energy infrastructure of its Arab neighbors. It could further interfere with shipping in local waterways, either directly or through a proxy such as Yemen’s Houthis. </p><p data-line-id="a938e9e28d6f4efe9a59d0721dc215ff"> But it is not obvious that Iran would do any of this now. The performative “attack” on the US base in Qatar signaled that Iran wants to avoid further escalation and exposing itself to more attacks targeting its economy and its military and political leaders. As a result, Iran is likely to focus on shoring up the regime domestically, to ensure its survival. </p><p data-line-id="2df4a71222b747dcbb867bb8a2c9bc5e"> Over time, Iran can also be expected to try to reconstitute its nuclear weapons program, as many there will judge the Israeli and American attacks never would have happened had Iran possessed a nuclear deterrent. Diplomacy is unlikely to prevent Iran from succeeding, which means that, with or without a ceasefire, Israel or US attacks could well be required whenever and wherever it is discovered that Iran is carrying out nuclear weapons-related work. </p><p data-line-id="253f9b4a04b74af3a94eb5f7e2aeff86"> This reality will lead many to argue that nothing short of regime change will prevent the eventual emergence of a nuclear-armed Iran, a development that would pose an existential threat to Israel and lead more countries in the region to acquire nuclear weapons of their own. Not surprisingly, we are already hearing calls for regime change from some in Israel and in the US. </p><p data-line-id="c88553d64a874926a1043e7fe0f13c7a"> But regime change is easier said than done. It tends to happen when there is a strong, organized internal opposition, a crumbling regime, or an outside power willing and able to oust the leadership, occupy the country, and insert a successor. None of these conditions exists in Iran. All of which is to say outsiders would be wise to base policy toward Iran on the assumption that the current government or something much like it will be in charge for the foreseeable future. </p><p data-line-id="b728656526e647ff8dad41853e1c6baa"> It is a truism that it takes only one side to start a war, but that ending one requires all parties involved. In this Middle East crisis, the initiative is now with Iran. Only its rulers can decide if the US attack is the beginning of the end or the end of the beginning. It is difficult to overstate how much depends on their answer. </p>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/us-attacks-on-iran-many-unanswered-questions-by-richard-haass-2025-06" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="402fdf01ce564f3b9088da1ccdb9ef5b"> NEW YORK – We are now in the third phase of the current crisis in the Middle East. In the previous two phases, the initiative was with Israel and then the United States. Now it has passed to Iran. </p>
 </div>]]></content>
   </entry>
   <entry>
     <title>An Iranian Bomb Just Became More Likely</title>
     <link href="https://www.project-syndicate.org/commentary/us-israel-bombing-of-iranian-nuclear-sites-undermine-nonproliferation-by-brahma-chellaney-2025-06" />
     <id>https://www.project-syndicate.org/commentary/us-israel-bombing-of-iranian-nuclear-sites-undermine-nonproliferation-by-brahma-chellaney-2025-06</id>
-    <published>2025-06-24T00:00:29+00:00</published>
-    <updated>2025-06-24T00:00:29+00:00</updated>
+    <published>2025-06-24T00:00:28+00:00</published>
+    <updated>2025-06-24T00:00:28+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="us-israel-bombing-of-iranian-nuclear-sites-undermine-nonproliferation-by-brahma-chellaney-2025-06">
 <a class="track-event overlay" data-entity-id="685ac268541f359e8a483542" data-entity-link-name="us-israel-bombing-of-iranian-nuclear-sites-undermine-nonproliferation-by-brahma-chellaney-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-israel-bombing-of-iranian-nuclear-sites-undermine-nonproliferation-by-brahma-chellaney-2025-06" data-language="english" href="/commentary/us-israel-bombing-of-iranian-nuclear-sites-undermine-nonproliferation-by-brahma-chellaney-2025-06" title="An Iranian Bomb Just Became More Likely"><span class="u-tos">An Iranian Bomb Just Became More Likely</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -116,8 +168,8 @@ struggles to see how any country would put its faith in the global nonproliferat
     <title>War and Tariffs Are a Double Shock to the World Economy</title>
     <link href="https://www.project-syndicate.org/commentary/global-recession-likely-as-iran-war-tariffs-shock-slowing-world-economy-by-stephen-s-roach-2025-06" />
     <id>https://www.project-syndicate.org/commentary/global-recession-likely-as-iran-war-tariffs-shock-slowing-world-economy-by-stephen-s-roach-2025-06</id>
-    <published>2025-06-24T00:00:28+00:00</published>
-    <updated>2025-06-24T00:00:28+00:00</updated>
+    <published>2025-06-24T00:00:27+00:00</published>
+    <updated>2025-06-24T00:00:27+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="global-recession-likely-as-iran-war-tariffs-shock-slowing-world-economy-by-stephen-s-roach-2025-06">
 <a class="track-event overlay" data-entity-id="685ab95a541f359e8a1e3c8f" data-entity-link-name="global-recession-likely-as-iran-war-tariffs-shock-slowing-world-economy-by-stephen-s-roach-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/global-recession-likely-as-iran-war-tariffs-shock-slowing-world-economy-by-stephen-s-roach-2025-06" data-language="english" href="/commentary/global-recession-likely-as-iran-war-tariffs-shock-slowing-world-economy-by-stephen-s-roach-2025-06" title="War and Tariffs Are a Double Shock to the World Economy"><span class="u-tos">War and Tariffs Are a Double Shock to the World Economy</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -168,8 +220,8 @@ warns that their interplay is making a global recession increasingly likely.    
     <title>Iran and the End of the Old Multilateralism</title>
     <link href="https://www.project-syndicate.org/commentary/iran-us-strikes-signal-end-of-g7-multilateralism-war-over-commerce-by-harold-james-2025-06" />
     <id>https://www.project-syndicate.org/commentary/iran-us-strikes-signal-end-of-g7-multilateralism-war-over-commerce-by-harold-james-2025-06</id>
-    <published>2025-06-24T00:00:27+00:00</published>
-    <updated>2025-06-24T00:00:27+00:00</updated>
+    <published>2025-06-24T00:00:26+00:00</published>
+    <updated>2025-06-24T00:00:26+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="iran-us-strikes-signal-end-of-g7-multilateralism-war-over-commerce-by-harold-james-2025-06">
 <a class="track-event overlay" data-entity-id="685aad42541f359e8ae5e411" data-entity-link-name="iran-us-strikes-signal-end-of-g7-multilateralism-war-over-commerce-by-harold-james-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/iran-us-strikes-signal-end-of-g7-multilateralism-war-over-commerce-by-harold-james-2025-06" data-language="english" href="/commentary/iran-us-strikes-signal-end-of-g7-multilateralism-war-over-commerce-by-harold-james-2025-06" title="Iran and the End of the Old Multilateralism"><span class="u-tos">Iran and the End of the Old Multilateralism</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -220,8 +272,8 @@ considers the implications of America’s decision to strike Iran’s nuclear fa
     <title>The High Cost of Trump’s Brain Drain</title>
     <link href="https://www.project-syndicate.org/commentary/trump-brain-drain-undermines-key-pillar-of-american-growth-and-influence-by-anne-o-krueger-2025-06" />
     <id>https://www.project-syndicate.org/commentary/trump-brain-drain-undermines-key-pillar-of-american-growth-and-influence-by-anne-o-krueger-2025-06</id>
-    <published>2025-06-24T00:00:26+00:00</published>
-    <updated>2025-06-24T00:00:26+00:00</updated>
+    <published>2025-06-24T00:00:25+00:00</published>
+    <updated>2025-06-24T00:00:25+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-brain-drain-undermines-key-pillar-of-american-growth-and-influence-by-anne-o-krueger-2025-06">
 <a class="track-event overlay" data-entity-id="685a79a3541f359e8afebbf1" data-entity-link-name="trump-brain-drain-undermines-key-pillar-of-american-growth-and-influence-by-anne-o-krueger-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-brain-drain-undermines-key-pillar-of-american-growth-and-influence-by-anne-o-krueger-2025-06" data-language="english" href="/commentary/trump-brain-drain-undermines-key-pillar-of-american-growth-and-influence-by-anne-o-krueger-2025-06" title="The High Cost of Trump’s Brain Drain"><span class="u-tos">The High Cost of Trump’s Brain Drain</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -272,8 +324,8 @@ warns that the government crackdown on elite universities risks undermining US i
     <title>A Fragmenting World Can Unite Around Immunization</title>
     <link href="https://www.project-syndicate.org/commentary/gavi-vaccine-alliance-needs-replenishment-to-continue-global-immunization-drive-by-jose-manuel-barroso-2025-06" />
     <id>https://www.project-syndicate.org/commentary/gavi-vaccine-alliance-needs-replenishment-to-continue-global-immunization-drive-by-jose-manuel-barroso-2025-06</id>
-    <published>2025-06-23T00:00:24+00:00</published>
-    <updated>2025-06-23T00:00:24+00:00</updated>
+    <published>2025-06-23T00:00:23+00:00</published>
+    <updated>2025-06-23T00:00:23+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="gavi-vaccine-alliance-needs-replenishment-to-continue-global-immunization-drive-by-jose-manuel-barroso-2025-06">
 <a class="track-event overlay" data-entity-id="68597997807facf6f92809cc" data-entity-link-name="gavi-vaccine-alliance-needs-replenishment-to-continue-global-immunization-drive-by-jose-manuel-barroso-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/gavi-vaccine-alliance-needs-replenishment-to-continue-global-immunization-drive-by-jose-manuel-barroso-2025-06" data-language="english" href="/commentary/gavi-vaccine-alliance-needs-replenishment-to-continue-global-immunization-drive-by-jose-manuel-barroso-2025-06" title="A Fragmenting World Can Unite Around Immunization"><span class="u-tos">A Fragmenting World Can Unite Around Immunization</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -322,8 +374,8 @@ urges donors to renew their financial and political commitments to Gavi, the Vac
     <title>Iran Is Headed Toward Regime Collapse</title>
     <link href="https://www.project-syndicate.org/commentary/iran-regime-nearing-collapse-by-nouriel-roubini-2025-06" />
     <id>https://www.project-syndicate.org/commentary/iran-regime-nearing-collapse-by-nouriel-roubini-2025-06</id>
-    <published>2025-06-23T00:00:23+00:00</published>
-    <updated>2025-06-23T00:00:23+00:00</updated>
+    <published>2025-06-23T00:00:22+00:00</published>
+    <updated>2025-06-23T00:00:22+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="iran-regime-nearing-collapse-by-nouriel-roubini-2025-06">
 <a class="track-event overlay" data-entity-id="685960d7807facf6f999a2e7" data-entity-link-name="iran-regime-nearing-collapse-by-nouriel-roubini-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/iran-regime-nearing-collapse-by-nouriel-roubini-2025-06" data-language="english" href="/commentary/iran-regime-nearing-collapse-by-nouriel-roubini-2025-06" title="Iran Is Headed Toward Regime Collapse"><span class="u-tos">Iran Is Headed Toward Regime Collapse</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -374,8 +426,8 @@ predicts that the end will come within a year, and that the Middle East as a who
     <title>The Return of Shameless Shareholder Capitalism</title>
     <link href="https://www.project-syndicate.org/commentary/business-roundtable-april-report-rejects-stakeholder-capitalism-by-christopher-marquis-2025-06" />
     <id>https://www.project-syndicate.org/commentary/business-roundtable-april-report-rejects-stakeholder-capitalism-by-christopher-marquis-2025-06</id>
-    <published>2025-06-23T00:00:22+00:00</published>
-    <updated>2025-06-23T00:00:22+00:00</updated>
+    <published>2025-06-23T00:00:21+00:00</published>
+    <updated>2025-06-23T00:00:21+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="business-roundtable-april-report-rejects-stakeholder-capitalism-by-christopher-marquis-2025-06">
 <a class="track-event overlay" data-entity-id="685924ca807facf6f94a969a" data-entity-link-name="business-roundtable-april-report-rejects-stakeholder-capitalism-by-christopher-marquis-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/business-roundtable-april-report-rejects-stakeholder-capitalism-by-christopher-marquis-2025-06" data-language="english" href="/commentary/business-roundtable-april-report-rejects-stakeholder-capitalism-by-christopher-marquis-2025-06" title="The Return of Shameless Shareholder Capitalism"><span class="u-tos">The Return of Shameless Shareholder Capitalism</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -424,8 +476,8 @@ thinks the US Business Roundtable's April report should serve as a wake-up call 
     <title>The Attrition of Russia</title>
     <link href="https://www.project-syndicate.org/commentary/putin-recruitment-for-ukraine-war-showing-cracks-by-federico-fubini-2025-06" />
     <id>https://www.project-syndicate.org/commentary/putin-recruitment-for-ukraine-war-showing-cracks-by-federico-fubini-2025-06</id>
-    <published>2025-06-23T00:00:21+00:00</published>
-    <updated>2025-06-23T00:00:21+00:00</updated>
+    <published>2025-06-23T00:00:20+00:00</published>
+    <updated>2025-06-23T00:00:20+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="putin-recruitment-for-ukraine-war-showing-cracks-by-federico-fubini-2025-06">
 <a class="track-event overlay" data-entity-id="68591e4e807facf6f92dcb29" data-entity-link-name="putin-recruitment-for-ukraine-war-showing-cracks-by-federico-fubini-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/putin-recruitment-for-ukraine-war-showing-cracks-by-federico-fubini-2025-06" data-language="english" href="/commentary/putin-recruitment-for-ukraine-war-showing-cracks-by-federico-fubini-2025-06" title="The Attrition of Russia"><span class="u-tos">The Attrition of Russia</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -476,8 +528,8 @@ sees signs that the Kremlin’s war machine and recruitment efforts are coming u
     <title>The Ethics of Carbon Pricing</title>
     <link href="https://www.project-syndicate.org/commentary/ethical-and-strategic-reasons-for-carbon-pricing-by-peter-singer-2025-06" />
     <id>https://www.project-syndicate.org/commentary/ethical-and-strategic-reasons-for-carbon-pricing-by-peter-singer-2025-06</id>
-    <published>2025-06-23T00:00:20+00:00</published>
-    <updated>2025-06-23T00:00:20+00:00</updated>
+    <published>2025-06-23T00:00:19+00:00</published>
+    <updated>2025-06-23T00:00:19+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="ethical-and-strategic-reasons-for-carbon-pricing-by-peter-singer-2025-06">
 <a class="track-event overlay" data-entity-id="685915cf807facf6f90633c8" data-entity-link-name="ethical-and-strategic-reasons-for-carbon-pricing-by-peter-singer-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ethical-and-strategic-reasons-for-carbon-pricing-by-peter-singer-2025-06" data-language="english" href="/commentary/ethical-and-strategic-reasons-for-carbon-pricing-by-peter-singer-2025-06" title="The Ethics of Carbon Pricing"><span class="u-tos">The Ethics of Carbon Pricing</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -526,8 +578,8 @@ examines the moral and strategic reasons for estimating the cost of human-caused
     <title>Africa Needs Its Own Financing System</title>
     <link href="https://www.project-syndicate.org/commentary/only-african-financial-sovereignty-can-close-the-development-financing-gap-ffd4-by-carlos-lopes-2025-06" />
     <id>https://www.project-syndicate.org/commentary/only-african-financial-sovereignty-can-close-the-development-financing-gap-ffd4-by-carlos-lopes-2025-06</id>
-    <published>2025-06-20T00:00:19+00:00</published>
-    <updated>2025-06-20T00:00:19+00:00</updated>
+    <published>2025-06-20T00:00:18+00:00</published>
+    <updated>2025-06-20T00:00:18+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="only-african-financial-sovereignty-can-close-the-development-financing-gap-ffd4-by-carlos-lopes-2025-06">
 <a class="track-event overlay" data-entity-id="685570258b4e05de77fced79" data-entity-link-name="only-african-financial-sovereignty-can-close-the-development-financing-gap-ffd4-by-carlos-lopes-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/only-african-financial-sovereignty-can-close-the-development-financing-gap-ffd4-by-carlos-lopes-2025-06" data-language="english" href="/commentary/only-african-financial-sovereignty-can-close-the-development-financing-gap-ffd4-by-carlos-lopes-2025-06" title="Africa Needs Its Own Financing System"><span class="u-tos">Africa Needs Its Own Financing System</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -578,8 +630,8 @@ urges leaders to stop lobbying for access to frameworks that do not serve their 
     <title>Latin America Should Pursue Active Non-Alignment</title>
     <link href="https://www.project-syndicate.org/commentary/latin-america-must-pursue-active-non-alignment-with-us-china-by-jorge-g-castaneda-and-carlos-ominami-2025-06" />
     <id>https://www.project-syndicate.org/commentary/latin-america-must-pursue-active-non-alignment-with-us-china-by-jorge-g-castaneda-and-carlos-ominami-2025-06</id>
-    <published>2025-06-20T00:00:18+00:00</published>
-    <updated>2025-06-20T00:00:18+00:00</updated>
+    <published>2025-06-20T00:00:17+00:00</published>
+    <updated>2025-06-20T00:00:17+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="latin-america-must-pursue-active-non-alignment-with-us-china-by-jorge-g-castaneda-and-carlos-ominami-2025-06">
 <a class="track-event overlay" data-entity-id="68553a2e8b4e05de7711bbf5" data-entity-link-name="latin-america-must-pursue-active-non-alignment-with-us-china-by-jorge-g-castaneda-and-carlos-ominami-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/latin-america-must-pursue-active-non-alignment-with-us-china-by-jorge-g-castaneda-and-carlos-ominami-2025-06" data-language="english" href="/commentary/latin-america-must-pursue-active-non-alignment-with-us-china-by-jorge-g-castaneda-and-carlos-ominami-2025-06" title="Latin America Should Pursue Active Non-Alignment"><span class="u-tos">Latin America Should Pursue Active Non-Alignment</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -632,8 +684,8 @@ explain how the region can avoid becoming collateral damage in the competition b
     <title>How Trump Happened</title>
     <link href="https://www.project-syndicate.org/onpoint/roots-of-trump-destruction-of-organized-working-class-manufacturing-by-james-k-galbraith-2025-06" />
     <id>https://www.project-syndicate.org/onpoint/roots-of-trump-destruction-of-organized-working-class-manufacturing-by-james-k-galbraith-2025-06</id>
-    <published>2025-06-20T00:00:17+00:00</published>
-    <updated>2025-06-20T00:00:17+00:00</updated>
+    <published>2025-06-20T00:00:16+00:00</published>
+    <updated>2025-06-20T00:00:16+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="roots-of-trump-destruction-of-organized-working-class-manufacturing-by-james-k-galbraith-2025-06">
 <a class="track-event overlay" data-entity-id="68551e6b8b4e05de7793aa40" data-entity-link-name="roots-of-trump-destruction-of-organized-working-class-manufacturing-by-james-k-galbraith-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/roots-of-trump-destruction-of-organized-working-class-manufacturing-by-james-k-galbraith-2025-06" data-language="english" href="/onpoint/roots-of-trump-destruction-of-organized-working-class-manufacturing-by-james-k-galbraith-2025-06" title="How Trump Happened"><span class="u-tos">How Trump Happened</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -684,8 +736,8 @@ revisits the economic history preceding the rise of the MAGA movement in 2016.  
     <title>Should We Have Faith in Markets?</title>
     <link href="https://www.project-syndicate.org/commentary/market-efficiency-should-be-trump-administration-objective-by-michael-r-strain-2025-06" />
     <id>https://www.project-syndicate.org/commentary/market-efficiency-should-be-trump-administration-objective-by-michael-r-strain-2025-06</id>
-    <published>2025-06-19T00:00:16+00:00</published>
-    <updated>2025-06-19T00:00:16+00:00</updated>
+    <published>2025-06-19T00:00:15+00:00</published>
+    <updated>2025-06-19T00:00:15+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="market-efficiency-should-be-trump-administration-objective-by-michael-r-strain-2025-06">
 <a class="track-event overlay" data-entity-id="68542279154e62f32e7ac140" data-entity-link-name="market-efficiency-should-be-trump-administration-objective-by-michael-r-strain-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/market-efficiency-should-be-trump-administration-objective-by-michael-r-strain-2025-06" data-language="english" href="/commentary/market-efficiency-should-be-trump-administration-objective-by-michael-r-strain-2025-06" title="Should We Have Faith in Markets?"><span class="u-tos">Should We Have Faith in Markets?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -736,8 +788,8 @@ argues that a free-enterprise system is not merely a tool, as J.D. Vance has arg
     <title>Norway’s Responsibility to Future Generations</title>
     <link href="https://www.project-syndicate.org/commentary/norway-should-follow-welsh-model-to-safeguard-future-generations-by-sophie-howe-2025-06" />
     <id>https://www.project-syndicate.org/commentary/norway-should-follow-welsh-model-to-safeguard-future-generations-by-sophie-howe-2025-06</id>
-    <published>2025-06-19T00:00:15+00:00</published>
-    <updated>2025-06-19T00:00:15+00:00</updated>
+    <published>2025-06-19T00:00:14+00:00</published>
+    <updated>2025-06-19T00:00:14+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="norway-should-follow-welsh-model-to-safeguard-future-generations-by-sophie-howe-2025-06">
 <a class="track-event overlay" data-entity-id="685412e0154e62f32e3168df" data-entity-link-name="norway-should-follow-welsh-model-to-safeguard-future-generations-by-sophie-howe-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/norway-should-follow-welsh-model-to-safeguard-future-generations-by-sophie-howe-2025-06" data-language="english" href="/commentary/norway-should-follow-welsh-model-to-safeguard-future-generations-by-sophie-howe-2025-06" title="Norway’s Responsibility to Future Generations"><span class="u-tos">Norway’s Responsibility to Future Generations</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -798,8 +850,8 @@ explains why the government should listen to its citizens’ calls to institutio
     <title>The “Washington Effect” Could Decide the AI Race</title>
     <link href="https://www.project-syndicate.org/commentary/us-trump-administration-tries-bullying-its-way-to-ai-dominance-by-brian-j-chen-2025-06" />
     <id>https://www.project-syndicate.org/commentary/us-trump-administration-tries-bullying-its-way-to-ai-dominance-by-brian-j-chen-2025-06</id>
-    <published>2025-06-19T00:00:14+00:00</published>
-    <updated>2025-06-19T00:00:14+00:00</updated>
+    <published>2025-06-19T00:00:13+00:00</published>
+    <updated>2025-06-19T00:00:13+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="us-trump-administration-tries-bullying-its-way-to-ai-dominance-by-brian-j-chen-2025-06">
 <a class="track-event overlay" data-entity-id="68540346154e62f32ee1fee4" data-entity-link-name="us-trump-administration-tries-bullying-its-way-to-ai-dominance-by-brian-j-chen-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-trump-administration-tries-bullying-its-way-to-ai-dominance-by-brian-j-chen-2025-06" data-language="english" href="/commentary/us-trump-administration-tries-bullying-its-way-to-ai-dominance-by-brian-j-chen-2025-06" title="The “Washington Effect” Could Decide the AI Race"><span class="u-tos">The “Washington Effect” Could Decide the AI Race</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -850,8 +902,8 @@ warns that the US is seeking to preempt domestic and foreign regulation, just as
     <title>A BRICS+ Development Agenda for the Global South</title>
     <link href="https://www.project-syndicate.org/commentary/brics-plus-should-adopt-shared-green-industrial-strategy-by-fernando-amorim-teixeira-2025-06" />
     <id>https://www.project-syndicate.org/commentary/brics-plus-should-adopt-shared-green-industrial-strategy-by-fernando-amorim-teixeira-2025-06</id>
-    <published>2025-06-19T00:00:13+00:00</published>
-    <updated>2025-06-19T00:00:13+00:00</updated>
+    <published>2025-06-19T00:00:12+00:00</published>
+    <updated>2025-06-19T00:00:12+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="brics-plus-should-adopt-shared-green-industrial-strategy-by-fernando-amorim-teixeira-2025-06">
 <a class="track-event overlay" data-entity-id="6853fcf7154e62f32ec4c560" data-entity-link-name="brics-plus-should-adopt-shared-green-industrial-strategy-by-fernando-amorim-teixeira-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/brics-plus-should-adopt-shared-green-industrial-strategy-by-fernando-amorim-teixeira-2025-06" data-language="english" href="/commentary/brics-plus-should-adopt-shared-green-industrial-strategy-by-fernando-amorim-teixeira-2025-06" title="A BRICS+ Development Agenda for the Global South"><span class="u-tos">A BRICS+ Development Agenda for the Global South</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -902,8 +954,8 @@ envisions a shared strategy to set standards and mobilize investment toward gree
     <title>Advanced Weapons Alone Won’t Win Tomorrow’s Wars</title>
     <link href="https://www.project-syndicate.org/commentary/military-success-requires-adaptability-not-just-technological-innovation-by-nicu-popescu-and-giorgos-verdi-2025-06" />
     <id>https://www.project-syndicate.org/commentary/military-success-requires-adaptability-not-just-technological-innovation-by-nicu-popescu-and-giorgos-verdi-2025-06</id>
-    <published>2025-06-18T00:00:12+00:00</published>
-    <updated>2025-06-18T00:00:12+00:00</updated>
+    <published>2025-06-18T00:00:11+00:00</published>
+    <updated>2025-06-18T00:00:11+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="military-success-requires-adaptability-not-just-technological-innovation-by-nicu-popescu-and-giorgos-verdi-2025-06">
 <a class="track-event overlay" data-entity-id="6852ddb93b4d1a1508789f60" data-entity-link-name="military-success-requires-adaptability-not-just-technological-innovation-by-nicu-popescu-and-giorgos-verdi-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/military-success-requires-adaptability-not-just-technological-innovation-by-nicu-popescu-and-giorgos-verdi-2025-06" data-language="english" href="/commentary/military-success-requires-adaptability-not-just-technological-innovation-by-nicu-popescu-and-giorgos-verdi-2025-06" title="Advanced Weapons Alone Won’t Win Tomorrow’s Wars"><span class="u-tos">Advanced Weapons Alone Won’t Win Tomorrow’s Wars</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -956,8 +1008,8 @@ urge European governments to embrace practical tools and creative thinking on an
     <title>Only Democracy Can End Iran’s Nuclear Threat</title>
     <link href="https://www.project-syndicate.org/commentary/only-regime-change-can-end-iran-nuclear-threat-by-abbas-milani-2025-06" />
     <id>https://www.project-syndicate.org/commentary/only-regime-change-can-end-iran-nuclear-threat-by-abbas-milani-2025-06</id>
-    <published>2025-06-18T00:00:11+00:00</published>
-    <updated>2025-06-18T00:00:11+00:00</updated>
+    <published>2025-06-18T00:00:10+00:00</published>
+    <updated>2025-06-18T00:00:10+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="only-regime-change-can-end-iran-nuclear-threat-by-abbas-milani-2025-06">
 <a class="track-event overlay" data-entity-id="6852d6f13b4d1a150859c0ee" data-entity-link-name="only-regime-change-can-end-iran-nuclear-threat-by-abbas-milani-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/only-regime-change-can-end-iran-nuclear-threat-by-abbas-milani-2025-06" data-language="english" href="/commentary/only-regime-change-can-end-iran-nuclear-threat-by-abbas-milani-2025-06" title="Only Democracy Can End Iran’s Nuclear Threat"><span class="u-tos">Only Democracy Can End Iran’s Nuclear Threat</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1008,8 +1060,8 @@ argues that only regime change – by Iranians and for Iranians – can bring ab
     <title>A New Economic Order Needs a Moral Compass</title>
     <link href="https://www.project-syndicate.org/commentary/restoring-values-to-global-economic-governance-by-adriana-abdenur-2025-06" />
     <id>https://www.project-syndicate.org/commentary/restoring-values-to-global-economic-governance-by-adriana-abdenur-2025-06</id>
-    <published>2025-06-18T00:00:10+00:00</published>
-    <updated>2025-06-18T00:00:10+00:00</updated>
+    <published>2025-06-18T00:00:09+00:00</published>
+    <updated>2025-06-18T00:00:09+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="restoring-values-to-global-economic-governance-by-adriana-abdenur-2025-06">
 <a class="track-event overlay" data-entity-id="6852cd1b3b4d1a15082a3704" data-entity-link-name="restoring-values-to-global-economic-governance-by-adriana-abdenur-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/restoring-values-to-global-economic-governance-by-adriana-abdenur-2025-06" data-language="english" href="/commentary/restoring-values-to-global-economic-governance-by-adriana-abdenur-2025-06" title="A New Economic Order Needs a Moral Compass"><span class="u-tos">A New Economic Order Needs a Moral Compass</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1060,8 +1112,8 @@ emphasizes the need for shared values to ensure the effectiveness and legitimacy
     <title>Trump’s Nuclear Fool’s Gold</title>
     <link href="https://www.project-syndicate.org/commentary/trump-golden-dome-arms-race-and-other-risks-by-carl-bildt-2025-06" />
     <id>https://www.project-syndicate.org/commentary/trump-golden-dome-arms-race-and-other-risks-by-carl-bildt-2025-06</id>
-    <published>2025-06-18T00:00:09+00:00</published>
-    <updated>2025-06-18T00:00:09+00:00</updated>
+    <published>2025-06-18T00:00:08+00:00</published>
+    <updated>2025-06-18T00:00:08+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-golden-dome-arms-race-and-other-risks-by-carl-bildt-2025-06">
 <a class="track-event overlay" data-entity-id="68527e643b4d1a1508993938" data-entity-link-name="trump-golden-dome-arms-race-and-other-risks-by-carl-bildt-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-golden-dome-arms-race-and-other-risks-by-carl-bildt-2025-06" data-language="english" href="/commentary/trump-golden-dome-arms-race-and-other-risks-by-carl-bildt-2025-06" title="Trump’s Nuclear Fool’s Gold"><span class="u-tos">Trump’s Nuclear Fool’s Gold</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1112,8 +1164,8 @@ worries that US missile-defense efforts could destabilize a fraught but still fu
     <title>Finishing What the World Started at the UN Ocean Conference</title>
     <link href="https://www.project-syndicate.org/commentary/ocean-conference-nice-progress-made-work-to-be-done-for-cop30-by-john-f-kerry-2025-06" />
     <id>https://www.project-syndicate.org/commentary/ocean-conference-nice-progress-made-work-to-be-done-for-cop30-by-john-f-kerry-2025-06</id>
-    <published>2025-06-17T00:00:08+00:00</published>
-    <updated>2025-06-17T00:00:08+00:00</updated>
+    <published>2025-06-17T00:00:07+00:00</published>
+    <updated>2025-06-17T00:00:07+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="ocean-conference-nice-progress-made-work-to-be-done-for-cop30-by-john-f-kerry-2025-06">
 <a class="track-event overlay" data-entity-id="68518bbb5f759d52d3b068e7" data-entity-link-name="ocean-conference-nice-progress-made-work-to-be-done-for-cop30-by-john-f-kerry-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ocean-conference-nice-progress-made-work-to-be-done-for-cop30-by-john-f-kerry-2025-06" data-language="english" href="/commentary/ocean-conference-nice-progress-made-work-to-be-done-for-cop30-by-john-f-kerry-2025-06" title="Finishing What the World Started at the UN Ocean Conference"><span class="u-tos">Finishing What the World Started at the UN Ocean Conference</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1162,8 +1214,8 @@ explains how countries can build on recent progress toward protecting marine are
     <title>The Sources of Global Economic Uncertainty</title>
     <link href="https://www.project-syndicate.org/commentary/investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06" />
     <id>https://www.project-syndicate.org/commentary/investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06</id>
-    <published>2025-06-17T00:00:07+00:00</published>
-    <updated>2025-06-17T00:00:07+00:00</updated>
+    <published>2025-06-17T00:00:06+00:00</published>
+    <updated>2025-06-17T00:00:06+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06">
 <a class="track-event overlay" data-entity-id="6851846b5f759d52d38e135d" data-entity-link-name="investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06" data-language="english" href="/commentary/investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06" title="The Sources of Global Economic Uncertainty"><span class="u-tos">The Sources of Global Economic Uncertainty</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1208,56 +1260,6 @@ warns investors not to rely on past playbooks as long-ignored vulnerabilities hi
  | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/investors-and-policymakers-should-pay-attention-to-five-trends-by-dambisa-moyo-2025-06" target="_blank">archive.is</a></div>
     <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
 <p data-line-id="b691622ad82b442bbd4880ad111aefbf"> LONDON – The recent surge in government bond yields has forced business leaders and investors around the world to confront a critical question: Should corporations lock in debt at current interest rates before they rise further? At the same time, higher capital costs and persistent market volatility are compelling investors to reassess their portfolios. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Congress Can Secure America’s Clean-Energy Industrial Future</title>
-    <link href="https://www.project-syndicate.org/commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" />
-    <id>https://www.project-syndicate.org/commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06</id>
-    <published>2025-06-17T00:00:06+00:00</published>
-    <updated>2025-06-17T00:00:06+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06">
-<a class="track-event overlay" data-entity-id="6851830b5f759d52d388260e" data-entity-link-name="us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" data-language="english" href="/commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" title="Congress Can Secure America’s Clean-Energy Industrial Future"><span class="u-tos">Congress Can Secure America’s Clean-Energy Industrial Future</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06">Congress Can Secure America’s Clean-Energy Industrial Future</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Jun 17, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="elisabeth-reynolds" data-entity-type="member" data-event-action="click" data-href-original="columnist/elisabeth-reynolds" data-language="english" href="columnist/elisabeth-reynolds">Elisabeth Reynolds </a><span class="vl-divider">, et al.</span>
-urge US senators to protect the clean-energy tax credits that are now on the chopping block.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06">
-<a class="track-event overlay" data-entity-id="6851830b5f759d52d388260e" data-entity-link-name="us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" data-language="english" href="/commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06" title="Congress Can Secure America’s Clean-Energy Industrial Future"><span class="u-tos">Congress Can Secure America’s Clean-Energy Industrial Future</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/afe013f3b653b32df4dc2e14724d2ab4.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/us-senate-must-keep-clean-energy-tax-credits-in-big-beautiful-bill-by-elisabeth-reynolds-et-al-2025-06">Congress Can Secure America’s Clean-Energy Industrial Future</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Jun 17, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="elisabeth-reynolds" data-entity-type="member" data-event-action="click" data-href-original="columnist/elisabeth-reynolds" data-language="english" href="columnist/elisabeth-reynolds">Elisabeth Reynolds </a><span class="vl-divider">, et al.</span>
-urge US senators to protect the clean-energy tax credits that are now on the chopping block.        </p>
-</header>
-</li>
-    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="a8c159dc9d014dfb88570c625c7d8f5d"> BOSTON – The US Senate is currently revising President Donald Trump’s self-proclaimed “big, beautiful bill” that the House of Representatives passed last month. Among the bill’s many provisions are major cuts to the clean-energy tax credits included in former President <a href="https://www.project-syndicate.org/columnist/joseph-biden-jr">Joe Biden</a>’s 2022 Inflation Reduction Act (IRA). The paradox here is that maintaining these credits would actually help the Trump administration achieve two of its main goals: reindustrializing the United States and strengthening the country’s energy position. </p><p data-line-id="ecd13cf81676469cb744a45262da25d6"> Since the IRA’s enactment, the private sector has invested over $<a href="https://www.cleaninvestmentmonitor.org/reports/clean-investment-monitor-q4-2024-update">100 billion</a> in manufacturing plants producing clean technologies – from batteries and electric vehicles (EVs) to solar panels and critical-minerals processing – that are fundamental to America’s energy and industrial future. Of the 380 planned facilities, <a href="https://rhg.com/research/clean-investment-monitor-us-clean-energy-supply-chains/">nearly half were operational</a> by the end of March. Ninety additional projects, worth over $50 billion, are in the <a href="https://www.cleaninvestmentmonitor.org/reports/clean-investment-monitor-q4-2024-update">pipeline</a>. </p><p data-line-id="d2ffb9eef1ca4f3899e15f4eb64b755a"> These projects have helped the US – which has experienced significant deindustrialization over recent decades – increase its manufacturing capacity through “learning by building.” As China pushes the frontier of advanced manufacturing and green technologies, the US cannot afford to lose this momentum if it wants to secure long-term competitiveness. </p><p data-line-id="eb1506137776458ba7943c2d989035ee"> The Trump administration and Republicans in Congress would also do well to remember that most of this manufacturing boom has taken place in Republican-led states: Georgia, Kentucky, North Carolina, Ohio, Tennessee, and Texas. The average investment size is more than <a href="https://www.cleaninvestmentmonitor.org/reports/clean-investment-monitor-q4-2024-update">$425 million per site</a> with some notable outliers, such as Toyota’s <a href="https://global.toyota/en/newsroom/corporate/42193203.html">nearly $14 billion</a> battery facility in North Carolina. In Texas, which leads the country in both <a href="https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from.php">crude-oil</a> and <a href="https://comptroller.texas.gov/economy/economic-data/energy/2023/texas.php">wind-energy</a> production, <a href="https://www.cleaninvestmentmonitor.org/reports/clean-investment-monitor-q4-2024-update">more than $8 billion</a> has been poured into EV, solar, battery and critical-minerals projects, illustrating how such investments can help meet surging energy demand and strengthen the industrial base. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Every Thursday in PS Economics, we offer a concise selection of essential reading on the most important issues related to economics and finance." data-label="Sign up for our weekly newsletter, PS Economics" data-link-name="newsletter-economics" data-newsletter="prosyn-economics-newsletter" data-newsletter-subscribe-form="true"></div><p data-line-id="d70f598cfa514b678329162632c3f86e"> The long-term benefits are even more compelling. These industrial investments create jobs, build domestic supply chains, reduce reliance on China, and expand and advance US manufacturing capabilities in the clean-energy sector and more broadly. Worryingly, since the start of the year, <a href="https://www.cleaninvestmentmonitor.org/reports/us-clean-energy-supply-chains-2025">six announced projects</a>, representing around $7 billion in investment, have been canceled, as companies wait to see how policy debates about tax credits and tariffs play out. </p><p data-line-id="4e1351e1f2864303bac79f49c2babbb6"> If the Trump administration is serious about restoring America’s manufacturing strength and establishing a new era of US energy dominance, private investment is essential. And emphasizing carrots over sticks has proven effective in mobilizing it: for every dollar in clean-energy tax credits, <a href="https://www.cleaninvestmentmonitor.org/reports/clean-investment-monitor-q4-2024-update">businesses have invested $4-5</a>. </p><p data-line-id="cf4c062c4c53461cadcdd5dfe064d9ed"> Compared to broad-based US tariffs, this approach to industrial development is more targeted, efficient, and market-friendly. Moreover, it helps investors address some of the main obstacles to scaling up manufacturing in America: longer time horizons and greater capital intensity, often in riskier technologies. The decades-long effort to increase US nuclear-energy capacity underscores these challenges, as does the more recent effort to leverage America’s drilling expertise to accelerate the deployment of geothermal technologies. </p><p data-line-id="d99630963ae84dcf94fb28857f40d79c"> Even legacy industries like critical-minerals production benefit from the clean-energy tax credits, receiving <a href="https://www.cleaninvestmentmonitor.org/reports/clean-investment-monitor-q4-2024-update">nearly $4.5 billion in investment</a> since their enactment. Given China’s recent decision, following the imposition of US trade tariffs, to restrict exports of rare-earth elements that are used in automotive, semiconductor, and aerospace manufacturing, increasing America’s domestic supply of critical minerals has taken on new importance. These investment incentives, coupled with a robust innovation ecosystem for <a href="https://news.mit.edu/2025/6K-cleans-critical-minerals-using-microwave-plasma-0207">critical-minerals processing</a> (including harvesting materials from <a href="https://news.mit.edu/2024/startup-phoenix-tailings-turns-mining-waste-into-critical-metals-1108">mining waste</a>), chart a path forward for reducing US dependence on China in an area where demand is growing exponentially. </p><p data-line-id="dcbcb349095c432c80f16df5b414cefa"> The industrial transformation underway in the US – with a new focus on developing resilient supply chains – is the most significant domestic manufacturing resurgence in a generation. It is reviving communities with new manufacturing jobs, restoring industrial strength, and positioning the US to compete globally in industries that underpin the twenty-first-century economy. </p><p data-line-id="988c973c4708473b83e79daca19c24bb"> In such a polarized US political environment, it is rare to find a policy that advances both national-security and economic-security goals, while also gaining some degree of bipartisan support. The clean-energy tax incentives do just that. Rather than cut or reduce them, the Senate should ensure that they are well targeted, and focus on accelerating permitting and building. </p><p data-line-id="62127ef95aca41db916387f4d3a6034f"> The US is on the cusp of a clean-energy manufacturing revolution. But it will happen only if Congress does the right thing. </p>
 </div>]]></content>
   </entry>
 </feed>
