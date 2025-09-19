@@ -11,11 +11,165 @@
   </author>
 
   <entry>
+    <title>How Can We Account for Crypto?</title>
+    <link href="https://www.project-syndicate.org/onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" />
+    <id>https://www.project-syndicate.org/onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09</id>
+    <published>2025-09-19T00:00:30+00:00</published>
+    <updated>2025-09-19T00:00:30+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09">
+<a class="track-event overlay" data-entity-id="68cc0acc1b2f8dd7789b7785" data-entity-link-name="how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" data-language="english" href="/onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" title="How Can We Account for Crypto?"><span class="u-tos">How Can We Account for Crypto?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09">How Can We Account for Crypto?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Sep 19, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="tim-congdon" data-entity-type="member" data-event-action="click" data-href-original="columnist/tim-congdon" data-language="english" href="columnist/tim-congdon">Tim Congdon </a>
+highlights the challenges facing statisticians as opaque transactions erode trust in official data.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09">
+<a class="track-event overlay" data-entity-id="68cc0acc1b2f8dd7789b7785" data-entity-link-name="how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" data-language="english" href="/onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09" title="How Can We Account for Crypto?"><span class="u-tos">How Can We Account for Crypto?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/edcd55bade9a6e8a7058b964fa05cf79.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="onpoint/how-to-measure-value-created-by-cryptocurrecies-by-tim-congdon-2025-09">How Can We Account for Crypto?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Sep 19, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="tim-congdon" data-entity-type="member" data-event-action="click" data-href-original="columnist/tim-congdon" data-language="english" href="columnist/tim-congdon">Tim Congdon </a>
+highlights the challenges facing statisticians as opaque transactions erode trust in official data.        </p>
+</header>
+</li>
+    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="24a963b7fc7c43579597a388d50f5fce"> LONDON – How does the rapid growth of cryptocurrencies fit into national accounts? At first glance, this might seem like a purely technical question, of interest only to public accountants, statisticians, and macroeconomists. Yet cryptocurrencies raise fundamental questions about how we define output, income, and growth at a time of widespread financial innovation and uncertainty. </p><p data-line-id="a5cfcaa4a3934c3ab095b610ecf1da8e"> Consider how GDP, for example, is actually calculated. The answer lies in the concept of <em>triangulation</em>: after the fact (or <em>ex post</em>), national expenditure must equal both national output and income. Put simply, what a country spends must match what it produces and what its citizens earn.  </p><p data-line-id="c6a694a413554b3ca60067d7e6dffb28"> National output is often labeled “gross value added,” a term with a reassuringly positive ring to it. In practice, the data that make up GDP are pieced together by hundreds of statisticians drawing on numerous sources. </p><p data-line-id="433d1da760744b129a508cd45a8a9fb9"> Skeptics may question how reliable this exercise can truly be, and indeed, much of it is conceptually debatable. After all, some economic activities hardly qualify as “value added” in any meaningful sense. The amount of income derived by criminals, for example, is notoriously hard to pin down, and their output is negligible at best. But they do spend what they earn. Consequently, while triangulation may aspire to scientific precision, the reality is that income, output, and expenditure cannot always be made to align neatly. </p><p data-line-id="72cba61157c0478c9d512b019d52c9c2"> National-income accountants know their estimates are never perfectly accurate, since the criminal underworld and the grey economy – where informality prevails – inevitably slip through the cracks. Still, as long as these sectors remain stable relative to the formal economy, growth figures are broadly reliable. That is why the public can trust statistics agencies to report national growth rates with decimal-point accuracy. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Every Thursday in PS Economics, we offer a concise selection of essential reading on the most important issues related to economics and finance." data-label="Sign up for our weekly newsletter, PS Economics" data-link-name="newsletter-economics" data-newsletter="prosyn-economics-newsletter" data-newsletter-subscribe-form="true"></div><p data-line-id="222c34b207f24a35b67363637363a404"> But where does the crypto “industry” fit into this picture? Consider Binance, the world’s largest crypto exchange. With revenues of <a href="https://www.businessofapps.com/data/binance-statistics/">$16.8 billion</a> in 2024, it employs thousands of people around the world whose salaries and bonuses are counted as part of their countries’ national income. Meanwhile, the global crypto market is valued at <a href="https://coinmarketcap.com/">$4 trillion</a>, surpassing the United Kingdom’s GDP and forcing policymakers to grapple with its place in the economy. </p><p data-line-id="8f8aa5f6469743d487bbc6d088662383"> The challenge lies in determining how the industry’s activities should be reflected in national accounts. As Keynesian textbooks explain, national expenditure consists of consumption, investment, stock-building, government spending, and net exports. Into which of these categories does cryptocurrency spending belong? How, exactly, are cryptocurrencies to be consumed? And if they cannot be consumed, what kind of expenditure are they? </p><p data-line-id="29b1e85565bb4ea3811a65203a2f5dfe"> Investors in Bitcoin, Ethereum, Tether, and others – including Donald Trump’s meme coin $TRUMP – insist that cryptocurrencies, along with other forms of fintech, represent an investment in “the future.” But it is far from clear that they contribute enough to national output to justify treating them as an investment, or, in the jargon of macroeconomists, gross domestic fixed capital formation. Crypto mining, for example, does not necessarily generate meaningful value-added despite consuming vast amounts of electricity. </p><p data-line-id="559f85f6094e4b13a24b421aa5e61cd4"> The subject has even reached the United Nations, where national-income-accounting standards are developed and agreed upon. Amusing as it may sound, some economists have seriously proposed that the electricity consumed by crypto mining be treated as “<a href="https://unstats.un.org/unsd/nationalaccount/RAdocs/F18_GN_Recording_Crypto_Assets.pdf">capital formation</a>.” Others might suggest that newly minted Bitcoins could be classified as inventory, and thus as stock-building. For now, the debate remains far from settled. </p><h2 data-line-id="4fcff0c47f974a49b0b25a84c88be145"><strong>Conditions for Crypto</strong></h2><p data-line-id="a9cfd0960fc44265ad943ee30bf5e42d"> Cryptocurrencies tend to flourish in two environments. The first is failed states, where no single authority maintains effective control, or where law and order have collapsed altogether. In stable countries, currencies are issued by a central bank and derive their value from the government’s guarantee that they will be accepted as legal tender. Failed states, by contrast, often lack both a functioning central bank and a government capable of enforcing such rules. </p>
+
+<p data-line-id="0fe850f7902845a785a25420f34a3d76"> The other environment in which cryptocurrencies flourish are regimes under which corruption is shrugged off as a trivial matter. Members of Trump’s family, and of Middle East special envoy Steve Witkoff’s family, secured a <a href="https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html">$2 billion investment</a> in their startup crypto firm World Liberty Financial from the United Arab Emirates while Witkoff and Trump agreed to allow sales of advanced AI chips to the UAE despite national security concerns.  </p><p data-line-id="fa2ce04f74a54b4db179e459267fb25f"> One reason why such deals get made is tied to cryptocurrencies’ opacity. While ownership is recorded on a distributed ledger, or blockchain, the real identities behind the digital addresses usually remain hidden. This makes money laundering – and non-disclosure – much easier, because police and tax authorities, as well as government ethics watchdogs, cannot readily match transactions to individuals. </p><p data-line-id="12a85f8b932b4994836d260eb002d217"> Since 2015, the US Internal Revenue Service has had investigative powers that provide it with considerable insight into cryptocurrency ownership. But tax authorities in most other countries lack the IRS’s resources and expertise, and even in the United States, the agency’s capabilities are likely to be significantly diminished if the Trump administration goes ahead with <a href="https://taxlawcenter.org/blog/the-trump-administrations-proposed-irs-cuts-would-declare-open-season-for-high-end-tax-evasion-and-deny-americans-modern-taxpayer-services">plans</a> to slash the IRS budget and sharply reduce the number of enforcement agents it employs. </p><p data-line-id="3b32f85d9b14471692c46f3c77c29dc5"> To be sure, money laundering is hardly the only reason to use cryptocurrencies. People in failed states who wish to safeguard their savings are likely to lack access to trustworthy financial institutions, making cryptocurrencies an appealing substitute. </p><p data-line-id="bc2c829035644d34b88e246fb2970be3"> But such examples are negligible compared with the scale of international money laundering, much of which involves criminals from failed states moving funds through disreputable financial institutions in countries like Panama and Lebanon, or through dubious organizations in Singapore, Luxembourg, and Malta. These funds ultimately find their way into more established institutions in the US, Switzerland, the UK, and beyond. </p><p data-line-id="b515807dc5ee47229996c77232ae50cc"> Domestic money laundering, by contrast, is more mundane. As the Harvard University economist <a href="https://www.project-syndicate.org/columnist/kenneth-rogoff">Kenneth Rogoff</a> observed in his 2016 book <a href="https://press.princeton.edu/books/paperback/9780691178363/the-curse-of-cash"><em>The Curse of Cash</em></a>, much of it does not involve cryptocurrencies at all but instead relies on cash transfers between individuals. While the sums are relatively modest, the widespread circulation of high-denomination banknotes in many countries has long made them the medium of choice in the criminal underworld and the broader shadow economy. </p><p data-line-id="1be1c33782bb4418922d2cde840eaeb0"> Cryptocurrencies offer an alternative to transactions in high-denomination notes. Rogoff puts the size of the “informal economy” at <a href="https://www.nber.org/system/files/working_papers/w31963/w31963.pdf">$20 trillion</a> – a startling figure, given that the International Monetary Fund estimates total global GDP at <a href="https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD">$115 trillion</a>. Although Rogoff’s estimate has been the subject of some debate, it is beyond dispute that the triangulation method used by national-income accountants in advanced economies cannot be applied to informal sectors. Consequently, Rogoff warns that statistics agencies are, to some degree, relying on educated guesses when compiling national accounts. </p><p data-line-id="9fe80679d2e54a4cb0ad795944069399"> To be sure, a large share of cryptocurrency trading is conducted by law-abiding individuals with nothing more nefarious in mind than financial speculation. A few may even strike it rich, much like gamblers at the racetrack or in casinos. But it is impossible to ignore the fact that Binance’s founder, Changpeng Zhao, served four months in a US prison in 2024 after pleading guilty to money laundering.  </p><p data-line-id="0c3684519b2f4f618dd3b686f39b40b2"> As the BBC <a href="https://www.bbc.com/news/technology-68930465">reported</a>, prosecutors sought a three-year sentence, while the judge overseeing the case observed that Zhao had put “Binance’s growth and profits over compliance with US laws and regulations.” Then-US Treasury Secretary <a href="https://www.project-syndicate.org/columnist/janet-l-yellen">Janet Yellen</a> was even more blunt, declaring that Binance’s “willful failures allowed money to flow to terrorists, cybercriminals, and child abusers.”  </p><p data-line-id="be7a4ac4cc554b52ae5d2fe7ee5fbf66"> The broader lesson is clear: buying cryptocurrencies is not an investment in innovation. Instead, it is a bet on the growth of money laundering and shadow economies worldwide. </p><h2 data-line-id="6df7e9c0154948c0bae99ce96f73db07"><strong>How Crypto Destroys Value</strong></h2><p data-line-id="db3e14a05a1c46d09409b9a80e952b3d"> Venezuela illustrates how state failure and international crime often go hand in hand. Following years of economic mismanagement and political chaos that cut per-capita income by <a href="https://www.foreignaffairs.com/reviews/collapse-venezuela-scorched-earth-politics-and-economic-decline-2012-2020">more than 70%</a> and fueled mass emigration, the country has become a major hub for <a href="https://www.gao.gov/blog/venezuelas-political-unrest-has-made-drug-trafficking-money-laundering-and-other-crimes-easier">organized crime</a>. These conditions have triggered the current conflict between the US and Venezuela, with the Trump administration <a href="https://www.cnn.com/2025/09/01/americas/trump-venezuela-maduro-drug-threat-analysis-intl-latam">accusing</a> President Nicolás Maduro of being “one of the most powerful drug traffickers in the world” and offering $50 million for information leading to his arrest. </p><p data-line-id="6a8d5738ce4d4009a10c7d4a4d542f5b"> Unsurprisingly, cryptocurrencies have <a href="https://www.ft.com/content/dc68b9c5-e2f7-4403-8887-e2895265afb0">become a lifeline</a> for Venezuelans. While the bolívar remains the official currency, relentless depreciation, caused by disastrous monetary policies, together with government crackdowns on black-market dollars, has pushed retailers to accept crypto payments through platforms like Binance and Airtm. </p><p data-line-id="e692fe9b1a954e19abeb6b823619396f"> On the surface, this may seem like a welcome adaptation. In reality, crypto has also provided Maduro and his cronies with an effective tool to <a href="https://www.wilsoncenter.org/sites/default/files/media/uploads/documents/Report_STIP-april-2024.pdf">circumvent US sanctions</a>. Maduro may even have encouraged crypto’s spread across what remains of Venezuela’s formal economy precisely because it doubles as a back channel for laundering his regime’s illicit proceeds. </p><p data-line-id="a89890b5b91e427eb989ca9a0b424b51"> This underscores the challenges facing national-income accountants in the UK, the US, and elsewhere. In macroeconomic theory, national income, expenditure, and output are, <em>ex post</em>, identical. While the triangulation method is intended to provide a single consistent measure of economic activity, statisticians still wrestle with messy data and the persistent gap between theory and reality. But cryptocurrencies appear to be the point where theory and reality part company. Issuers and traders do not constitute a true industry. They produce little of genuine value. Worse, by enabling money laundering, they are actively destroying value. </p><p data-line-id="586e90dd73d74b5daaa125e39aa5fe83"> The task of measuring economic activity has always been complicated by what happens outside formal channels. I recall a remark by an economist at the Bank of England in the 1980s: “Statistical discrepancy is the largest creditor in the economy.” As the crypto market continues to boom, that quip rings prophetic. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>The Brazilian Bulwark</title>
+    <link href="https://www.project-syndicate.org/onpoint/the-brazilian-bulwark" />
+    <id>https://www.project-syndicate.org/onpoint/the-brazilian-bulwark</id>
+    <published>2025-09-19T00:00:29+00:00</published>
+    <updated>2025-09-19T00:00:29+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="the-brazilian-bulwark">
+<a class="track-event overlay" data-entity-id="68cd13681b2f8dd77834c93f" data-entity-link-name="the-brazilian-bulwark" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/the-brazilian-bulwark" data-language="english" href="/onpoint/the-brazilian-bulwark" title="The Brazilian Bulwark"><span class="u-tos">The Brazilian Bulwark</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="onpoint/the-brazilian-bulwark">The Brazilian Bulwark</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Sep 19, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="ps-commentators" data-entity-type="member" data-event-action="click" data-href-original="/profile/ps-commentators" data-language="english" href="/profile/ps-commentators">PS Commentators </a>
+contrast the country’s response to a former president’s coup attempt with that of the US.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="the-brazilian-bulwark">
+<a class="track-event overlay" data-entity-id="68cd13681b2f8dd77834c93f" data-entity-link-name="the-brazilian-bulwark" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/the-brazilian-bulwark" data-language="english" href="/onpoint/the-brazilian-bulwark" title="The Brazilian Bulwark"><span class="u-tos">The Brazilian Bulwark</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/08390b9906be819bbb7c3ff93f91dcf3.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="onpoint/the-brazilian-bulwark">The Brazilian Bulwark</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Sep 19, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="ps-commentators" data-entity-type="member" data-event-action="click" data-href-original="/profile/ps-commentators" data-language="english" href="/profile/ps-commentators">PS Commentators </a>
+contrast the country’s response to a former president’s coup attempt with that of the US.        </p>
+</header>
+</li>
+    <br/> <span itemprop="abstract">
+<p data-line-id="55d1be1c6e5647908820138df81638d6">Whereas US President Donald Trump was re-elected despite having incited an insurrection aimed at disrupting the peaceful transfer of power, Brazil’s former president, Jair Bolsonaro, was sentenced to 27 years in prison for his Trump-inspired coup attempt in 2023. And now Brazil, unlike many countries, is refusing to be cowed by Trump 2.0.</p>
+</span>]]></content>
+  </entry>
+  <entry>
+    <title>Renminbi Debt in a Dollar-Denominated World</title>
+    <link href="https://www.project-syndicate.org/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" />
+    <id>https://www.project-syndicate.org/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09</id>
+    <published>2025-09-19T00:00:28+00:00</published>
+    <updated>2025-09-19T00:00:28+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09">
+<a class="track-event overlay" data-entity-id="68cbe1ce1b2f8dd778e9e46e" data-entity-link-name="renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" data-language="english" href="/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" title="Renminbi Debt in a Dollar-Denominated World"><span class="u-tos">Renminbi Debt in a Dollar-Denominated World</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09">Renminbi Debt in a Dollar-Denominated World</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Sep 19, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="paola-subacchi" data-entity-type="member" data-event-action="click" data-href-original="columnist/paola-subacchi" data-language="english" href="columnist/paola-subacchi">Paola Subacchi </a>
+thinks Chinese lending could meet a big need in the developing world, even if it doesn't dethrone the dollar.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09">
+<a class="track-event overlay" data-entity-id="68cbe1ce1b2f8dd778e9e46e" data-entity-link-name="renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" data-language="english" href="/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" title="Renminbi Debt in a Dollar-Denominated World"><span class="u-tos">Renminbi Debt in a Dollar-Denominated World</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/b63578d9964eb25a71278330139799d6.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09">Renminbi Debt in a Dollar-Denominated World</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Sep 19, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="paola-subacchi" data-entity-type="member" data-event-action="click" data-href-original="columnist/paola-subacchi" data-language="english" href="columnist/paola-subacchi">Paola Subacchi </a>
+thinks Chinese lending could meet a big need in the developing world, even if it doesn't dethrone the dollar.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/renminbi-debt-role-to-play-in-development-finance-by-paola-subacchi-2025-09" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="0044851ebda94f80bce9797230d2ac8a"> PARIS – When governments borrow on international markets, they do so overwhelmingly in US dollars. Roughly <a href="https://www.ecb.europa.eu/press/other-publications/ire/html/ecb.ire202106~a058f84c61.en.html">two-thirds</a> of international debt issuance is denominated in foreign currencies, of which nearly half is in dollars and about 40% is in euros. The rest is spread across other currencies, including the Chinese renminbi. </p>
+</div>]]></content>
+  </entry>
+  <entry>
     <title>Reimagining Agriculture for Young People</title>
     <link href="https://www.project-syndicate.org/commentary/how-to-entice-young-people-to-work-in-agriculture-by-maximo-torero-2025-09" />
     <id>https://www.project-syndicate.org/commentary/how-to-entice-young-people-to-work-in-agriculture-by-maximo-torero-2025-09</id>
-    <published>2025-09-18T00:00:30+00:00</published>
-    <updated>2025-09-18T00:00:30+00:00</updated>
+    <published>2025-09-18T00:00:27+00:00</published>
+    <updated>2025-09-18T00:00:27+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="how-to-entice-young-people-to-work-in-agriculture-by-maximo-torero-2025-09">
 <a class="track-event overlay" data-entity-id="68cc0dbb1b2f8dd778a687a4" data-entity-link-name="how-to-entice-young-people-to-work-in-agriculture-by-maximo-torero-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/how-to-entice-young-people-to-work-in-agriculture-by-maximo-torero-2025-09" data-language="english" href="/commentary/how-to-entice-young-people-to-work-in-agriculture-by-maximo-torero-2025-09" title="Reimagining Agriculture for Young People"><span class="u-tos">Reimagining Agriculture for Young People</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -67,8 +221,8 @@ urges policymakers to steer new generations toward the rapidly growing category 
     <title>The Fed’s Wrong Move</title>
     <link href="https://www.project-syndicate.org/commentary/fed-interest-rate-cuts-will-have-to-be-reversed-in-2026-by-michael-r-strain-2025-09" />
     <id>https://www.project-syndicate.org/commentary/fed-interest-rate-cuts-will-have-to-be-reversed-in-2026-by-michael-r-strain-2025-09</id>
-    <published>2025-09-18T00:00:29+00:00</published>
-    <updated>2025-09-18T00:00:29+00:00</updated>
+    <published>2025-09-18T00:00:26+00:00</published>
+    <updated>2025-09-18T00:00:26+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="fed-interest-rate-cuts-will-have-to-be-reversed-in-2026-by-michael-r-strain-2025-09">
 <a class="track-event overlay" data-entity-id="68cbedab1b2f8dd7782323f8" data-entity-link-name="fed-interest-rate-cuts-will-have-to-be-reversed-in-2026-by-michael-r-strain-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/fed-interest-rate-cuts-will-have-to-be-reversed-in-2026-by-michael-r-strain-2025-09" data-language="english" href="/commentary/fed-interest-rate-cuts-will-have-to-be-reversed-in-2026-by-michael-r-strain-2025-09" title="The Fed’s Wrong Move"><span class="u-tos">The Fed’s Wrong Move</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -119,8 +273,8 @@ argues that US interest-rate cuts this year will have to be reversed in 2026, as
     <title>What a China-EU Climate Deal Could Do for the World</title>
     <link href="https://www.project-syndicate.org/commentary/china-eu-climate-deal-in-absence-of-us-leadership-by-adair-turner-2025-09" />
     <id>https://www.project-syndicate.org/commentary/china-eu-climate-deal-in-absence-of-us-leadership-by-adair-turner-2025-09</id>
-    <published>2025-09-18T00:00:28+00:00</published>
-    <updated>2025-09-18T00:00:28+00:00</updated>
+    <published>2025-09-18T00:00:25+00:00</published>
+    <updated>2025-09-18T00:00:25+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="china-eu-climate-deal-in-absence-of-us-leadership-by-adair-turner-2025-09">
 <a class="track-event overlay" data-entity-id="68cbded81b2f8dd778d75b3a" data-entity-link-name="china-eu-climate-deal-in-absence-of-us-leadership-by-adair-turner-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/china-eu-climate-deal-in-absence-of-us-leadership-by-adair-turner-2025-09" data-language="english" href="/commentary/china-eu-climate-deal-in-absence-of-us-leadership-by-adair-turner-2025-09" title="What a China-EU Climate Deal Could Do for the World"><span class="u-tos">What a China-EU Climate Deal Could Do for the World</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -169,8 +323,8 @@ hopes to see renewed cooperation on decarbonization between two of the world's t
     <title>Authoritarians’ Brave New Cities</title>
     <link href="https://www.project-syndicate.org/commentary/freedom-cities-reclaim-idea-from-techno-authoritarians-by-robert-muggah-and-carlo-ratti-2025-09" />
     <id>https://www.project-syndicate.org/commentary/freedom-cities-reclaim-idea-from-techno-authoritarians-by-robert-muggah-and-carlo-ratti-2025-09</id>
-    <published>2025-09-18T00:00:27+00:00</published>
-    <updated>2025-09-18T00:00:27+00:00</updated>
+    <published>2025-09-18T00:00:24+00:00</published>
+    <updated>2025-09-18T00:00:24+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="freedom-cities-reclaim-idea-from-techno-authoritarians-by-robert-muggah-and-carlo-ratti-2025-09">
 <a class="track-event overlay" data-entity-id="68cba3381b2f8dd778bcd0d1" data-entity-link-name="freedom-cities-reclaim-idea-from-techno-authoritarians-by-robert-muggah-and-carlo-ratti-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/freedom-cities-reclaim-idea-from-techno-authoritarians-by-robert-muggah-and-carlo-ratti-2025-09" data-language="english" href="/commentary/freedom-cities-reclaim-idea-from-techno-authoritarians-by-robert-muggah-and-carlo-ratti-2025-09" title="Authoritarians’ Brave New Cities"><span class="u-tos">Authoritarians’ Brave New Cities</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -223,8 +377,8 @@ urge progressives to reclaim the mantle of experimental urbanism from the techno
     <title>Lawless State Capitalism Is No Answer to China’s Rise</title>
     <link href="https://www.project-syndicate.org/commentary/trump-state-capitalism-lawless-and-no-answer-to-china-rivalry-by-curtis-j-milhaupt-and-angela-huyue-zhang-2025-09" />
     <id>https://www.project-syndicate.org/commentary/trump-state-capitalism-lawless-and-no-answer-to-china-rivalry-by-curtis-j-milhaupt-and-angela-huyue-zhang-2025-09</id>
-    <published>2025-09-17T00:00:26+00:00</published>
-    <updated>2025-09-17T00:00:26+00:00</updated>
+    <published>2025-09-17T00:00:23+00:00</published>
+    <updated>2025-09-17T00:00:23+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-state-capitalism-lawless-and-no-answer-to-china-rivalry-by-curtis-j-milhaupt-and-angela-huyue-zhang-2025-09">
 <a class="track-event overlay" data-entity-id="68caa9ff1c559b8ea267f44d" data-entity-link-name="trump-state-capitalism-lawless-and-no-answer-to-china-rivalry-by-curtis-j-milhaupt-and-angela-huyue-zhang-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-state-capitalism-lawless-and-no-answer-to-china-rivalry-by-curtis-j-milhaupt-and-angela-huyue-zhang-2025-09" data-language="english" href="/commentary/trump-state-capitalism-lawless-and-no-answer-to-china-rivalry-by-curtis-j-milhaupt-and-angela-huyue-zhang-2025-09" title="Lawless State Capitalism Is No Answer to China’s Rise"><span class="u-tos">Lawless State Capitalism Is No Answer to China’s Rise</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -277,8 +431,8 @@ explain why the US administration's legally dubious interventions into private m
     <title>Trump’s Dangerous Disregard for International Justice</title>
     <link href="https://www.project-syndicate.org/commentary/trump-disdain-for-transitional-justice-outlier-among-us-presidents-by-ruti-teitel-2025-09" />
     <id>https://www.project-syndicate.org/commentary/trump-disdain-for-transitional-justice-outlier-among-us-presidents-by-ruti-teitel-2025-09</id>
-    <published>2025-09-17T00:00:25+00:00</published>
-    <updated>2025-09-17T00:00:25+00:00</updated>
+    <published>2025-09-17T00:00:22+00:00</published>
+    <updated>2025-09-17T00:00:22+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-disdain-for-transitional-justice-outlier-among-us-presidents-by-ruti-teitel-2025-09">
 <a class="track-event overlay" data-entity-id="68c82483922f424a08279047" data-entity-link-name="trump-disdain-for-transitional-justice-outlier-among-us-presidents-by-ruti-teitel-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-disdain-for-transitional-justice-outlier-among-us-presidents-by-ruti-teitel-2025-09" data-language="english" href="/commentary/trump-disdain-for-transitional-justice-outlier-among-us-presidents-by-ruti-teitel-2025-09" title="Trump’s Dangerous Disregard for International Justice"><span class="u-tos">Trump’s Dangerous Disregard for International Justice</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -329,8 +483,8 @@ warns that the US administration’s hostility to the rule of law represents a g
     <title>The First AI Government Minister</title>
     <link href="https://www.project-syndicate.org/commentary/albania-ai-minister-of-procurement-implications-for-democracy-by-daniel-innerarity-and-fabrizio-tassinari-2025-09" />
     <id>https://www.project-syndicate.org/commentary/albania-ai-minister-of-procurement-implications-for-democracy-by-daniel-innerarity-and-fabrizio-tassinari-2025-09</id>
-    <published>2025-09-17T00:00:24+00:00</published>
-    <updated>2025-09-17T00:00:24+00:00</updated>
+    <published>2025-09-17T00:00:21+00:00</published>
+    <updated>2025-09-17T00:00:21+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="albania-ai-minister-of-procurement-implications-for-democracy-by-daniel-innerarity-and-fabrizio-tassinari-2025-09">
 <a class="track-event overlay" data-entity-id="68ca7fc31c559b8ea27b0765" data-entity-link-name="albania-ai-minister-of-procurement-implications-for-democracy-by-daniel-innerarity-and-fabrizio-tassinari-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/albania-ai-minister-of-procurement-implications-for-democracy-by-daniel-innerarity-and-fabrizio-tassinari-2025-09" data-language="english" href="/commentary/albania-ai-minister-of-procurement-implications-for-democracy-by-daniel-innerarity-and-fabrizio-tassinari-2025-09" title="The First AI Government Minister"><span class="u-tos">The First AI Government Minister</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -383,8 +537,8 @@ consider the implications of Albania's premier appointing a chatbot to his cabin
     <title>Trump the Useful Idiot</title>
     <link href="https://www.project-syndicate.org/commentary/trump-is-a-useful-idiot-for-putin-and-xi-by-nina-l-khrushcheva-2025-09" />
     <id>https://www.project-syndicate.org/commentary/trump-is-a-useful-idiot-for-putin-and-xi-by-nina-l-khrushcheva-2025-09</id>
-    <published>2025-09-17T00:00:23+00:00</published>
-    <updated>2025-09-17T00:00:23+00:00</updated>
+    <published>2025-09-17T00:00:20+00:00</published>
+    <updated>2025-09-17T00:00:20+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-is-a-useful-idiot-for-putin-and-xi-by-nina-l-khrushcheva-2025-09">
 <a class="track-event overlay" data-entity-id="68c99287c563aa567440b9e0" data-entity-link-name="trump-is-a-useful-idiot-for-putin-and-xi-by-nina-l-khrushcheva-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-is-a-useful-idiot-for-putin-and-xi-by-nina-l-khrushcheva-2025-09" data-language="english" href="/commentary/trump-is-a-useful-idiot-for-putin-and-xi-by-nina-l-khrushcheva-2025-09" title="Trump the Useful Idiot"><span class="u-tos">Trump the Useful Idiot</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -435,8 +589,8 @@ sees in the US president a Soviet-era archetype, enabling and emboldening author
     <title>Developing Countries Are Paying Too Much to Borrow</title>
     <link href="https://www.project-syndicate.org/commentary/why-developing-countries-borrowing-costs-are-so-high-by-ishac-diwan-and-vera-songwe-2025-09" />
     <id>https://www.project-syndicate.org/commentary/why-developing-countries-borrowing-costs-are-so-high-by-ishac-diwan-and-vera-songwe-2025-09</id>
-    <published>2025-09-16T00:00:22+00:00</published>
-    <updated>2025-09-16T00:00:22+00:00</updated>
+    <published>2025-09-16T00:00:19+00:00</published>
+    <updated>2025-09-16T00:00:19+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="why-developing-countries-borrowing-costs-are-so-high-by-ishac-diwan-and-vera-songwe-2025-09">
 <a class="track-event overlay" data-entity-id="68c9987cc563aa56745b140a" data-entity-link-name="why-developing-countries-borrowing-costs-are-so-high-by-ishac-diwan-and-vera-songwe-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/why-developing-countries-borrowing-costs-are-so-high-by-ishac-diwan-and-vera-songwe-2025-09" data-language="english" href="/commentary/why-developing-countries-borrowing-costs-are-so-high-by-ishac-diwan-and-vera-songwe-2025-09" title="Developing Countries Are Paying Too Much to Borrow"><span class="u-tos">Developing Countries Are Paying Too Much to Borrow</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -489,8 +643,8 @@ point to features of the global financial architecture that are doing more harm 
     <title>How Trump Could Ensure His Legacy as a Peacemaker</title>
     <link href="https://www.project-syndicate.org/commentary/trump-should-pursue-nuclear-arms-control-agreements-russia-china-by-david-gross-et-al-2025-09" />
     <id>https://www.project-syndicate.org/commentary/trump-should-pursue-nuclear-arms-control-agreements-russia-china-by-david-gross-et-al-2025-09</id>
-    <published>2025-09-16T00:00:21+00:00</published>
-    <updated>2025-09-16T00:00:21+00:00</updated>
+    <published>2025-09-16T00:00:18+00:00</published>
+    <updated>2025-09-16T00:00:18+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-should-pursue-nuclear-arms-control-agreements-russia-china-by-david-gross-et-al-2025-09">
 <a class="track-event overlay" data-entity-id="68c98bf0c563aa5674271408" data-entity-link-name="trump-should-pursue-nuclear-arms-control-agreements-russia-china-by-david-gross-et-al-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-should-pursue-nuclear-arms-control-agreements-russia-china-by-david-gross-et-al-2025-09" data-language="english" href="/commentary/trump-should-pursue-nuclear-arms-control-agreements-russia-china-by-david-gross-et-al-2025-09" title="How Trump Could Ensure His Legacy as a Peacemaker"><span class="u-tos">How Trump Could Ensure His Legacy as a Peacemaker</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -541,8 +695,8 @@ explain how to reduce the risk of nuclear conflict at a time when the risks of o
     <title>India’s Reckoning With Its Dangerous Neighborhood</title>
     <link href="https://www.project-syndicate.org/commentary/india-unrest-nepal-bangladesh-pakistan-elsewhere-is-growing-concern-by-nirupama-rao-2025-09" />
     <id>https://www.project-syndicate.org/commentary/india-unrest-nepal-bangladesh-pakistan-elsewhere-is-growing-concern-by-nirupama-rao-2025-09</id>
-    <published>2025-09-16T00:00:20+00:00</published>
-    <updated>2025-09-16T00:00:20+00:00</updated>
+    <published>2025-09-16T00:00:17+00:00</published>
+    <updated>2025-09-16T00:00:17+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="india-unrest-nepal-bangladesh-pakistan-elsewhere-is-growing-concern-by-nirupama-rao-2025-09">
 <a class="track-event overlay" data-entity-id="68c96acbc563aa5674af04e1" data-entity-link-name="india-unrest-nepal-bangladesh-pakistan-elsewhere-is-growing-concern-by-nirupama-rao-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/india-unrest-nepal-bangladesh-pakistan-elsewhere-is-growing-concern-by-nirupama-rao-2025-09" data-language="english" href="/commentary/india-unrest-nepal-bangladesh-pakistan-elsewhere-is-growing-concern-by-nirupama-rao-2025-09" title="India’s Reckoning With Its Dangerous Neighborhood"><span class="u-tos">India’s Reckoning With Its Dangerous Neighborhood</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -593,8 +747,8 @@ explains why the country is increasingly anxious about political instability in 
     <title>How Off-Grid Solar Can Transform an Economy</title>
     <link href="https://www.project-syndicate.org/commentary/off-grid-solar-transform-an-economy-malawi-by-ibrahim-matola-2025-09" />
     <id>https://www.project-syndicate.org/commentary/off-grid-solar-transform-an-economy-malawi-by-ibrahim-matola-2025-09</id>
-    <published>2025-09-16T00:00:19+00:00</published>
-    <updated>2025-09-16T00:00:19+00:00</updated>
+    <published>2025-09-16T00:00:16+00:00</published>
+    <updated>2025-09-16T00:00:16+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="off-grid-solar-transform-an-economy-malawi-by-ibrahim-matola-2025-09">
 <a class="track-event overlay" data-entity-id="68c95a11c563aa567469dfbd" data-entity-link-name="off-grid-solar-transform-an-economy-malawi-by-ibrahim-matola-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/off-grid-solar-transform-an-economy-malawi-by-ibrahim-matola-2025-09" data-language="english" href="/commentary/off-grid-solar-transform-an-economy-malawi-by-ibrahim-matola-2025-09" title="How Off-Grid Solar Can Transform an Economy"><span class="u-tos">How Off-Grid Solar Can Transform an Economy</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -643,8 +797,8 @@ explains how distributed renewable energy technologies are driving growth in Mal
     <title>Why Is Everyone So Self-Righteous?</title>
     <link href="https://www.project-syndicate.org/commentary/self-righteousness-framing-issues-around-sacred-values-instead-of-consequences-by-steven-sloman-2025-09" />
     <id>https://www.project-syndicate.org/commentary/self-righteousness-framing-issues-around-sacred-values-instead-of-consequences-by-steven-sloman-2025-09</id>
-    <published>2025-09-16T00:00:18+00:00</published>
-    <updated>2025-09-16T00:00:18+00:00</updated>
+    <published>2025-09-16T00:00:15+00:00</published>
+    <updated>2025-09-16T00:00:15+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="self-righteousness-framing-issues-around-sacred-values-instead-of-consequences-by-steven-sloman-2025-09">
 <a class="track-event overlay" data-entity-id="68c70665922f424a0899ed29" data-entity-link-name="self-righteousness-framing-issues-around-sacred-values-instead-of-consequences-by-steven-sloman-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/self-righteousness-framing-issues-around-sacred-values-instead-of-consequences-by-steven-sloman-2025-09" data-language="english" href="/commentary/self-righteousness-framing-issues-around-sacred-values-instead-of-consequences-by-steven-sloman-2025-09" title="Why Is Everyone So Self-Righteous?"><span class="u-tos">Why Is Everyone So Self-Righteous?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -695,8 +849,8 @@ points out that most people view issues through the lens of sacred values, not o
     <title>Is Brazil’s Democracy Out of the Woods?</title>
     <link href="https://www.project-syndicate.org/commentary/is-brazilian-democracy-safe-after-bolsonaro-sentencing-by-sergio-fausto-2025-09" />
     <id>https://www.project-syndicate.org/commentary/is-brazilian-democracy-safe-after-bolsonaro-sentencing-by-sergio-fausto-2025-09</id>
-    <published>2025-09-15T00:00:17+00:00</published>
-    <updated>2025-09-15T00:00:17+00:00</updated>
+    <published>2025-09-15T00:00:14+00:00</published>
+    <updated>2025-09-15T00:00:14+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="is-brazilian-democracy-safe-after-bolsonaro-sentencing-by-sergio-fausto-2025-09">
 <a class="track-event overlay" data-entity-id="68c80644922f424a08946992" data-entity-link-name="is-brazilian-democracy-safe-after-bolsonaro-sentencing-by-sergio-fausto-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/is-brazilian-democracy-safe-after-bolsonaro-sentencing-by-sergio-fausto-2025-09" data-language="english" href="/commentary/is-brazilian-democracy-safe-after-bolsonaro-sentencing-by-sergio-fausto-2025-09" title="Is Brazil’s Democracy Out of the Woods?"><span class="u-tos">Is Brazil’s Democracy Out of the Woods?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -747,8 +901,8 @@ surveys the country’s political terrain in the aftermath of the sentencing of 
     <title>Seemingly Conscious AI Is Coming</title>
     <link href="https://www.project-syndicate.org/commentary/seemingly-conscious-ai-urgent-threat-tech-industry-must-address-by-mustafa-suleyman-2025-09" />
     <id>https://www.project-syndicate.org/commentary/seemingly-conscious-ai-urgent-threat-tech-industry-must-address-by-mustafa-suleyman-2025-09</id>
-    <published>2025-09-15T00:00:16+00:00</published>
-    <updated>2025-09-15T00:00:16+00:00</updated>
+    <published>2025-09-15T00:00:13+00:00</published>
+    <updated>2025-09-15T00:00:13+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="seemingly-conscious-ai-urgent-threat-tech-industry-must-address-by-mustafa-suleyman-2025-09">
 <a class="track-event overlay" data-entity-id="68c6e3ed8a6322537c2dc5d5" data-entity-link-name="seemingly-conscious-ai-urgent-threat-tech-industry-must-address-by-mustafa-suleyman-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/seemingly-conscious-ai-urgent-threat-tech-industry-must-address-by-mustafa-suleyman-2025-09" data-language="english" href="/commentary/seemingly-conscious-ai-urgent-threat-tech-industry-must-address-by-mustafa-suleyman-2025-09" title="Seemingly Conscious AI Is Coming"><span class="u-tos">Seemingly Conscious AI Is Coming</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -799,8 +953,8 @@ urges the industry to avoid building systems that can create an illusion of cons
     <title>The US Will Rue Trump’s Trade War on India</title>
     <link href="https://www.project-syndicate.org/commentary/america-will-regret-trump-tariffs-on-india-by-duvvuri-subbarao-1-2025-09" />
     <id>https://www.project-syndicate.org/commentary/america-will-regret-trump-tariffs-on-india-by-duvvuri-subbarao-1-2025-09</id>
-    <published>2025-09-15T00:00:15+00:00</published>
-    <updated>2025-09-15T00:00:15+00:00</updated>
+    <published>2025-09-15T00:00:12+00:00</published>
+    <updated>2025-09-15T00:00:12+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="america-will-regret-trump-tariffs-on-india-by-duvvuri-subbarao-1-2025-09">
 <a class="track-event overlay" data-entity-id="68c7f750922f424a0850f3ec" data-entity-link-name="america-will-regret-trump-tariffs-on-india-by-duvvuri-subbarao-1-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/america-will-regret-trump-tariffs-on-india-by-duvvuri-subbarao-1-2025-09" data-language="english" href="/commentary/america-will-regret-trump-tariffs-on-india-by-duvvuri-subbarao-1-2025-09" title="The US Will Rue Trump’s Trade War on India"><span class="u-tos">The US Will Rue Trump’s Trade War on India</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -851,8 +1005,8 @@ warns that imposing punitive tariffs on a major rising power will undermine Amer
     <title>Lower Interest Rates Are the Right Policy for the Wrong Reasons</title>
     <link href="https://www.project-syndicate.org/commentary/rate-cuts-right-policy-but-could-signal-loss-of-fed-independence-by-mark-blyth-and-nicolo-fraccaroli-2025-09" />
     <id>https://www.project-syndicate.org/commentary/rate-cuts-right-policy-but-could-signal-loss-of-fed-independence-by-mark-blyth-and-nicolo-fraccaroli-2025-09</id>
-    <published>2025-09-15T00:00:14+00:00</published>
-    <updated>2025-09-15T00:00:14+00:00</updated>
+    <published>2025-09-15T00:00:11+00:00</published>
+    <updated>2025-09-15T00:00:11+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="rate-cuts-right-policy-but-could-signal-loss-of-fed-independence-by-mark-blyth-and-nicolo-fraccaroli-2025-09">
 <a class="track-event overlay" data-entity-id="68c6cbef8a6322537ce446aa" data-entity-link-name="rate-cuts-right-policy-but-could-signal-loss-of-fed-independence-by-mark-blyth-and-nicolo-fraccaroli-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/commentary/rate-cuts-right-policy-but-could-signal-loss-of-fed-independence-by-mark-blyth-and-nicolo-fraccaroli-2025-09" data-language="english" href="/commentary/rate-cuts-right-policy-but-could-signal-loss-of-fed-independence-by-mark-blyth-and-nicolo-fraccaroli-2025-09" title="Lower Interest Rates Are the Right Policy for the Wrong Reasons"><span class="u-tos">Lower Interest Rates Are the Right Policy for the Wrong Reasons</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -905,8 +1059,8 @@ worry that monetary policy loosening is warranted but also politically treachero
     <title>Migration Is the Key to Global Prosperity</title>
     <link href="https://www.project-syndicate.org/magazine/migration-key-to-shared-prosperity-wealthy-and-developing-countries-alike-by-carlos-alvarado-quesada-and-katrina-burgess-2025-09" />
     <id>https://www.project-syndicate.org/magazine/migration-key-to-shared-prosperity-wealthy-and-developing-countries-alike-by-carlos-alvarado-quesada-and-katrina-burgess-2025-09</id>
-    <published>2025-09-15T00:00:13+00:00</published>
-    <updated>2025-09-15T00:00:13+00:00</updated>
+    <published>2025-09-15T00:00:10+00:00</published>
+    <updated>2025-09-15T00:00:10+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="migration-key-to-shared-prosperity-wealthy-and-developing-countries-alike-by-carlos-alvarado-quesada-and-katrina-burgess-2025-09">
 <a class="track-event overlay" data-entity-id="689e0acc75514ec7fbad8b02" data-entity-link-name="migration-key-to-shared-prosperity-wealthy-and-developing-countries-alike-by-carlos-alvarado-quesada-and-katrina-burgess-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/migration-key-to-shared-prosperity-wealthy-and-developing-countries-alike-by-carlos-alvarado-quesada-and-katrina-burgess-2025-09" data-language="english" href="/magazine/migration-key-to-shared-prosperity-wealthy-and-developing-countries-alike-by-carlos-alvarado-quesada-and-katrina-burgess-2025-09" title="Migration Is the Key to Global Prosperity"><span class="u-tos">Migration Is the Key to Global Prosperity</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -959,8 +1113,8 @@ offer a roadmap for putting common sense and evidence-based policymaking first i
     <title>The False Promise of “AI for Social Good”</title>
     <link href="https://www.project-syndicate.org/magazine/ai-for-social-good-false-promise-of-technosolutionism-by-abeba-birhane-2025-09" />
     <id>https://www.project-syndicate.org/magazine/ai-for-social-good-false-promise-of-technosolutionism-by-abeba-birhane-2025-09</id>
-    <published>2025-09-15T00:00:12+00:00</published>
-    <updated>2025-09-15T00:00:12+00:00</updated>
+    <published>2025-09-15T00:00:09+00:00</published>
+    <updated>2025-09-15T00:00:09+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="ai-for-social-good-false-promise-of-technosolutionism-by-abeba-birhane-2025-09">
 <a class="track-event overlay" data-entity-id="689e0cf675514ec7fbb85951" data-entity-link-name="ai-for-social-good-false-promise-of-technosolutionism-by-abeba-birhane-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/ai-for-social-good-false-promise-of-technosolutionism-by-abeba-birhane-2025-09" data-language="english" href="/magazine/ai-for-social-good-false-promise-of-technosolutionism-by-abeba-birhane-2025-09" title="The False Promise of “AI for Social Good”"><span class="u-tos">The False Promise of “AI for Social Good”</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1011,8 +1165,8 @@ refutes industry claims about the technology's potential to solve complex social
     <title>A New Multilateralism for the SDGs</title>
     <link href="https://www.project-syndicate.org/magazine/achieving-sdgs-requires-a-new-form-of-multilateralism-by-sakiko-fukuda-parr-2025-09" />
     <id>https://www.project-syndicate.org/magazine/achieving-sdgs-requires-a-new-form-of-multilateralism-by-sakiko-fukuda-parr-2025-09</id>
-    <published>2025-09-15T00:00:11+00:00</published>
-    <updated>2025-09-15T00:00:11+00:00</updated>
+    <published>2025-09-15T00:00:08+00:00</published>
+    <updated>2025-09-15T00:00:08+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="achieving-sdgs-requires-a-new-form-of-multilateralism-by-sakiko-fukuda-parr-2025-09">
 <a class="track-event overlay" data-entity-id="689e0e4b75514ec7fbc03a60" data-entity-link-name="achieving-sdgs-requires-a-new-form-of-multilateralism-by-sakiko-fukuda-parr-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/achieving-sdgs-requires-a-new-form-of-multilateralism-by-sakiko-fukuda-parr-2025-09" data-language="english" href="/magazine/achieving-sdgs-requires-a-new-form-of-multilateralism-by-sakiko-fukuda-parr-2025-09" title="A New Multilateralism for the SDGs"><span class="u-tos">A New Multilateralism for the SDGs</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1063,8 +1217,8 @@ shows how diverse actors are complementing the role of national governments and 
     <title>Fulfilling the Promise of Private Development Finance</title>
     <link href="https://www.project-syndicate.org/magazine/derisk-investment-in-sustainable-development-to-mobilize-private-finance-at-scale-by-homi-kharas-2025-09" />
     <id>https://www.project-syndicate.org/magazine/derisk-investment-in-sustainable-development-to-mobilize-private-finance-at-scale-by-homi-kharas-2025-09</id>
-    <published>2025-09-15T00:00:10+00:00</published>
-    <updated>2025-09-15T00:00:10+00:00</updated>
+    <published>2025-09-15T00:00:07+00:00</published>
+    <updated>2025-09-15T00:00:07+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="derisk-investment-in-sustainable-development-to-mobilize-private-finance-at-scale-by-homi-kharas-2025-09">
 <a class="track-event overlay" data-entity-id="689e11b375514ec7fbd53684" data-entity-link-name="derisk-investment-in-sustainable-development-to-mobilize-private-finance-at-scale-by-homi-kharas-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/derisk-investment-in-sustainable-development-to-mobilize-private-finance-at-scale-by-homi-kharas-2025-09" data-language="english" href="/magazine/derisk-investment-in-sustainable-development-to-mobilize-private-finance-at-scale-by-homi-kharas-2025-09" title="Fulfilling the Promise of Private Development Finance"><span class="u-tos">Fulfilling the Promise of Private Development Finance</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1115,8 +1269,8 @@ touts recent efforts to de-risk sustainable investments in emerging-market and d
     <title>How Trade Fuels Illicit Financial Flows from Developing Countries</title>
     <link href="https://www.project-syndicate.org/magazine/regulate-open-account-trade-to-reduce-illicit-financial-flows-by-yuefen-li-2025-09" />
     <id>https://www.project-syndicate.org/magazine/regulate-open-account-trade-to-reduce-illicit-financial-flows-by-yuefen-li-2025-09</id>
-    <published>2025-09-15T00:00:09+00:00</published>
-    <updated>2025-09-15T00:00:09+00:00</updated>
+    <published>2025-09-15T00:00:06+00:00</published>
+    <updated>2025-09-15T00:00:06+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="regulate-open-account-trade-to-reduce-illicit-financial-flows-by-yuefen-li-2025-09">
 <a class="track-event overlay" data-entity-id="689e12fe75514ec7fbddd891" data-entity-link-name="regulate-open-account-trade-to-reduce-illicit-financial-flows-by-yuefen-li-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/regulate-open-account-trade-to-reduce-illicit-financial-flows-by-yuefen-li-2025-09" data-language="english" href="/magazine/regulate-open-account-trade-to-reduce-illicit-financial-flows-by-yuefen-li-2025-09" title="How Trade Fuels Illicit Financial Flows from Developing Countries"><span class="u-tos">How Trade Fuels Illicit Financial Flows from Developing Countries</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1167,8 +1321,8 @@ makes the case for cracking down on private transactions subject to no third-par
     <title>South-South Is the Way to Global Financial Reform</title>
     <link href="https://www.project-syndicate.org/magazine/south-south-collaboration-offers-model-for-development-finance-by-hannah-wanjie-ryder-2025-09" />
     <id>https://www.project-syndicate.org/magazine/south-south-collaboration-offers-model-for-development-finance-by-hannah-wanjie-ryder-2025-09</id>
-    <published>2025-09-15T00:00:08+00:00</published>
-    <updated>2025-09-15T00:00:08+00:00</updated>
+    <published>2025-09-15T00:00:05+00:00</published>
+    <updated>2025-09-15T00:00:05+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="south-south-collaboration-offers-model-for-development-finance-by-hannah-wanjie-ryder-2025-09">
 <a class="track-event overlay" data-entity-id="689e143f75514ec7fbe1bc78" data-entity-link-name="south-south-collaboration-offers-model-for-development-finance-by-hannah-wanjie-ryder-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/south-south-collaboration-offers-model-for-development-finance-by-hannah-wanjie-ryder-2025-09" data-language="english" href="/magazine/south-south-collaboration-offers-model-for-development-finance-by-hannah-wanjie-ryder-2025-09" title="South-South Is the Way to Global Financial Reform"><span class="u-tos">South-South Is the Way to Global Financial Reform</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1219,8 +1373,8 @@ explains why effective development finance requires a fundamental change in pers
     <title>The Ocean Is the Next Geopolitical Battleground</title>
     <link href="https://www.project-syndicate.org/magazine/oceans-next-geopolitical-battleground-by-maria-jose-valverde-2025-09" />
     <id>https://www.project-syndicate.org/magazine/oceans-next-geopolitical-battleground-by-maria-jose-valverde-2025-09</id>
-    <published>2025-09-15T00:00:07+00:00</published>
-    <updated>2025-09-15T00:00:07+00:00</updated>
+    <published>2025-09-15T00:00:04+00:00</published>
+    <updated>2025-09-15T00:00:04+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="oceans-next-geopolitical-battleground-by-maria-jose-valverde-2025-09">
 <a class="track-event overlay" data-entity-id="689e160c75514ec7fbe6ce5c" data-entity-link-name="oceans-next-geopolitical-battleground-by-maria-jose-valverde-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/oceans-next-geopolitical-battleground-by-maria-jose-valverde-2025-09" data-language="english" href="/magazine/oceans-next-geopolitical-battleground-by-maria-jose-valverde-2025-09" title="The Ocean Is the Next Geopolitical Battleground"><span class="u-tos">The Ocean Is the Next Geopolitical Battleground</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1271,8 +1425,8 @@ explains why the world's maritime regions are the next frontier of great-power c
     <title>Will COP30 Deliver?</title>
     <link href="https://www.project-syndicate.org/magazine/cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09" />
     <id>https://www.project-syndicate.org/magazine/cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09</id>
-    <published>2025-09-15T00:00:06+00:00</published>
-    <updated>2025-09-15T00:00:06+00:00</updated>
+    <published>2025-09-15T00:00:03+00:00</published>
+    <updated>2025-09-15T00:00:03+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09">
 <a class="track-event overlay" data-entity-id="689e1fb475514ec7fb000c0d" data-entity-link-name="cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09" data-language="english" href="/magazine/cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09" title="Will COP30 Deliver?"><span class="u-tos">Will COP30 Deliver?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1317,237 +1471,6 @@ weigh in on how to define a successful conference, given the growing challenges 
  | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/cop30-what-would-make-the-conference-a-success-by-maria-fernanda-espinosa-et-al-2025-09" target="_blank">archive.is</a></div>
     <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
 <p data-line-id="9676253676f04eca8df5311a85168cf7"><em>PS Quarterly</em> regularly features short responses from experts on topics of global concern, and this time we are looking ahead to the next United Nations Climate Change Conference (COP30). From November 10-21, Brazil will host delegations from around the world to discuss a packed agenda that <a href="https://cop30.br/en/news-about-cop30/cop30-announces-ambitious-thematic-days-invites-the-world-to-belem">includes</a> “energy, industry &amp; transport; forests, oceans &amp; biodiversity; agriculture &amp; food systems; cities, infrastructure &amp; water; human and social development; and cross-cutting issues.”</p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>A New Economics for Neglected Places</title>
-    <link href="https://www.project-syndicate.org/magazine/new-economics-neglected-places-by-paul-collier" />
-    <id>https://www.project-syndicate.org/magazine/new-economics-neglected-places-by-paul-collier</id>
-    <published>2025-09-15T00:00:05+00:00</published>
-    <updated>2025-09-15T00:00:05+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="new-economics-neglected-places-by-paul-collier">
-<a class="track-event overlay" data-entity-id="689f684bac36fbc062c23d8d" data-entity-link-name="new-economics-neglected-places-by-paul-collier" data-entity-type="document" data-event-action="click" data-href-original="/magazine/new-economics-neglected-places-by-paul-collier" data-language="english" href="/magazine/new-economics-neglected-places-by-paul-collier" title="A New Economics for Neglected Places"><span class="u-tos">A New Economics for Neglected Places</span></a>
-<figure class="image listing__image image--ratio-list ribbon">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.2-1-large.1.jpg" width="620"/>
-</picture>
-<div class="ribbon ribbon--horizontal"><span>Free to read</span></div>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/new-economics-neglected-places-by-paul-collier">A New Economics for Neglected Places</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="paul-collier" data-entity-type="member" data-event-action="click" data-href-original="columnist/paul-collier" data-language="english" href="columnist/paul-collier">Paul Collier </a>
-offers a way to remedy the problems confronting left-behind communities, towns, and regions.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="new-economics-neglected-places-by-paul-collier">
-<a class="track-event overlay" data-entity-id="689f684bac36fbc062c23d8d" data-entity-link-name="new-economics-neglected-places-by-paul-collier" data-entity-type="document" data-event-action="click" data-href-original="/magazine/new-economics-neglected-places-by-paul-collier" data-language="english" href="/magazine/new-economics-neglected-places-by-paul-collier" title="A New Economics for Neglected Places"><span class="u-tos">A New Economics for Neglected Places</span></a>
-<figure class="image listing__image image--ratio-list ribbon">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/566496721622ebde67ae1a3d61c4a6c8.2-1-large.1.jpg" width="620"/>
-</picture>
-<div class="ribbon ribbon--horizontal"><span>Free to read</span></div>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/new-economics-neglected-places-by-paul-collier">A New Economics for Neglected Places</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="paul-collier" data-entity-type="member" data-event-action="click" data-href-original="columnist/paul-collier" data-language="english" href="columnist/paul-collier">Paul Collier </a>
-offers a way to remedy the problems confronting left-behind communities, towns, and regions.        </p>
-</header>
-</li>
-    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="b5236a7eecd14a1da042a4993198f458">OXFORD – The world needs a new economics for neglected places – for those who have fallen behind others in the same country, whether it be a rich one or a poor one. The place in question might be a community, a town, or a region: Muslims in France, Rotherham in Northern England, or Colombia’s Atlantic-Caribbean coastal region.</p>
-<p data-line-id="4aadaed530e44ae39f3dc2f3c25c84f4">In my last book, <a href="https://www.penguin.co.uk/books/297822/left-behind-by-collier-paul/9780141984117"><em>Left Behind</em></a>, I show why such places, once hit by an adverse shock, spiral down unless the shock is mitigated by supportive and timely finance guided by local contextual knowledge. Those in the United Kingdom may recognize this as a critique of the highly centralized, short-horizon, economic micromanagement exemplified by the Treasury; but the consequences should serve as a warning to other countries, too. Through detailed analyses of instances of renewal, I hope to show how both local leadership and bottom-up social movements can be effective in transforming broken places.</p>
-<p data-line-id="36f487ae8089412bb37e00d1a0f2e549">The problem, contrary to what <a href="https://www.project-syndicate.org/columnist/milton-friedman">Milton Friedman</a> argued (and what the UK’s Treasury assumes), is that financial markets reallocate capital from shock-hit places to those that are unaffected. The smartest money flees from adversity toward success, and it is soon followed by other investors. Hence, the principle that “the market knows best” – which implies that the spatial allocation of public investment should simply follow private investment – has doomed my country to a polarizing divergence between provincial regions and London and its hinterland.</p>
-<p data-line-id="66c50505e4da4b3494ecdffacac3e1f1">New <a href="https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.70002">research</a> finds that since the 2008 global financial crisis, private investment has skewed even more heavily toward London. A 300-basis-point gap has emerged between the required return on investment in London, which is judged a low-risk place, and capital directed toward regional cities, many of which are now seen as so risky as to warrant junk-bond status. This regional gap in credit ratings is exceptional – as wide as the disparity between British and Romanian government debt.</p>
-<div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Every Thursday in PS Economics, we offer a concise selection of essential reading on the most important issues related to economics and finance." data-label="Sign up for our weekly newsletter, PS Economics" data-link-name="newsletter-economics" data-newsletter="prosyn-economics-newsletter" data-newsletter-subscribe-form="true"></div>
-<p data-line-id="c31949211fc945d69bbefbd42674cef7">Such gaps have bred a despairing sense of neglect: Brexit – as much an anti-London mutiny as an anger-fueled act of self-harm – was fully endorsed by all of the UK’s left-behind regions. Similarly, recent riots in the most socially deprived English provincial towns are signs of hopelessness analogous to the “<a href="https://press.princeton.edu/books/hardcover/9780691190785/deaths-of-despair-and-the-future-of-capitalism?srsltid=AfmBOooZ07fOITUbN_DEOpJBVHb1XwC0lxwl7yWLsz-2eh-ZA4uBfvfW">deaths of despair</a>” that have ravaged neglected American communities. Inevitably, they attract provocateur outsiders and political entrepreneurs who show no compunction about coarsening public discourse and sowing divisions in society.</p>
-<h2 data-line-id="73e4cb57df1c48d58c9dc0980c969b7b"><strong>The Anatomy of Renewal</strong></h2>
-<p data-line-id="a350fe83c8f848dabb21fa1fa9ed7370">Such outcomes could be countered by offsetting public finance, but only if the power to spend it is devolved to a range of local institutions – some public, some private. The deeper the decline, the longer the financial commitment must be sustained.</p>
-
-<p data-line-id="6aa24b019afa41d090c288ca565c92f3">Take the example of Germany. By the time of German reunification in 1990, its eastern regions had suffered 41 years of communist destruction, which saw productivity reduced to a mere 20% of the western German level. Yet thanks to a 30-year, cross-party program of massive financial transfers, productivity in the former East Germany had risen to 85% of the rest of the country by 2022. This success was due not just to big money, but also to its sound management, which was decentralized by means of an alliance between local banks and KfW, a public development bank.</p>
-<p data-line-id="96a1ad49525940ed94f62a3aa02a738e">For the gap to be fully closed, Germany would have needed to sustain this offsetting finance for another decade; but even before the program prematurely ended in 2022, Germany’s priorities had shifted. The sudden influx of asylum-seekers in 2015 called for large injections of public money, leaving Germans in the East susceptible to the right-wing Alternative für Deutschland’s anti-immigrant messaging. Rather than feeling grateful for 30 years of generosity, many were persuaded that they were being treated like second-class citizens.</p>
-<p data-line-id="f321aa401c4a4953b32256099b693810">A variety of local institutions can help drive renewal in neglected places. In provincial England, for example, universities could be a key asset. Some are highly respected internationally for their medical, engineering, or computing research, and such departments are well-suited to commercial spin-offs. Yet while there is some financing for British startups, resources for the more important stage of commercialization – scaling up – are typically either unavailable or sourced from America or East Asia.</p>
-<p data-line-id="72b905a5a1684040ba099ea11d442fd4">London may be home to a huge cluster of private equity, but the industry makes its money by channeling UK private savings abroad. Whereas half of British private savings were once invested in British firms, now this figure has <a href="https://global.oup.com/academic/product/capitalism-and-crises-9780198887942">dropped</a> to a mere 6%. Public policy could induce the financial industry to localize, so that each region has a cluster of firms that thrive by acquiring local knowledge of promising opportunities.</p>
-<p data-line-id="9c32a2e6495f4988a1aa937d534fc7e1">The basic problem is similar in Colombia. Government and business are highly centralized in the capital, Bogotá, while provincial regions such as the Atlantic-Caribbean have languished. In this case, the regional advantage is not a university but cultural assets: the regional capital, Barranquilla, hosts the second-largest festival in the world, its annual Carnival, and is the home of one of the world’s most famous pop singers, Shakira. Moreover, Colombia (unlike England) has an excellent public financial institution that is learning to adopt a more devolved model analogous to KfW, and the current mayor of Bogotá is calling on the government to foster growth in the regions, rightly fearing mounting congestion without it.</p>
-<p data-line-id="0cca0029d91b45cab97c247c08328ac2">There can be no economic renewal without local initiative. A critical mass of influential people within a community must come together to face the grim reality of decline without succumbing to nostalgia or pessimism. They must find within themselves the energy and courage to envision a new, viable future.</p>
-<p data-line-id="b7cdc54aee3248aaa5634260d4989844">Pittsburgh went through this painful process following the collapse of its steel industry, initially losing half its population. Thanks to America’s highly devolved governance system and Pittsburgh’s strong local political leadership, highly rated universities, and supportive business and financial communities, it was able to reinvent itself and emerge as one of the country’s most prosperous big cities.</p>
-<h2 data-line-id="a8e6e9453a1945d0803d27a15f93fcda"><strong>Into the Unknown</strong></h2>
-<p data-line-id="fa9b89173ce644799353408911a0e77a">Back here in the UK, Scunthorpe, the last English steel-producing town, recently learned that the Chinese owner of its remaining factory would cease operations within a week, with all jobs lost. The news was so brutal that it made national headlines and forced political action. Prime Minister Keir Starmer recalled Parliament, drafted new legislation, and <a href="https://www.theguardian.com/politics/2025/apr/18/british-steel-keir-starmer-scunthorpe-rescue-mission">arrived</a> in Scunthorpe the next day to announce that money would be found to nationalize the firm and keep it running it for the next five years.</p>
-<p data-line-id="373a9c6cb90749718656dd8abd99d6f5">But realizing that this was merely a stay of execution, the local mayor, Carol Ross, and the MP for Scunthorpe, Sir Nicholas Dakin, promptly organized a series of meetings and asked me to help. Upon arriving, I was impressed that none of the local leadership had indulged in nostalgia or pessimism. They earnestly began working in small teams to explore the potential of various suggestions, and they invited me back to comment on what has been proposed.</p>
-<p data-line-id="418c33176c684b0ba972d3374d616383">Will they succeed in renewing Scunthorpe? The outlook is uncertain, because Britain’s overcentralized system of governance makes the process unnecessarily difficult.</p>
-<p data-line-id="74f9f042717a45419bf54788be626ef2">Scunthorpe offers a broader lesson for economic development. All places that are left behind or fearful of becoming so need to pose questions that lack known answers. In the language of economics, they face <a href="https://wwnorton.com/books/9781324004776">radical uncertainty</a>. The appropriate response to such unknowability is rapid learning, by running parallel experiments, by trial and error, and by taking lessons from elsewhere. While Britain currently lacks the political architecture to facilitate this process, other societies that were once highly centralized have shown what success looks like.</p>
-<p data-line-id="2d9569824bdd4d42836cdd8eb7f62e87">Consider what Deng Xiaoping achieved in transforming the disastrous system he inherited from Mao Zedong in 1982, by which time China was the epicenter of global poverty. Deng’s first move was to travel around East Asia to learn from others (he was apparently greatly impressed by Singapore and Japan). He then built on China’s own distinctive history of competitive examinations for entry to its prestigious civil service, which in turn was reinvented. Out went knowledge of Confucius, in came knowledge of science and mathematics.</p>
-<p data-line-id="3cb7b6beb8e645dd873fa81d70c88a43">From millions of hopefuls aged 25-35, Deng selected the top candidates to serve as governors of China’s regions for the next five years. He and the Politburo then gave these regional governments daunting economic and social targets that they themselves did not know how to achieve. This triggered experiments and competitions between the regions and within them, creating a sprawling laboratory for economic development. Combined with learning from China’s neighbors, this system, maintained for the next 40 years, ushered in the most spectacular decline in poverty the world has ever seen.</p>
-<p data-line-id="31d4b2b08c244e70819f871d21b07d69">Complacency and negligence have produced the socioeconomic divergence between London and provincial regions, providing a warning to other societies where many places are being left behind. The remedy is devolved governance combined with large and sustained fiscal transfers that encourage once-demoralized communities to face the future and learn as they go. It should not have taken riots to trigger Britain’s government to follow such a path, but perhaps the unrest will hasten acceptance of the need to do so.</p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Latin America’s Big, Green Opportunity</title>
-    <link href="https://www.project-syndicate.org/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" />
-    <id>https://www.project-syndicate.org/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09</id>
-    <published>2025-09-15T00:00:04+00:00</published>
-    <updated>2025-09-15T00:00:04+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09">
-<a class="track-event overlay" data-entity-id="689f6d4cac36fbc062cf35fb" data-entity-link-name="latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" data-language="english" href="/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" title="Latin America’s Big, Green Opportunity"><span class="u-tos">Latin America’s Big, Green Opportunity</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09">Latin America’s Big, Green Opportunity</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="laura-carvalho" data-entity-type="member" data-event-action="click" data-href-original="columnist/laura-carvalho" data-language="english" href="columnist/laura-carvalho">Laura Carvalho </a>
-shows how the region can capitalize on the global energy transition, despite recent setbacks.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09">
-<a class="track-event overlay" data-entity-id="689f6d4cac36fbc062cf35fb" data-entity-link-name="latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" data-language="english" href="/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" title="Latin America’s Big, Green Opportunity"><span class="u-tos">Latin America’s Big, Green Opportunity</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/d473c8053b52195d06f1353d9d9a6d52.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09">Latin America’s Big, Green Opportunity</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="laura-carvalho" data-entity-type="member" data-event-action="click" data-href-original="columnist/laura-carvalho" data-language="english" href="columnist/laura-carvalho">Laura Carvalho </a>
-shows how the region can capitalize on the global energy transition, despite recent setbacks.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/latin-america-green-industrialization-best-and-only-path-by-laura-carvalho-2025-09" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="a78e5f95160d44cb87219e14199d6bbf"> RIO DE JANEIRO – The pace and intensity of climate-driven disasters is proving ruinous for many already-struggling economies in Latin America. Between 2014 and 2023, the region’s average annual GDP growth was <a href="https://www.cepal.org/en/publications/80596-economic-survey-latin-america-and-caribbean-2024-low-growth-trap-climate-change">less than 1%</a>, making it one of the slowest-growing in the world. And in 2024 alone, Latin America witnessed the disappearance of Venezuela’s <a href="https://www.euronews.com/green/2024/05/10/this-country-has-become-the-first-in-modern-history-to-lose-all-of-its-glaciers">last glacier</a>, the Amazon’s <a href="https://www.reuters.com/business/environment/worst-drought-record-lowers-amazon-rivers-all-time-lows-2024-09-18/">worst drought</a> in over a century, and <a href="https://www.theguardian.com/world/2024/feb/06/chile-wildfires-death-toll-rises-valparaiso-vina-del-mar">wildfires</a> that killed more than 130 people in Chile. In this context, the green transition is not just an existential necessity. It is a promising pathway to economic development. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Eurasia’s Shifting Strategic Paradigm</title>
-    <link href="https://www.project-syndicate.org/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" />
-    <id>https://www.project-syndicate.org/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09</id>
-    <published>2025-09-15T00:00:03+00:00</published>
-    <updated>2025-09-15T00:00:03+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09">
-<a class="track-event overlay" data-entity-id="689f6f24ac36fbc062d3c6e3" data-entity-link-name="central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" data-language="english" href="/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" title="Eurasia’s Shifting Strategic Paradigm"><span class="u-tos">Eurasia’s Shifting Strategic Paradigm</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09">Eurasia’s Shifting Strategic Paradigm</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="nargis-kassenova" data-entity-type="member" data-event-action="click" data-href-original="columnist/nargis-kassenova" data-language="english" href="columnist/nargis-kassenova">Nargis Kassenova </a>
-explains how recent upheavals have forced the region’s governments to reduce reliance on traditional partners.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09">
-<a class="track-event overlay" data-entity-id="689f6f24ac36fbc062d3c6e3" data-entity-link-name="central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" data-language="english" href="/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" title="Eurasia’s Shifting Strategic Paradigm"><span class="u-tos">Eurasia’s Shifting Strategic Paradigm</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/307fae4494a8f36abe7cb90d17b75dce.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09">Eurasia’s Shifting Strategic Paradigm</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="nargis-kassenova" data-entity-type="member" data-event-action="click" data-href-original="columnist/nargis-kassenova" data-language="english" href="columnist/nargis-kassenova">Nargis Kassenova </a>
-explains how recent upheavals have forced the region’s governments to reduce reliance on traditional partners.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/central-asian-countries-geopolitical-balancing-act-by-nargis-kassenova-2025-09" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="37141244661642a186765c9269e57038"> CAMBRIDGE – Navigating the volatile geopolitical environment of Central Asia (comprising Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan) has never been easy. Situated between the former imperial power Russia, an ascendant China, a heavily sanctioned Iran, and a chronically unstable Afghanistan, these five countries have long contended with external pressures and domestic instability. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Sustainable Development Begins at School</title>
-    <link href="https://www.project-syndicate.org/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" />
-    <id>https://www.project-syndicate.org/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09</id>
-    <published>2025-09-15T00:00:02+00:00</published>
-    <updated>2025-09-15T00:00:02+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09">
-<a class="track-event overlay" data-entity-id="68a88ebc1114de084d9a02d1" data-entity-link-name="what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" data-language="english" href="/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" title="Sustainable Development Begins at School"><span class="u-tos">Sustainable Development Begins at School</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09">Sustainable Development Begins at School</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="kailash-satyarthi" data-entity-type="member" data-event-action="click" data-href-original="columnist/kailash-satyarthi" data-language="english" href="columnist/kailash-satyarthi">Kailash Satyarthi </a>
-considers what it will take to deliver on the promise of free, equitable, and quality education for all.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09">
-<a class="track-event overlay" data-entity-id="68a88ebc1114de084d9a02d1" data-entity-link-name="what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" data-entity-type="document" data-event-action="click" data-href-original="/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" data-language="english" href="/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" title="Sustainable Development Begins at School"><span class="u-tos">Sustainable Development Begins at School</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/a1e456e4ae9b2c14382d474ac618bb6a.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09">Sustainable Development Begins at School</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Sep 15, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="kailash-satyarthi" data-entity-type="member" data-event-action="click" data-href-original="columnist/kailash-satyarthi" data-language="english" href="columnist/kailash-satyarthi">Kailash Satyarthi </a>
-considers what it will take to deliver on the promise of free, equitable, and quality education for all.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/magazine/what-it-will-take-to-achieve-sdg4-universal-education-by-kailash-satyarthi-2025-09" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="097d9e012880421cb2e424ef267ac8f9"> NEW DELHI – A decade ago, the world made a <a href="https://sdgs.un.org/goals/goal4#targets_and_indicators">promise</a> to its children: everyone would have access to free, equitable, quality education by 2030. Today, with just five years left to fulfill that pledge, at least <a href="https://education-estimates.org/out-of-school/">272 million</a> children remain out of school. This puts the entire global development agenda at risk. </p>
 </div>]]></content>
   </entry>
 </feed>
