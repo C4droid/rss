@@ -11,11 +11,319 @@
   </author>
 
   <entry>
+    <title>How Many More Cloud Scares Does Europe Need?</title>
+    <link href="https://www.project-syndicate.org/commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" />
+    <id>https://www.project-syndicate.org/commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11</id>
+    <published>2025-11-04T00:00:30+00:00</published>
+    <updated>2025-11-04T00:00:30+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11">
+<a class="track-event overlay" data-entity-id="690a1797c80f1e3627148f1a" data-entity-link-name="aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" data-language="english" href="/commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" title="How Many More Cloud Scares Does Europe Need?"><span class="u-tos">How Many More Cloud Scares Does Europe Need?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11">How Many More Cloud Scares Does Europe Need?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="robin-berjon" data-entity-type="member" data-event-action="click" data-href-original="columnist/robin-berjon" data-language="english" href="columnist/robin-berjon">Robin Berjon </a>
+urges the EU to dismantle the entrenched US monopolies that are undermining the goal of tech sovereignty.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11">
+<a class="track-event overlay" data-entity-id="690a1797c80f1e3627148f1a" data-entity-link-name="aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" data-language="english" href="/commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11" title="How Many More Cloud Scares Does Europe Need?"><span class="u-tos">How Many More Cloud Scares Does Europe Need?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/791d34dd65360365ac17a1c25a72af96.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/aws-azure-outages-highlight-threat-us-cloud-dominance-poses-to-europe-by-robin-berjon-2025-11">How Many More Cloud Scares Does Europe Need?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="robin-berjon" data-entity-type="member" data-event-action="click" data-href-original="columnist/robin-berjon" data-language="english" href="columnist/robin-berjon">Robin Berjon </a>
+urges the EU to dismantle the entrenched US monopolies that are undermining the goal of tech sovereignty.        </p>
+</header>
+</li>
+    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="8a8adde7a8cb4f85900abbb62a0bdf99"> BRUSSELS – We tend to take for granted the infrastructure on which our economies and societies run – until something goes wrong. Just ask residents of Spain and Portugal, who were suddenly faced with a total blackout last April, when a series of cascading voltage surges <a href="https://www.bbc.com/news/articles/cg7d4vjdlrmo">shut down</a> their electricity grids. Both Spain and Portugal are now pursuing massive investments in strengthening their grids’ resilience. But citizens should not have to wait until after disaster strikes for their leaders to commit to investing in critical infrastructure, which nowadays includes cloud services. </p><p data-line-id="dee3f4cdecfb494e875c0080afff293a"> From storing and backing up data to powering and deploying AI systems, “the cloud” underpins the digital economy. But control over this infrastructure is highly concentrated, with just three US companies – Amazon, Google, and Microsoft – <a href="https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/">controlling over 60%</a> of the global market. As a result, the failure of just one of these services can cost the global economy billions of dollars. That is not a farfetched scenario. In fact, such failures happen regularly. Just last month, an Amazon Web Services (AWS) outage <a href="https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-reports-outage-several-websites-down-2025-10-20/">disrupted</a> the functioning of thousands of services worldwide, including messaging apps, banking platforms, and home security cameras. Days later, Microsoft Azure suffered a <a href="https://www.cnbc.com/2025/10/29/microsoft-hit-with-azure-365-outage-ahead-of-quarterly-earnings.html">similar global outage</a>. </p><p data-line-id="50e8185493f4474e87f6ba0639c13766"> So far, such events have been accidental. But cloud infrastructure could be wielded as a geopolitical weapon. Since the three main providers operate under US jurisdiction, they are subject to the whims of American authorities, who may well compel them to suspend services as a means of punishment or coercion. </p><p data-line-id="72912a8b8fea4af28ad9145897d3feca"> This, too, is hardly unrealistic. After the International Criminal Court issued arrest warrants for Israeli Prime Minister Benjamin Netanyahu and his former defense minister, Yoav Gallant, late last year, US President Donald Trump slapped <a href="https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3">sanctions</a> on the ICC’s chief prosecutor, Karim Khan – and Microsoft cancelled his email account. The disturbing reality is that there is a kill switch on much of the global digital economy, and Trump can flip it whenever he feels like doing so. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Every Thursday in PS Economics, we offer a concise selection of essential reading on the most important issues related to economics and finance." data-label="Sign up for our weekly newsletter, PS Economics" data-link-name="newsletter-economics" data-newsletter="prosyn-economics-newsletter" data-newsletter-subscribe-form="true"></div><p data-line-id="07893664d62a4b02a264202dce494902"> If the cloud services provided by these US behemoths were so technologically advanced – requiring such rare expertise and highly complex and expensive equipment – that others could not easily match them, then the risk might be worth taking. But they aren’t: European firms already have the ability to operate high-quality cloud services. The only reason these three US companies – <a href="https://www.bbc.co.uk/news/articles/cx2q2kkdedno">two adjudged</a> monopolists, and <a href="https://www.reuters.com/legal/government/amazon-trial-begins-ftc-claims-it-duped-prime-subscribers-2025-09-23/">one alleged</a> – achieved dominance in the first place is that they captured enough value elsewhere in the digital stack to subsidize their takeover of the cloud market. </p><p data-line-id="4382128997594b65bcdf06a8c39ab56b"> As the risks of this near-monopoly become increasingly apparent, a growing number of corporate and public buyers are considering alternatives. This aligns with European Commission President <a href="https://www.project-syndicate.org/columnist/ursula-von-der-leyen">Ursula von der Leyen</a>’s goal, first <a href="https://ec.europa.eu/commission/presscorner/detail/es/ac_20_260">articulated</a> in 2019, of achieving European “tech sovereignty” – an effort that would encompass not only cloud services, but the entire digital stack. </p><p data-line-id="bf374908358b4accaa0559656ee0c09a"> While Europe has so far made little progress on this front, the American cloud giants are working to remove the threat to their market share: they have begun offering “<a href="https://www.microsoft.com/en-us/industry/sovereignty/cloud">sovereign cloud</a>” <a href="https://cloud.google.com/sovereign-cloud">options</a>, which can supposedly <a href="https://aws.amazon.com/compliance/europe-digital-sovereignty/">meet</a> Europe’s “unique digital sovereignty needs.” The claim is risible. Sovereignty entails the ability to set one’s own rules in one’s own jurisdiction, and that is not something US cloud providers can offer Europe. </p><p data-line-id="25359ace6c8a442289e57031a25eb9af"> To make real progress toward digital sovereignty, Europe must embrace a “break-and-build” strategy. The “break” part focuses on dismantling entrenched monopolies. To this end, Europe can rely on existing instruments for enforcing competition, such as the Digital Markets Act (DMA), which currently is largely unused. But it also must strengthen these instruments, by increasing staffing for enforcement. Likewise, unaccountable bilateral negotiations between the European Commission and tech firms must give way to open standard-setting processes, which would expand the set of experts contributing to DMA remedies. </p><p data-line-id="bae99003ec094fff879b0a69a315aa05"> The “build” component of this strategy entails identifying Europe’s shortcomings in sovereign digital infrastructure and addressing them on a sector-by-sector basis. When it comes to the cloud, the first step may be to ensure that government procurement of relevant services aligns with European sovereignty goals. </p><p data-line-id="78693bc2352f4d8ab8b3f9cbd16e4bc0"> More broadly, the European Union should devise an industrial policy that fosters the development of essential technological capabilities, possibly guided by the <a href="https://eurostack.eu/">Eurostack</a> initiative or the freshly-minted <a href="https://digital-strategy.ec.europa.eu/en/news/commission-launch-digital-commons-edic-support-sovereign-european-digital-infrastructure-and">Digital Commons European Digital Infrastructure Consortium</a>. Emerging projects like <a href="https://eurosky.social/">Eurosky</a> and <a href="https://staan.ai/">Staan</a>, if sufficiently funded, could support this effort. The <a href="https://publicai.co/airbus-for-ai.pdf">Airbus for AI</a> proposal – under which middle powers would work together to create a public AI company, following the model that <a href="https://www.project-syndicate.org/commentary/public-ai-can-be-the-basis-of-new-international-cooperation-by-jacob-taylor-3-and-joshua-tan-1-2025-10">created</a> Airbus in 1970 – also warrants consideration. </p><p data-line-id="183078233f994156a705aa4e92ca2700"> Last month’s AWS and Azure outages highlighted, yet again, the risks posed by US tech companies’ stranglehold over Europe’s digital infrastructure. EU leaders must do whatever it takes to mitigate them, before it is too late. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>The Fraught Politics of Corporate Disclosures</title>
+    <link href="https://www.project-syndicate.org/commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" />
+    <id>https://www.project-syndicate.org/commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11</id>
+    <published>2025-11-04T00:00:29+00:00</published>
+    <updated>2025-11-04T00:00:29+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11">
+<a class="track-event overlay" data-entity-id="690a1167c80f1e362700e4bc" data-entity-link-name="anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" data-language="english" href="/commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" title="The Fraught Politics of Corporate Disclosures"><span class="u-tos">The Fraught Politics of Corporate Disclosures</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11">The Fraught Politics of Corporate Disclosures</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="raghuram-g-rajan" data-entity-type="member" data-event-action="click" data-href-original="columnist/raghuram-g-rajan" data-language="english" href="columnist/raghuram-g-rajan">Raghuram G. Rajan </a>
+thinks efforts to exclude environmental and social performance will deprive investors of material information.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11">
+<a class="track-event overlay" data-entity-id="690a1167c80f1e362700e4bc" data-entity-link-name="anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" data-language="english" href="/commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11" title="The Fraught Politics of Corporate Disclosures"><span class="u-tos">The Fraught Politics of Corporate Disclosures</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/55359d4dd88f65cd1daa842fda2577f0.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/anti-esg-politics-misses-the-point-material-information-by-raghuram-g-rajan-2025-11">The Fraught Politics of Corporate Disclosures</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="raghuram-g-rajan" data-entity-type="member" data-event-action="click" data-href-original="columnist/raghuram-g-rajan" data-language="english" href="columnist/raghuram-g-rajan">Raghuram G. Rajan </a>
+thinks efforts to exclude environmental and social performance will deprive investors of material information.        </p>
+</header>
+</li>
+    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="cfc5e73178c34b13b0d7379aa178fc2f"> CHICAGO – In a recent <em>Financial </em><span style="box-sizing: border-box; margin: 0px; padding: 0px;"><em>Times </em><a href="https://www.ft.com/content/0f6be08a-fd24-4558-b373-6ada31e18900" target="_blank">commentary</a></span>, US Securities and Exchange Commission Chairman Paul Atkins argued that, “the SEC should only require companies to supply information under the objective standard of whether a reasonable investor would regard it as important to an investment decision. Rules written for shareholders who seek to effect social change or have motives unrelated to maximizing the financial return on their investment fail this test – and fail investors.” </p><p data-line-id="981256e5a26845ebb0f2b5d92bfc65f8"> At face value, Atkins’ statement seems unexceptional. But it leaves open a key question: What is material to a firm’s financial performance? Atkins suggests that disclosure should not be driven by “political fads or distorted objectives,” citing the European Union’s Corporate Sustainability Reporting Directive, which expands and standardizes corporate sustainability reporting to improve transparency and comparability of environmental, social, and governance (ESG) information. Such disclosures, he argues, “may be socially significant but are not generally financially material.”  </p><p data-line-id="fd2eddf66f2e4ae6b2672ffe904754c1"> But this sounds like wishful thinking. If European regulators think the environment matters and they act on that belief, that materially affects multinational firms’ costs of doing business in Europe. Just last month, a Paris <a href="https://www.ft.com/content/4f3e072e-d136-4174-ad74-d5bbc14e8a99">court</a> found TotalEnergies had engaged in “misleading commercial practices” by claiming it was “a major actor in the energy transition.” Citing EU legislation that requires green claims to be supported by “objective, publicly available, and verifiable commitments and targets,” the court found the company’s climate pronouncements to be inconsistent with its expanded investments in hydrocarbons. While the fines Total has incurred are small, such fines are likely to be larger in the future – and thus material to investors. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Every Thursday in PS Economics, we offer a concise selection of essential reading on the most important issues related to economics and finance." data-label="Sign up for our weekly newsletter, PS Economics" data-link-name="newsletter-economics" data-newsletter="prosyn-economics-newsletter" data-newsletter-subscribe-form="true"></div><p data-line-id="7282690d004044cc9e4bd8131856e1d2"> Obviously, US regulators today put little weight on companies’ green strategies or the need to disclose them. But if regulators elsewhere care more, such strategies are still material to firms that do business across borders. And since there is a deep divide in the United States between Democrats and Republicans on the merits of ESG policies, a company that avoids ESG-related actions during the current administration might find itself hamstrung in a future one. Shouldn’t investors who value long-run earnings be able to make their own judgments about these issues? Regardless of whether ESG is a political fad (or whether opposition to it is), disclosures of ESG-aligned practices may still be material to the bottom line. </p><p data-line-id="593b688c3d4142ec97f0b630b482b93c"> Nor are regulators the only ones who might care. In the TotalEnergies case, the concern was that customers will be misled by the company’s environmental pronouncements. In a warming world, it is reasonable to expect that some people’s purchasing decisions might well be swayed by a company’s environmental practices.  </p><p data-line-id="88fb40cfaa354cd0b734ba66a975eeac"> Moreover, research <a href="https://www.scielo.br/j/bbr/a/THJmk5T7WKCKTJgXvT8NnQt">suggests</a> that Brazilian firms with better environmental practices (when certified by regulators) attract more skilled workers and ultimately perform better. Thus, whether environmental practices command universal political appeal is beside the point. If they attract a preferred kind of worker and enhance a firm’s bottom line, the company’s shareholders would want to know about it. </p><p data-line-id="a408f572609444aeb7bc245fca049710"> Atkins does raise a potentially valid concern about the intended audience for corporate disclosures. He opposes rules “written for shareholders who seek to effect social change or have motives unrelated to maximizing the financial return on their investment.” But, again, what if some shareholders are willing to sacrifice returns for socially beneficial practices? Should their preferences be ignored?  </p><p data-line-id="91fb1d0b89804e89a7f0f95e6a4ff7e8"> The argument for focusing solely on financial returns has always been that, by doing so, the firm empowers minority investors to go and spend their enhanced share of wealth on whatever social or political cause they prefer. The company does not need to cater to their whims to empower them. Yet Oliver Hart of Harvard and <a href="https://www.project-syndicate.org/columnist/luigi-zingales">Luigi Zingales</a> of the University of Chicago make a <a href="https://hart.scholars.harvard.edu/publications/companies-should-maximize-shareholder-welfare-not-market-value">compelling argument</a> that shareholders may prefer that the company act directly on their concerns. The shareholder-value argument suggests that a firm should continue to pollute the environment to maximize profits and its share price, because its environmentally conscious shareholders can then use some of their enhanced wealth to fund a clean-up. But the problem with this view should be obvious: Environmental remediation tends to be much more costly than preventing pollution in the first place, so shareholders and society alike would be better off if the firm sacrificed some profits to follow cleaner practices. </p><p data-line-id="b3c15f1081734448881a0cbc8dd8e687"> Put differently, the SEC cannot simply dismiss socially motivated investors as a nuisance, because this cohort may form the majority in some firms, and their interests may not be served if the firm simply maximizes profits. In a world where investors are inundated with information, the SEC is right to ask what is and is not material. Mandatory SEC disclosures are valuable insofar as the information is more reliable than anything that is voluntarily disclosed. Since disclosure does impose a burden on firms, it should be mandated judiciously.  </p><p data-line-id="36dcc4f6e94a4239b6bfaa2bc60f4ccf"> But the SEC must recognize that a wide variety of interests look at such disclosures, and that their effects are material. To dismiss these concerns as political is to engage in politicization oneself. It is better to recognize that there are many channels through which disclosure can affect investors and society, and then make the necessary tradeoffs in SEC mandates. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>What Chinese Leaders Really Think of Trump</title>
+    <link href="https://www.project-syndicate.org/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" />
+    <id>https://www.project-syndicate.org/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11</id>
+    <published>2025-11-04T00:00:28+00:00</published>
+    <updated>2025-11-04T00:00:28+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11">
+<a class="track-event overlay" data-entity-id="690a00edc80f1e3627b43fb7" data-entity-link-name="chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" data-language="english" href="/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" title="What Chinese Leaders Really Think of Trump"><span class="u-tos">What Chinese Leaders Really Think of Trump</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11">What Chinese Leaders Really Think of Trump</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="mark-leonard" data-entity-type="member" data-event-action="click" data-href-original="columnist/mark-leonard" data-language="english" href="columnist/mark-leonard">Mark Leonard </a>
+shares insights from academics and former military leaders whom he met in Beijing.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11">
+<a class="track-event overlay" data-entity-id="690a00edc80f1e3627b43fb7" data-entity-link-name="chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" data-language="english" href="/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" title="What Chinese Leaders Really Think of Trump"><span class="u-tos">What Chinese Leaders Really Think of Trump</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11">What Chinese Leaders Really Think of Trump</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="mark-leonard" data-entity-type="member" data-event-action="click" data-href-original="columnist/mark-leonard" data-language="english" href="columnist/mark-leonard">Mark Leonard </a>
+shares insights from academics and former military leaders whom he met in Beijing.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="3dd3917fa757457eb435f061c4db58f6"> BEIJING – According to US President Donald Trump, his recent meeting with Chinese President Xi Jinping – the first of his second term – was “amazing.” Trump may have campaigned on the promise of squeezing America’s biggest geopolitical competitor, but that is not what has happened. Instead, top Chinese academics and retired military leaders whom I spoke to in Beijing this week all agree that Xi’s international strategy has been vindicated, and that an increasingly fractured multipolar world is working very much to China’s advantage. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Adam Smith and the Moral Economy We Have Lost</title>
+    <link href="https://www.project-syndicate.org/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" />
+    <id>https://www.project-syndicate.org/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11</id>
+    <published>2025-11-04T00:00:27+00:00</published>
+    <updated>2025-11-04T00:00:27+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11">
+<a class="track-event overlay" data-entity-id="6909d819c80f1e36270ace68" data-entity-link-name="adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" data-language="english" href="/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" title="Adam Smith and the Moral Economy We Have Lost"><span class="u-tos">Adam Smith and the Moral Economy We Have Lost</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11">Adam Smith and the Moral Economy We Have Lost</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="antara-haldar" data-entity-type="member" data-event-action="click" data-href-original="columnist/antara-haldar" data-language="english" href="columnist/antara-haldar">Antara Haldar </a>
+reflects on an age-old misunderstanding about what the great Enlightenment thinker actually argued.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11">
+<a class="track-event overlay" data-entity-id="6909d819c80f1e36270ace68" data-entity-link-name="adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" data-language="english" href="/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" title="Adam Smith and the Moral Economy We Have Lost"><span class="u-tos">Adam Smith and the Moral Economy We Have Lost</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/67ac7a559baae8ff787c1f38c4e1c72b.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11">Adam Smith and the Moral Economy We Have Lost</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="antara-haldar" data-entity-type="member" data-event-action="click" data-href-original="columnist/antara-haldar" data-language="english" href="columnist/antara-haldar">Antara Haldar </a>
+reflects on an age-old misunderstanding about what the great Enlightenment thinker actually argued.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/adam-smith-proper-economics-presupposes-moral-commitments-by-antara-haldar-2025-11" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="8e0a3c2baef04b5d8149f6297a338e22"> CAMBRIDGE – With the 250th anniversary of <a href="https://oll.libertyfund.org/titles/smith-an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-cannan-ed-in-2-vols"><em>The Wealth of Nations</em></a> approaching next year, the world is gearing up to honor Adam Smith. But which Smith should be recognized? The hard-nosed “founding father” of modern economics, or the philosopher who wrote <a href="https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"><em>The Theory of Moral Sentiments</em></a>? Scholars have wrestled with this question, a riddle known as “<a href="https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/das-adam-smith-problem-its-origins-the-stages-of-the-current-debate-and-one-implication-for-our-understanding-of-sympathy/BB8E86494981D4E72EB844AFE7F22D43">Das Adam Smith Problem</a>,” for centuries, because it concerns not just dualities within Smith’s thought, but also our own uneasy relationship with morality and markets. </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>What Can Europe Offer a Fragmenting World?</title>
+    <link href="https://www.project-syndicate.org/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" />
+    <id>https://www.project-syndicate.org/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11</id>
+    <published>2025-11-04T00:00:26+00:00</published>
+    <updated>2025-11-04T00:00:26+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11">
+<a class="track-event overlay" data-entity-id="6908cdc0af495e60dd0a167d" data-entity-link-name="europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" data-language="english" href="/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" title="What Can Europe Offer a Fragmenting World?"><span class="u-tos">What Can Europe Offer a Fragmenting World?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11">What Can Europe Offer a Fragmenting World?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="ngaire-woods" data-entity-type="member" data-event-action="click" data-href-original="columnist/ngaire-woods" data-language="english" href="columnist/ngaire-woods">Ngaire Woods </a>
+urges policymakers to tout the EU’s stability and predictability as its geopolitical comparative advantage.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11">
+<a class="track-event overlay" data-entity-id="6908cdc0af495e60dd0a167d" data-entity-link-name="europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" data-language="english" href="/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" title="What Can Europe Offer a Fragmenting World?"><span class="u-tos">What Can Europe Offer a Fragmenting World?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/0e40e2b1716a559e63f46f3ba1b713c6.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11">What Can Europe Offer a Fragmenting World?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="ngaire-woods" data-entity-type="member" data-event-action="click" data-href-original="columnist/ngaire-woods" data-language="english" href="columnist/ngaire-woods">Ngaire Woods </a>
+urges policymakers to tout the EU’s stability and predictability as its geopolitical comparative advantage.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/europe-must-update-value-proposition-to-bolster-global-standing-by-ngaire-woods-2025-11" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="b43dfee9d5a44720b67e5b041ba6dd81"> OXFORD – At the recent ASEAN Summit in Kuala Lumpur, European Council President António Costa <a href="https://www.consilium.europa.eu/en/press/press-releases/2025/10/26/speech-by-president-antonio-costa-at-the-opening-session-of-the-asean-summit-in-kuala-lumpur/">outlined</a> Europe’s strategic posture. “The European Union,” he said, “is proud to engage with ASEAN as a reliable partner in today’s shifting geopolitical environment.” His remarks echoed those made four months earlier by European Commission President <a href="https://www.project-syndicate.org/columnist/ursula-von-der-leyen">Ursula von der Leyen</a>, who <a href="https://www.wita.org/blogs/eu-cptpp-sends-message/">proposed</a> teaming up with the 12-member Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). </p>
+</div>]]></content>
+  </entry>
+  <entry>
+    <title>Can the Developing World Weather the Next Financial Crisis?</title>
+    <link href="https://www.project-syndicate.org/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" />
+    <id>https://www.project-syndicate.org/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11</id>
+    <published>2025-11-04T00:00:25+00:00</published>
+    <updated>2025-11-04T00:00:25+00:00</updated>
+    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11">
+<a class="track-event overlay" data-entity-id="6907bc45af495e60ddf1eace" data-entity-link-name="developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" data-language="english" href="/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" title="Can the Developing World Weather the Next Financial Crisis?"><span class="u-tos">Can the Developing World Weather the Next Financial Crisis?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11">Can the Developing World Weather the Next Financial Crisis?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="jayati-ghosh" data-entity-type="member" data-event-action="click" data-href-original="columnist/jayati-ghosh" data-language="english" href="columnist/jayati-ghosh">Jayati Ghosh </a>
+warns that rising volatility and weak safeguards are once again leaving lower-income countries exposed.        </p>
+</header>
+</li>]]></summary>
+    <content type="html"><![CDATA[<li class="listing listing--default" data-url="developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11">
+<a class="track-event overlay" data-entity-id="6907bc45af495e60ddf1eace" data-entity-link-name="developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" data-language="english" href="/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" title="Can the Developing World Weather the Next Financial Crisis?"><span class="u-tos">Can the Developing World Weather the Next Financial Crisis?</span></a>
+<figure class="image listing__image image--ratio-list">
+<picture>
+<source media="--small" srcset="https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.2-1-large.1.jpg"/>
+<source media="--large" srcset="https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.4-3-medium.1.jpg"/>
+<source srcset="https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.2-1-medium.1.jpg"/>
+<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/ea613280c1cde9b414bb0da620c484c7.2-1-large.1.jpg" width="620"/>
+</picture>
+</figure>
+<header class="listing__header">
+<h2 class="listing__title">
+<a href="commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11">Can the Developing World Weather the Next Financial Crisis?</a>
+</h2>
+<p class="listing__excerpt">
+<span class="bl-pubdate vl-divider">Nov 4, 2025</span>
+<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="jayati-ghosh" data-entity-type="member" data-event-action="click" data-href-original="columnist/jayati-ghosh" data-language="english" href="columnist/jayati-ghosh">Jayati Ghosh </a>
+warns that rising volatility and weak safeguards are once again leaving lower-income countries exposed.        </p>
+</header>
+</li>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/developing-countries-could-be-hit-hardest-by-future-financial-crisis-by-jayati-ghosh-2025-11" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="e10152258e3f40bdb8aff2f163d458ba"> NEW DELHI – As stock markets hit <a href="https://www.marketwatch.com/story/all-four-u-s-stock-market-indexes-just-closed-at-record-highs-heres-what-history-says-happens-next-cd0385a2">record highs</a>, rising financial fragility is setting off alarm bells across the United States and Europe. The International Monetary Fund has recently <a href="https://www.imf.org/en/Publications/GFSR/Issues/2025/10/14/global-financial-stability-report-october-2025">echoed</a> these concerns, stoking fears of a looming crisis. </p>
+</div>]]></content>
+  </entry>
+  <entry>
     <title>Argentina Is on a Path to Economic Success</title>
     <link href="https://www.project-syndicate.org/commentary/javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11" />
     <id>https://www.project-syndicate.org/commentary/javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11</id>
-    <published>2025-11-03T00:00:30+00:00</published>
-    <updated>2025-11-03T00:00:30+00:00</updated>
+    <published>2025-11-03T00:00:24+00:00</published>
+    <updated>2025-11-03T00:00:24+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11">
 <a class="track-event overlay" data-entity-id="6908bf70af495e60ddceba4c" data-entity-link-name="javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11" data-language="english" href="/commentary/javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11" title="Argentina Is on a Path to Economic Success"><span class="u-tos">Argentina Is on a Path to Economic Success</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -56,16 +364,18 @@ thinks the midterm election result will allow President Javier Milei's market-or
 thinks the midterm election result will allow President Javier Milei's market-oriented reforms to bear fruit.        </p>
 </header>
 </li>
-    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="4caba402b0b54bfb8d1dec0391743b73"> NEW YORK – Heading into Argentina’s legislative elections this month, commentary about the country’s economic and financial prospects was growing increasingly pessimistic. With a significant amount of foreign debt coming due next year, the conventional wisdom was that an exchange-rate-based stabilization program – letting the currency depreciate by less than the inflation rate to push inflation down – had led to a massively overvalued currency and an external deficit that was bound to precipitate a crisis. But having written a <a href="https://www.piie.com/bookstore/bailouts-or-bail-ins-responding-financial-crises-emerging-economies">book</a> on currency crises in emerging markets, and having followed Argentine policies closely, I thought this consensus was far off the mark.  </p><p data-line-id="745f1bdd6e804815b32f864ccc920f95"> Breaking from the pattern of past failed economic-stabilization episodes – including those under previous Argentine administrations such as Carlos Saúl Menem (1989-99) and Mauricio Macri (2015-19) – Argentine President Javier Milei used his 2023 election victory to implement the strongest fiscal-austerity and structural-reform policies in the country’s history. In 2024, the primary fiscal adjustment (excluding interest payments) amounted to <a href="https://oecdecoscope.blog/2025/07/07/argentina-consolidating-the-economic-recovery/">5% of GDP</a>, setting the stage for a strong economic rebound after some early softness. </p><p data-line-id="92ce1650b978485282e11cabb19c93e5"> At that point, the Argentine peso may have been modestly overvalued, given the lack of a fully flexible currency regime, but at least the current-account deficit was very small. If the country regained market access, it could roll over its looming external debt liabilities; and if electoral uncertainties could be overcome, Milei’s reforms and the country’s huge natural-resource endowments were bound to attract huge amounts of foreign direct investment (FDI) – possibly as much as $70 billion (including financing for a <a href="https://www.reuters.com/world/americas/openai-sur-energy-weigh-25-billion-argentina-data-center-project-2025-10-10/">$25 billion</a> OpenAI data center). Moreover, the <a href="https://tradingeconomics.com/argentina/inflation-cpi">inflation rate</a> had already dropped dramatically from over 100% before Milei’s election to around 30%. </p><p data-line-id="7a2cfc9092c246cc9ce058b60a5aaec7"> Thus, heading into the recent legislative election, Argentina’s problem was about liquidity, not solvency. With electoral uncertainties weighing on growth this year – especially after the Peronist opposition performed better than expected in Buenos Aires’s provincial election in September – investors had grown nervous. Following a couple of corruption scandals and tactical mistakes on Milei’s part, the peso had weakened, despite interventions to keep the exchange rate within a set band. Domestic interest rates surged, Argentina’s sovereign spread widened significantly, and the stock market weakened. If the Peronists could take enough seats to wield an effective veto, Milei’s entire reform program could unravel. </p><div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Every Thursday in PS Economics, we offer a concise selection of essential reading on the most important issues related to economics and finance." data-label="Sign up for our weekly newsletter, PS Economics" data-link-name="newsletter-economics" data-newsletter="prosyn-economics-newsletter" data-newsletter-subscribe-form="true"></div><p data-line-id="8f9e9f33de1c41908ba1f914132963b6"> But since Argentina’s problem was merely about liquidity, Milei sought and received a controversial $20 billion swap line from the US Treasury, whose support was conditional on him prevailing in the election. In the event, he and allied parties triumphed, picking up seats in both chambers. By fixating so much on electoral uncertainty, Milei’s political links to US President Donald Trump, and an overvalued exchange rate, the financial commentariat had ignored the promise of his radical fiscal and other reforms. </p><p data-line-id="3f26c0f9a47b46feaafd538e47ae0068"> Now, for the first time in ages, Argentina may escape the policies that have repeatedly driven it into debt defaults and high inflation. After the most recent Peronist administration had pushed the country close to an inflation spiral and another default, Milei started cleaning up the mess with ruthless efficiency. While many have criticized his draconian approach, the results of the October election show that the Argentine people would prefer short-term economic pain over a return to Peronist policies. </p><p data-line-id="e3b0e7c1fa4a4343b2291fd914fa8584"> Milei will now reach out to other moderate forces to build a coalition that can continue his program via legislation, rather than decrees, starting with labor-market and tax reforms. Further economic liberalization will then attract a surge of domestic and foreign investment, ensuring strong economic growth for the future. While no economic policy package is perfect, Milei’s overall approach is sound, especially compared to the failed policies of the past.  </p><p data-line-id="2b5280e0cda44631b8f9c6741214144d"> Yes, the exchange-rate regime will have to become more flexible over time. But proposals for an immediate shift to a fully floating exchange rate or (at the other extreme) full dollarization do not make sense. The first could lead to excessive exchange-rate volatility, especially once capital controls are fully phased out, while the latter – <a href="https://www.wsj.com/opinion/argentina-dollarization-peso-donald-trump-javier-milei-3bd3eeab">endorsed</a> by major media outlets like the <em>Wall Street Journal</em> – is not even feasible, because Argentina does not have sufficient foreign-currency reserves. Milei, a vocal libertarian, may have flirted with full dollarization in the past, but he now recognizes that it is not really an option. </p><p data-line-id="748c3e6062744c4b8ada61dc8038c317"> The better option is a currency regime that would allow fluctuations within a wide band, perhaps with targets based on the nominal effective exchange rate together with some monetary aggregate to anchor growth. That would limit volatility while still ensuring that the currency value is competitive, and the external balance positive. The returning flows of capital and new FDI could be used to replenish the country’s dwindling foreign-exchange reserves, lest they drive unwanted currency appreciation. </p><p data-line-id="64f09f4467744d458cb4c51f999fa32e"> The market reaction to the October election confirms that investors are on board with Milei’s strategy. The panic leading up to election day was not about him, but about the prospect of a Peronist return. With the recent electoral uncertainty behind it, Argentina now has a clear path to political stability.  </p><p data-line-id="d5e587b1914f440cb1df1bdb83303bd2"> We will likely see significant inflows of FDI, allowing growth to accelerate over time. Argentina may even become a model for the kind of market-oriented economic reforms and fiscal austerity measures that are needed in other Latin American economies, such as Chile, Brazil, and Colombia – all of which will hold elections in the coming years. </p>
+<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
+ | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/javier-mileis-economic-reforms-will-deliver-with-electoral-uncertainty-removed-by-nouriel-roubini-2025-11" target="_blank">archive.is</a></div>
+    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
+<p data-line-id="4caba402b0b54bfb8d1dec0391743b73"> NEW YORK – Heading into Argentina’s legislative elections this month, commentary about the country’s economic and financial prospects was growing increasingly pessimistic. With a significant amount of foreign debt coming due next year, the conventional wisdom was that an exchange-rate-based stabilization program – letting the currency depreciate by less than the inflation rate to push inflation down – had led to a massively overvalued currency and an external deficit that was bound to precipitate a crisis. But having written a <a href="https://www.piie.com/bookstore/bailouts-or-bail-ins-responding-financial-crises-emerging-economies">book</a> on currency crises in emerging markets, and having followed Argentine policies closely, I thought this consensus was far off the mark.  </p>
 </div>]]></content>
   </entry>
   <entry>
     <title>ASEAN’s Moment of Truth</title>
     <link href="https://www.project-syndicate.org/commentary/asean-reforms-to-strengthen-stability-and-prosperity-by-mari-elka-pangestu-and-tan-sri-rebecca-fatimah-sta-maria-2025-11" />
     <id>https://www.project-syndicate.org/commentary/asean-reforms-to-strengthen-stability-and-prosperity-by-mari-elka-pangestu-and-tan-sri-rebecca-fatimah-sta-maria-2025-11</id>
-    <published>2025-11-03T00:00:29+00:00</published>
-    <updated>2025-11-03T00:00:29+00:00</updated>
+    <published>2025-11-03T00:00:23+00:00</published>
+    <updated>2025-11-03T00:00:23+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="asean-reforms-to-strengthen-stability-and-prosperity-by-mari-elka-pangestu-and-tan-sri-rebecca-fatimah-sta-maria-2025-11">
 <a class="track-event overlay" data-entity-id="6908bb65af495e60ddc00b2c" data-entity-link-name="asean-reforms-to-strengthen-stability-and-prosperity-by-mari-elka-pangestu-and-tan-sri-rebecca-fatimah-sta-maria-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/asean-reforms-to-strengthen-stability-and-prosperity-by-mari-elka-pangestu-and-tan-sri-rebecca-fatimah-sta-maria-2025-11" data-language="english" href="/commentary/asean-reforms-to-strengthen-stability-and-prosperity-by-mari-elka-pangestu-and-tan-sri-rebecca-fatimah-sta-maria-2025-11" title="ASEAN’s Moment of Truth"><span class="u-tos">ASEAN’s Moment of Truth</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -118,8 +428,8 @@ propose a reform agenda that would enable the bloc to emerge stronger from today
     <title>What Is the Gold Price Telling Us?</title>
     <link href="https://www.project-syndicate.org/commentary/what-do-record-gold-prices-mean-by-jim-o-neill-2025-11" />
     <id>https://www.project-syndicate.org/commentary/what-do-record-gold-prices-mean-by-jim-o-neill-2025-11</id>
-    <published>2025-11-03T00:00:28+00:00</published>
-    <updated>2025-11-03T00:00:28+00:00</updated>
+    <published>2025-11-03T00:00:22+00:00</published>
+    <updated>2025-11-03T00:00:22+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="what-do-record-gold-prices-mean-by-jim-o-neill-2025-11">
 <a class="track-event overlay" data-entity-id="6908a96eaf495e60dd850d00" data-entity-link-name="what-do-record-gold-prices-mean-by-jim-o-neill-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/what-do-record-gold-prices-mean-by-jim-o-neill-2025-11" data-language="english" href="/commentary/what-do-record-gold-prices-mean-by-jim-o-neill-2025-11" title="What Is the Gold Price Telling Us?"><span class="u-tos">What Is the Gold Price Telling Us?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -170,8 +480,8 @@ considers the bullish and bearish case for the metal as markets carry it to reco
     <title>Trump’s Violent New Monroe Doctrine</title>
     <link href="https://www.project-syndicate.org/commentary/us-intervention-in-latin-america-reflects-a-new-and-volatile-monroe-doctrine-by-ana-palacio-2025-11" />
     <id>https://www.project-syndicate.org/commentary/us-intervention-in-latin-america-reflects-a-new-and-volatile-monroe-doctrine-by-ana-palacio-2025-11</id>
-    <published>2025-11-03T00:00:27+00:00</published>
-    <updated>2025-11-03T00:00:27+00:00</updated>
+    <published>2025-11-03T00:00:21+00:00</published>
+    <updated>2025-11-03T00:00:21+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="us-intervention-in-latin-america-reflects-a-new-and-volatile-monroe-doctrine-by-ana-palacio-2025-11">
 <a class="track-event overlay" data-entity-id="69086740af495e60dd97f017" data-entity-link-name="us-intervention-in-latin-america-reflects-a-new-and-volatile-monroe-doctrine-by-ana-palacio-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-intervention-in-latin-america-reflects-a-new-and-volatile-monroe-doctrine-by-ana-palacio-2025-11" data-language="english" href="/commentary/us-intervention-in-latin-america-reflects-a-new-and-volatile-monroe-doctrine-by-ana-palacio-2025-11" title="Trump’s Violent New Monroe Doctrine"><span class="u-tos">Trump’s Violent New Monroe Doctrine</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -222,8 +532,8 @@ thinks US strikes on suspected drug-smuggling boats are symptomatic of a dangero
     <title>What COP30 Must Do</title>
     <link href="https://www.project-syndicate.org/commentary/cop30-must-follow-financing-commitments-with-concrete-plans-by-syeda-rizwana-hasan-2025-11" />
     <id>https://www.project-syndicate.org/commentary/cop30-must-follow-financing-commitments-with-concrete-plans-by-syeda-rizwana-hasan-2025-11</id>
-    <published>2025-11-03T00:00:26+00:00</published>
-    <updated>2025-11-03T00:00:26+00:00</updated>
+    <published>2025-11-03T00:00:20+00:00</published>
+    <updated>2025-11-03T00:00:20+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="cop30-must-follow-financing-commitments-with-concrete-plans-by-syeda-rizwana-hasan-2025-11">
 <a class="track-event overlay" data-entity-id="69065bd164393ba442a23fa1" data-entity-link-name="cop30-must-follow-financing-commitments-with-concrete-plans-by-syeda-rizwana-hasan-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/cop30-must-follow-financing-commitments-with-concrete-plans-by-syeda-rizwana-hasan-2025-11" data-language="english" href="/commentary/cop30-must-follow-financing-commitments-with-concrete-plans-by-syeda-rizwana-hasan-2025-11" title="What COP30 Must Do"><span class="u-tos">What COP30 Must Do</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -272,8 +582,8 @@ sets out the priorities for this year’s United Nations Climate Change Conferen
     <title>Is Bessent Right About the Fed?</title>
     <link href="https://www.project-syndicate.org/commentary/is-bessent-right-about-the-fed-by-willem-h-buiter-2025-11" />
     <id>https://www.project-syndicate.org/commentary/is-bessent-right-about-the-fed-by-willem-h-buiter-2025-11</id>
-    <published>2025-11-03T00:00:25+00:00</published>
-    <updated>2025-11-03T00:00:25+00:00</updated>
+    <published>2025-11-03T00:00:19+00:00</published>
+    <updated>2025-11-03T00:00:19+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="is-bessent-right-about-the-fed-by-willem-h-buiter-2025-11">
 <a class="track-event overlay" data-entity-id="6903a5c50c4015010d31020d" data-entity-link-name="is-bessent-right-about-the-fed-by-willem-h-buiter-2025-11" data-entity-type="document" data-event-action="click" data-href-original="/commentary/is-bessent-right-about-the-fed-by-willem-h-buiter-2025-11" data-language="english" href="/commentary/is-bessent-right-about-the-fed-by-willem-h-buiter-2025-11" title="Is Bessent Right About the Fed?"><span class="u-tos">Is Bessent Right About the Fed?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -324,8 +634,8 @@ considers the central bank’s failings in light of recent criticism from the se
     <title>Indian Politics Are a Family Business</title>
     <link href="https://www.project-syndicate.org/commentary/india-prevalence-of-political-dynasties-lead-to-worse-governance-by-shashi-tharoor-2025-10" />
     <id>https://www.project-syndicate.org/commentary/india-prevalence-of-political-dynasties-lead-to-worse-governance-by-shashi-tharoor-2025-10</id>
-    <published>2025-10-31T00:00:24+00:00</published>
-    <updated>2025-10-31T00:00:24+00:00</updated>
+    <published>2025-10-31T00:00:18+00:00</published>
+    <updated>2025-10-31T00:00:18+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="india-prevalence-of-political-dynasties-lead-to-worse-governance-by-shashi-tharoor-2025-10">
 <a class="track-event overlay" data-entity-id="6904e6178f766ac43199e940" data-entity-link-name="india-prevalence-of-political-dynasties-lead-to-worse-governance-by-shashi-tharoor-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/india-prevalence-of-political-dynasties-lead-to-worse-governance-by-shashi-tharoor-2025-10" data-language="english" href="/commentary/india-prevalence-of-political-dynasties-lead-to-worse-governance-by-shashi-tharoor-2025-10" title="Indian Politics Are a Family Business"><span class="u-tos">Indian Politics Are a Family Business</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -376,8 +686,8 @@ worries that the country's preference for dynasty over meritocracy is underminin
     <title>The Big Lie Behind Trump’s Boat Strikes</title>
     <link href="https://www.project-syndicate.org/commentary/trump-big-lies-drug-boat-strikes-venezuela-by-timothy-snyder-2025-10" />
     <id>https://www.project-syndicate.org/commentary/trump-big-lies-drug-boat-strikes-venezuela-by-timothy-snyder-2025-10</id>
-    <published>2025-10-31T00:00:23+00:00</published>
-    <updated>2025-10-31T00:00:23+00:00</updated>
+    <published>2025-10-31T00:00:17+00:00</published>
+    <updated>2025-10-31T00:00:17+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-big-lies-drug-boat-strikes-venezuela-by-timothy-snyder-2025-10">
 <a class="track-event overlay" data-entity-id="6904e4f18f766ac431950e00" data-entity-link-name="trump-big-lies-drug-boat-strikes-venezuela-by-timothy-snyder-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-big-lies-drug-boat-strikes-venezuela-by-timothy-snyder-2025-10" data-language="english" href="/commentary/trump-big-lies-drug-boat-strikes-venezuela-by-timothy-snyder-2025-10" title="The Big Lie Behind Trump’s Boat Strikes"><span class="u-tos">The Big Lie Behind Trump’s Boat Strikes</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -428,8 +738,8 @@ warns that the US president has concocted a dangerous geopolitical fantasy that 
     <title>The Coming US-China Thaw</title>
     <link href="https://www.project-syndicate.org/commentary/us-china-thaw-rare-earths-ban-shows-american-aggression-no-longer-works-by-james-k-galbraith-2025-10" />
     <id>https://www.project-syndicate.org/commentary/us-china-thaw-rare-earths-ban-shows-american-aggression-no-longer-works-by-james-k-galbraith-2025-10</id>
-    <published>2025-10-31T00:00:22+00:00</published>
-    <updated>2025-10-31T00:00:22+00:00</updated>
+    <published>2025-10-31T00:00:16+00:00</published>
+    <updated>2025-10-31T00:00:16+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="us-china-thaw-rare-earths-ban-shows-american-aggression-no-longer-works-by-james-k-galbraith-2025-10">
 <a class="track-event overlay" data-entity-id="6904b8688f766ac431a8f311" data-entity-link-name="us-china-thaw-rare-earths-ban-shows-american-aggression-no-longer-works-by-james-k-galbraith-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/us-china-thaw-rare-earths-ban-shows-american-aggression-no-longer-works-by-james-k-galbraith-2025-10" data-language="english" href="/commentary/us-china-thaw-rare-earths-ban-shows-american-aggression-no-longer-works-by-james-k-galbraith-2025-10" title="The Coming US-China Thaw"><span class="u-tos">The Coming US-China Thaw</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -480,8 +790,8 @@ sees signs that American strategists and politicians are finally waking up to ec
     <title>Development Finance Must Shift Away from Aid</title>
     <link href="https://www.project-syndicate.org/commentary/developing-countries-must-reduce-foreign-aid-dependence-by-justin-yifu-lin-and-yan-wang-2025-10" />
     <id>https://www.project-syndicate.org/commentary/developing-countries-must-reduce-foreign-aid-dependence-by-justin-yifu-lin-and-yan-wang-2025-10</id>
-    <published>2025-10-31T00:00:21+00:00</published>
-    <updated>2025-10-31T00:00:21+00:00</updated>
+    <published>2025-10-31T00:00:15+00:00</published>
+    <updated>2025-10-31T00:00:15+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="developing-countries-must-reduce-foreign-aid-dependence-by-justin-yifu-lin-and-yan-wang-2025-10">
 <a class="track-event overlay" data-entity-id="6904c7698f766ac431f79f55" data-entity-link-name="developing-countries-must-reduce-foreign-aid-dependence-by-justin-yifu-lin-and-yan-wang-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/developing-countries-must-reduce-foreign-aid-dependence-by-justin-yifu-lin-and-yan-wang-2025-10" data-language="english" href="/commentary/developing-countries-must-reduce-foreign-aid-dependence-by-justin-yifu-lin-and-yan-wang-2025-10" title="Development Finance Must Shift Away from Aid"><span class="u-tos">Development Finance Must Shift Away from Aid</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -532,8 +842,8 @@ highlight the role of value chains in driving low-carbon growth across emerging 
     <title>How Vulnerable Is China?</title>
     <link href="https://www.project-syndicate.org/onpoint/how-vulnerable-is-china" />
     <id>https://www.project-syndicate.org/onpoint/how-vulnerable-is-china</id>
-    <published>2025-10-31T00:00:20+00:00</published>
-    <updated>2025-10-31T00:00:20+00:00</updated>
+    <published>2025-10-31T00:00:14+00:00</published>
+    <updated>2025-10-31T00:00:14+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="how-vulnerable-is-china">
 <a class="track-event overlay" data-entity-id="6904c1ec8f766ac431dc2a84" data-entity-link-name="how-vulnerable-is-china" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/how-vulnerable-is-china" data-language="english" href="/onpoint/how-vulnerable-is-china" title="How Vulnerable Is China?"><span class="u-tos">How Vulnerable Is China?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -584,8 +894,8 @@ highlight the economic and political weaknesses that are undermining the country
     <title>Trump’s Pivot from Asia</title>
     <link href="https://www.project-syndicate.org/commentary/trump-pivot-from-asia-to-western-hemisphere-by-richard-haass-2025-10" />
     <id>https://www.project-syndicate.org/commentary/trump-pivot-from-asia-to-western-hemisphere-by-richard-haass-2025-10</id>
-    <published>2025-10-31T00:00:19+00:00</published>
-    <updated>2025-10-31T00:00:19+00:00</updated>
+    <published>2025-10-31T00:00:13+00:00</published>
+    <updated>2025-10-31T00:00:13+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-pivot-from-asia-to-western-hemisphere-by-richard-haass-2025-10">
 <a class="track-event overlay" data-entity-id="6904bd9f8f766ac431c32b23" data-entity-link-name="trump-pivot-from-asia-to-western-hemisphere-by-richard-haass-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-pivot-from-asia-to-western-hemisphere-by-richard-haass-2025-10" data-language="english" href="/commentary/trump-pivot-from-asia-to-western-hemisphere-by-richard-haass-2025-10" title="Trump’s Pivot from Asia"><span class="u-tos">Trump’s Pivot from Asia</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -636,8 +946,8 @@ thinks the US president's week in the region went well, if only because it could
     <title>Can China Catch Up with the US Economically?</title>
     <link href="https://www.project-syndicate.org/commentary/china-will-avoid-the-middle-income-trap-but-fail-to-outgrow-the-us-economy-by-keun-lee-2025-10" />
     <id>https://www.project-syndicate.org/commentary/china-will-avoid-the-middle-income-trap-but-fail-to-outgrow-the-us-economy-by-keun-lee-2025-10</id>
-    <published>2025-10-31T00:00:18+00:00</published>
-    <updated>2025-10-31T00:00:18+00:00</updated>
+    <published>2025-10-31T00:00:12+00:00</published>
+    <updated>2025-10-31T00:00:12+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="china-will-avoid-the-middle-income-trap-but-fail-to-outgrow-the-us-economy-by-keun-lee-2025-10">
 <a class="track-event overlay" data-entity-id="6904b8d68f766ac431ab0ef0" data-entity-link-name="china-will-avoid-the-middle-income-trap-but-fail-to-outgrow-the-us-economy-by-keun-lee-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/china-will-avoid-the-middle-income-trap-but-fail-to-outgrow-the-us-economy-by-keun-lee-2025-10" data-language="english" href="/commentary/china-will-avoid-the-middle-income-trap-but-fail-to-outgrow-the-us-economy-by-keun-lee-2025-10" title="Can China Catch Up with the US Economically?"><span class="u-tos">Can China Catch Up with the US Economically?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -688,8 +998,8 @@ thinks that the country will avoid the middle-income trap, but its GDP is subjec
     <title>Will AI Kill the Firm?</title>
     <link href="https://www.project-syndicate.org/onpoint/ai-rewriting-rules-of-modern-capitalism-by-sami-mahroum-2025-10" />
     <id>https://www.project-syndicate.org/onpoint/ai-rewriting-rules-of-modern-capitalism-by-sami-mahroum-2025-10</id>
-    <published>2025-10-31T00:00:17+00:00</published>
-    <updated>2025-10-31T00:00:17+00:00</updated>
+    <published>2025-10-31T00:00:11+00:00</published>
+    <updated>2025-10-31T00:00:11+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default onpoint" data-url="ai-rewriting-rules-of-modern-capitalism-by-sami-mahroum-2025-10">
 <a class="track-event overlay" data-entity-id="69047e348f766ac431a8822e" data-entity-link-name="ai-rewriting-rules-of-modern-capitalism-by-sami-mahroum-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/onpoint/ai-rewriting-rules-of-modern-capitalism-by-sami-mahroum-2025-10" data-language="english" href="/onpoint/ai-rewriting-rules-of-modern-capitalism-by-sami-mahroum-2025-10" title="Will AI Kill the Firm?"><span class="u-tos">Will AI Kill the Firm?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -740,8 +1050,8 @@ shows why an organizational entity fit for the industrial age now faces a surplu
     <title>Trump’s Supporters Should Be Careful What They Wish For</title>
     <link href="https://www.project-syndicate.org/commentary/supreme-court-should-uphold-challenge-to-trump-tariffs-by-simon-johnson-and-stan-a-veuger-2025-10" />
     <id>https://www.project-syndicate.org/commentary/supreme-court-should-uphold-challenge-to-trump-tariffs-by-simon-johnson-and-stan-a-veuger-2025-10</id>
-    <published>2025-10-30T00:00:16+00:00</published>
-    <updated>2025-10-30T00:00:16+00:00</updated>
+    <published>2025-10-30T00:00:10+00:00</published>
+    <updated>2025-10-30T00:00:10+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="supreme-court-should-uphold-challenge-to-trump-tariffs-by-simon-johnson-and-stan-a-veuger-2025-10">
 <a class="track-event overlay" data-entity-id="69038b6d0c4015010dc3f356" data-entity-link-name="supreme-court-should-uphold-challenge-to-trump-tariffs-by-simon-johnson-and-stan-a-veuger-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/supreme-court-should-uphold-challenge-to-trump-tariffs-by-simon-johnson-and-stan-a-veuger-2025-10" data-language="english" href="/commentary/supreme-court-should-uphold-challenge-to-trump-tariffs-by-simon-johnson-and-stan-a-veuger-2025-10" title="Trump’s Supporters Should Be Careful What They Wish For"><span class="u-tos">Trump’s Supporters Should Be Careful What They Wish For</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -794,8 +1104,8 @@ urge the US Supreme Court to rule against the Trump administration's “reciproc
     <title>The Trouble with Abundance</title>
     <link href="https://www.project-syndicate.org/commentary/democrats-cannot-build-a-political-strategy-on-abundance-by-jeffrey-frankel-2025-10" />
     <id>https://www.project-syndicate.org/commentary/democrats-cannot-build-a-political-strategy-on-abundance-by-jeffrey-frankel-2025-10</id>
-    <published>2025-10-30T00:00:15+00:00</published>
-    <updated>2025-10-30T00:00:15+00:00</updated>
+    <published>2025-10-30T00:00:09+00:00</published>
+    <updated>2025-10-30T00:00:09+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="democrats-cannot-build-a-political-strategy-on-abundance-by-jeffrey-frankel-2025-10">
 <a class="track-event overlay" data-entity-id="690390f00c4015010dda2361" data-entity-link-name="democrats-cannot-build-a-political-strategy-on-abundance-by-jeffrey-frankel-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/democrats-cannot-build-a-political-strategy-on-abundance-by-jeffrey-frankel-2025-10" data-language="english" href="/commentary/democrats-cannot-build-a-political-strategy-on-abundance-by-jeffrey-frankel-2025-10" title="The Trouble with Abundance"><span class="u-tos">The Trouble with Abundance</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -846,8 +1156,8 @@ advises US Democrats that their political salvation lies in acknowledging the re
     <title>How Social Protection Can Accelerate Climate Action</title>
     <link href="https://www.project-syndicate.org/commentary/cop30-should-integrate-climate-goals-into-inclusive-social-protection-systems-by-tracy-kajumba-2025-10" />
     <id>https://www.project-syndicate.org/commentary/cop30-should-integrate-climate-goals-into-inclusive-social-protection-systems-by-tracy-kajumba-2025-10</id>
-    <published>2025-10-30T00:00:14+00:00</published>
-    <updated>2025-10-30T00:00:14+00:00</updated>
+    <published>2025-10-30T00:00:08+00:00</published>
+    <updated>2025-10-30T00:00:08+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="cop30-should-integrate-climate-goals-into-inclusive-social-protection-systems-by-tracy-kajumba-2025-10">
 <a class="track-event overlay" data-entity-id="69036d7e0c4015010d35f087" data-entity-link-name="cop30-should-integrate-climate-goals-into-inclusive-social-protection-systems-by-tracy-kajumba-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/cop30-should-integrate-climate-goals-into-inclusive-social-protection-systems-by-tracy-kajumba-2025-10" data-language="english" href="/commentary/cop30-should-integrate-climate-goals-into-inclusive-social-protection-systems-by-tracy-kajumba-2025-10" title="How Social Protection Can Accelerate Climate Action"><span class="u-tos">How Social Protection Can Accelerate Climate Action</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -908,8 +1218,8 @@ touts an approach that can protect human dignity, build resilience, and maximize
     <title>Can China Meet Its Massive Climate-Finance Needs?</title>
     <link href="https://www.project-syndicate.org/commentary/china-climate-finance-needs-dwarf-those-of-other-emerging-economies-by-rakesh-mohan-and-janak-raj-2025-10" />
     <id>https://www.project-syndicate.org/commentary/china-climate-finance-needs-dwarf-those-of-other-emerging-economies-by-rakesh-mohan-and-janak-raj-2025-10</id>
-    <published>2025-10-30T00:00:13+00:00</published>
-    <updated>2025-10-30T00:00:13+00:00</updated>
+    <published>2025-10-30T00:00:07+00:00</published>
+    <updated>2025-10-30T00:00:07+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="china-climate-finance-needs-dwarf-those-of-other-emerging-economies-by-rakesh-mohan-and-janak-raj-2025-10">
 <a class="track-event overlay" data-entity-id="690372290c4015010d498e2d" data-entity-link-name="china-climate-finance-needs-dwarf-those-of-other-emerging-economies-by-rakesh-mohan-and-janak-raj-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/china-climate-finance-needs-dwarf-those-of-other-emerging-economies-by-rakesh-mohan-and-janak-raj-2025-10" data-language="english" href="/commentary/china-climate-finance-needs-dwarf-those-of-other-emerging-economies-by-rakesh-mohan-and-janak-raj-2025-10" title="Can China Meet Its Massive Climate-Finance Needs?"><span class="u-tos">Can China Meet Its Massive Climate-Finance Needs?</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -960,8 +1270,8 @@ highlight research on the costs of decarbonizing the four highest-emitting secto
     <title>The Makings of Peace</title>
     <link href="https://www.project-syndicate.org/commentary/a-lesson-from-art-history-on-the-values-and-practices-that-underpin-a-peaceful-society-by-vanessa-badre-2025-10" />
     <id>https://www.project-syndicate.org/commentary/a-lesson-from-art-history-on-the-values-and-practices-that-underpin-a-peaceful-society-by-vanessa-badre-2025-10</id>
-    <published>2025-10-30T00:00:12+00:00</published>
-    <updated>2025-10-30T00:00:12+00:00</updated>
+    <published>2025-10-30T00:00:06+00:00</published>
+    <updated>2025-10-30T00:00:06+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="a-lesson-from-art-history-on-the-values-and-practices-that-underpin-a-peaceful-society-by-vanessa-badre-2025-10">
 <a class="track-event overlay" data-entity-id="69020edf887ecfe45efc8579" data-entity-link-name="a-lesson-from-art-history-on-the-values-and-practices-that-underpin-a-peaceful-society-by-vanessa-badre-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/a-lesson-from-art-history-on-the-values-and-practices-that-underpin-a-peaceful-society-by-vanessa-badre-2025-10" data-language="english" href="/commentary/a-lesson-from-art-history-on-the-values-and-practices-that-underpin-a-peaceful-society-by-vanessa-badre-2025-10" title="The Makings of Peace"><span class="u-tos">The Makings of Peace</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1012,8 +1322,8 @@ looks to Ambrogio Lorenzetti’s 14th-century frescoes for insights into what un
     <title>Profiles in Weakness at the Trump-Xi Meeting</title>
     <link href="https://www.project-syndicate.org/commentary/trump-xi-meeting-giants-with-feet-of-clay-by-harold-james-2025-10" />
     <id>https://www.project-syndicate.org/commentary/trump-xi-meeting-giants-with-feet-of-clay-by-harold-james-2025-10</id>
-    <published>2025-10-29T00:00:11+00:00</published>
-    <updated>2025-10-29T00:00:11+00:00</updated>
+    <published>2025-10-29T00:00:05+00:00</published>
+    <updated>2025-10-29T00:00:05+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-xi-meeting-giants-with-feet-of-clay-by-harold-james-2025-10">
 <a class="track-event overlay" data-entity-id="69024b64887ecfe45ed6c069" data-entity-link-name="trump-xi-meeting-giants-with-feet-of-clay-by-harold-james-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-xi-meeting-giants-with-feet-of-clay-by-harold-james-2025-10" data-language="english" href="/commentary/trump-xi-meeting-giants-with-feet-of-clay-by-harold-james-2025-10" title="Profiles in Weakness at the Trump-Xi Meeting"><span class="u-tos">Profiles in Weakness at the Trump-Xi Meeting</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1064,8 +1374,8 @@ shows that both sides are more politically and economically constrained than the
     <title>Neglected Solutions to Our Biggest Problems</title>
     <link href="https://www.project-syndicate.org/commentary/climate-change-middle-class-erosion-global-poverty-solutions-already-exist-by-dani-rodrik-2025-10" />
     <id>https://www.project-syndicate.org/commentary/climate-change-middle-class-erosion-global-poverty-solutions-already-exist-by-dani-rodrik-2025-10</id>
-    <published>2025-10-29T00:00:10+00:00</published>
-    <updated>2025-10-29T00:00:10+00:00</updated>
+    <published>2025-10-29T00:00:04+00:00</published>
+    <updated>2025-10-29T00:00:04+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="climate-change-middle-class-erosion-global-poverty-solutions-already-exist-by-dani-rodrik-2025-10">
 <a class="track-event overlay" data-entity-id="6901e424887ecfe45e5b0f6e" data-entity-link-name="climate-change-middle-class-erosion-global-poverty-solutions-already-exist-by-dani-rodrik-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/climate-change-middle-class-erosion-global-poverty-solutions-already-exist-by-dani-rodrik-2025-10" data-language="english" href="/commentary/climate-change-middle-class-erosion-global-poverty-solutions-already-exist-by-dani-rodrik-2025-10" title="Neglected Solutions to Our Biggest Problems"><span class="u-tos">Neglected Solutions to Our Biggest Problems</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1116,8 +1426,8 @@ argues that we already have the tools we need to address the world's biggest eco
     <title>The Global Polytunity</title>
     <link href="https://www.project-syndicate.org/commentary/polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10" />
     <id>https://www.project-syndicate.org/commentary/polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10</id>
-    <published>2025-10-29T00:00:09+00:00</published>
-    <updated>2025-10-29T00:00:09+00:00</updated>
+    <published>2025-10-29T00:00:03+00:00</published>
+    <updated>2025-10-29T00:00:03+00:00</updated>
     <summary type="html"><![CDATA[<li class="listing listing--default" data-url="polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10">
 <a class="track-event overlay" data-entity-id="6901e1a4887ecfe45e51cd7e" data-entity-link-name="polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10" data-language="english" href="/commentary/polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10" title="The Global Polytunity"><span class="u-tos">The Global Polytunity</span></a>
 <figure class="image listing__image image--ratio-list">
@@ -1162,336 +1472,6 @@ sees cascading crises as a rare opportunity for the transformation of developmen
  | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/polycrisis-is-actually-opportunity-to-transform-global-development-paradigm-by-yuen-yuen-ang-2025-10" target="_blank">archive.is</a></div>
     <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
 <p data-line-id="686674d5451a48c387fa59754c84b28d"> WASHINGTON, DC – Conflicts, trade wars, inequality, and democratic decay fill today’s headlines. Each crisis appears to be feeding the next, and it can feel as though the world is coming apart. Western leaders and thinkers have embraced a single word to capture this entanglement of threats: “polycrisis.” </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>In Russia, Enemies Are Everywhere</title>
-    <link href="https://www.project-syndicate.org/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" />
-    <id>https://www.project-syndicate.org/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10</id>
-    <published>2025-10-29T00:00:08+00:00</published>
-    <updated>2025-10-29T00:00:08+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10">
-<a class="track-event overlay" data-entity-id="69015065896e4de85eac1002" data-entity-link-name="putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" data-language="english" href="/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" title="In Russia, Enemies Are Everywhere"><span class="u-tos">In Russia, Enemies Are Everywhere</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10">In Russia, Enemies Are Everywhere</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 29, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="nina-l-khrushcheva" data-entity-type="member" data-event-action="click" data-href-original="columnist/nina-l-khrushcheva" data-language="english" href="columnist/nina-l-khrushcheva">Nina L. Khrushcheva </a>
-sees echoes of Stalin’s show trials in proliferating terrorism-related prosecutions of influential figures.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10">
-<a class="track-event overlay" data-entity-id="69015065896e4de85eac1002" data-entity-link-name="putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" data-language="english" href="/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" title="In Russia, Enemies Are Everywhere"><span class="u-tos">In Russia, Enemies Are Everywhere</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/e3a8793dfa71df57f5514317181acc2f.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10">In Russia, Enemies Are Everywhere</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 29, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="nina-l-khrushcheva" data-entity-type="member" data-event-action="click" data-href-original="columnist/nina-l-khrushcheva" data-language="english" href="columnist/nina-l-khrushcheva">Nina L. Khrushcheva </a>
-sees echoes of Stalin’s show trials in proliferating terrorism-related prosecutions of influential figures.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/putin-emulating-stalin-by-prosecuting-potential-rivals-by-nina-l-khrushcheva-2025-10" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="9395aed54de8430e8801c59713f92b21"> MOSCOW – In the 18th century, Russian emperor Peter the Great regularly had his detractors tortured, exiled to Siberia, and executed, sometimes for as little as <a href="https://arzamas.academy/materials/794">directing</a> “unseemly speech” at the sovereign. In the mid-1930s, Joseph Stalin used fabricated charges of treason and coerced confessions to purge potential rivals, including many prominent Old Bolsheviks who were subjected to public show trials. Russian President Vladimir Putin’s current fight against his perceived enemies – both inside and outside Russia – carries disturbing echoes of these bleak episodes. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Courts Are Shaping the Future of Climate Action</title>
-    <link href="https://www.project-syndicate.org/commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" />
-    <id>https://www.project-syndicate.org/commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10</id>
-    <published>2025-10-29T00:00:07+00:00</published>
-    <updated>2025-10-29T00:00:07+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10">
-<a class="track-event overlay" data-entity-id="69012c5e896e4de85e4243e5" data-entity-link-name="legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" data-language="english" href="/commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" title="Courts Are Shaping the Future of Climate Action"><span class="u-tos">Courts Are Shaping the Future of Climate Action</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10">Courts Are Shaping the Future of Climate Action</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 29, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="francesca-mascha-klein" data-entity-type="member" data-event-action="click" data-href-original="columnist/francesca-mascha-klein" data-language="english" href="columnist/francesca-mascha-klein">Francesca Mascha Klein </a> &amp; <a class="track-event listing__author author" data-entity-id="" data-entity-link-name="laura-schafer" data-entity-type="member" data-event-action="click" data-href-original="columnist/laura-schafer" data-language="english" href="columnist/laura-schafer">Laura Schäfer </a>
-
-tout recent rulings mandating accountability for emissions and adequate support for vulnerable economies.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10">
-<a class="track-event overlay" data-entity-id="69012c5e896e4de85e4243e5" data-entity-link-name="legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" data-language="english" href="/commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10" title="Courts Are Shaping the Future of Climate Action"><span class="u-tos">Courts Are Shaping the Future of Climate Action</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/1ce2212fb74e6aea73c9b50512d79c34.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/legal-momentum-builds-toward-meaningful-climate-action-at-cop30-by-francesca-mascha-klein-and-laura-schafer-2025-10">Courts Are Shaping the Future of Climate Action</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 29, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="francesca-mascha-klein" data-entity-type="member" data-event-action="click" data-href-original="columnist/francesca-mascha-klein" data-language="english" href="columnist/francesca-mascha-klein">Francesca Mascha Klein </a> &amp; <a class="track-event listing__author author" data-entity-id="" data-entity-link-name="laura-schafer" data-entity-type="member" data-event-action="click" data-href-original="columnist/laura-schafer" data-language="english" href="columnist/laura-schafer">Laura Schäfer </a>
-
-tout recent rulings mandating accountability for emissions and adequate support for vulnerable economies.        </p>
-</header>
-</li>
-    <br/> <div class="article__body article__body--commentary english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="757bd012b05641a692cf04c72e2cddba"> BERLIN/BONN – Amid rising geopolitical tensions, pressure to comply with climate obligations increasingly comes from courts. Earlier this year, both the <a href="https://www.icj-cij.org/sites/default/files/case-related/187/187-20250723-adv-01-00-en.pdf">International Court of Justice</a> (ICJ) and the <a href="https://www.corteidh.or.cr/docs/opiniones/seriea_32_en.pdf">Inter-American Court of Human Rights</a> (IACtHR) issued landmark advisory opinions affirming that countries must address climate change, and that failure to do so may carry serious legal consequences. </p>
-<p data-line-id="6e8bcec9b43148498fd99dda92f32248"> This renewed legal clarity comes at a critical moment. Last year was the <a href="https://wmo.int/news/media-centre/wmo-confirms-2024-warmest-year-record-about-155degc-above-pre-industrial-level">hottest on record</a>, with global average temperatures exceeding 1.5° Celsius above pre-industrial levels, yet the gulf between the urgency of the climate threat and the policy response continues to widen. </p>
-<p data-line-id="9c1e0d7ac16449879a77fe074b7afe8d"> In the absence of political will, the legal system has become a key driver of climate progress. As the United Nations Climate Change Conference in Brazil (COP30) approaches, the groundwork has been laid for stronger, fairer, and more accountable climate action. The task now is for governments to adapt their policies in accordance with both international law and environmental needs. </p>
-<p data-line-id="88ba5e373ee14127b4ca057f9ffc81ae"> The most immediate implication of the ICJ and IACtHR opinions is that national climate plans – known as Nationally Determined Contributions (NDCs) – must reflect the “highest possible ambition” and be consistent with the 2015 Paris climate agreement’s goal of limiting global warming to 1.5°C. </p>
-<p data-line-id="90ac5a8939f2410cb5ff54d541fa1d5a"> Alarmingly, as of 2024, global temperatures are on track to rise by <a href="https://www.reuters.com/business/environment/climate-set-warm-by-31-c-without-greater-action-un-report-warns-2024-10-24/">up to 3.1°C</a> by the end of the century. Following the September deadline for new NDCs, <a href="https://www.carbonbrief.org/analysis-half-of-global-emissions-covered-by-2035-climate-pledges-after-un-summit-in-new-york/">only half of greenhouse-gas (GHG) emissions</a> are covered by updated climate pledges, most of which fall well short of science-based targets. </p>
-<div data-classes="newsletter--bg newsletter--yellow newsletter--branding newsletter--compact newsletter--label newsletter--admin" data-consent="true" data-description="Go beyond the headlines to understand the issues, forces, and trends shaping the US presidential election – and the likely implications of its outcome." data-label="Sign up for our weekly newsletter, PS Politics" data-link-name="newsletter-politics" data-newsletter="prosyn-above-the-fold" data-newsletter-subscribe-form="true"></div>
-<p data-line-id="4b9e57f55de64a168cd7edcec2116563"> The ICJ and IACtHR decisions, however, offer some cause for hope. At COP30, negotiators and civil-society representatives can push for ambitious measures, as noncompliance with the Paris agreement’s temperature goals can be challenged not only in diplomatic forums but also in courts. </p>
-<p data-line-id="41045507b2464eefa154989599cdd060"> A rapid phaseout of coal, oil, and gas remains essential to effective climate action. But despite the so-called “<a href="https://www.cop28.com/en/the-uae-consensus-foreword">UAE consensus</a>” to move away from fossil fuels, many countries continue to obstruct progress. Here, too, the ICJ provides negotiators with new tools, explicitly recognizing that governments may be held liable for failure to reduce GHG emissions, including through fossil-fuel production, consumption, exploration, and subsidies. </p>
-<p data-line-id="1c33c3beea3e4bba96629066c20ac5e9"> The international climate regime must evolve to reflect these changing legal realities. That requires creating stronger compliance mechanisms that ensure countries meet their targets and deliver on climate-finance commitments. </p>
-<p data-line-id="516d67ab0c3f498c8d7264c5878a0ed4"> The legal shift is particularly evident in climate finance. For decades, developed countries have treated funding for climate adaptation and loss and damage as discretionary. Consequently, despite the establishment of the Fund for Responding to Loss and Damage at COP28, contributions remain far below what is needed. </p>
-<p data-line-id="6c2c4542baff40479721feb787d0172a"> The path forward is clear. The ICJ’s opinion affirms that wealthy countries have a legally binding duty to support mitigation, adaptation, and loss and damage efforts across the developing world. To meet these obligations, <a href="https://www.wri.org/insights/climate-finance-progress-2025">at least $1.3 trillion</a> must be mobilized annually by 2035, with dedicated provisions for loss and damage. </p>
-<p data-line-id="0e0a40db35104a8ea0098e5f15d9dc8c"> Crucially, the private sector is not being let off the hook. The ICJ, IACtHR, and the International Tribunal for the Law of the Sea have all recognized that governments must regulate corporations where necessary to protect the environment, safeguard the climate system, and uphold human rights. </p>
-<p data-line-id="61aff407ffa14b99a83a1a15859de2c8"> At the same time, corporate accountability is taking shape in domestic courts<em>. </em>In a landmark decision, Germany’s Higher Regional Court of Hamm <a href="https://rwe.climatecase.org/sites/default/files/2025-06/New%20Era%20of%20Accountability%20EN.pdf">ruled</a> that large emitters can, in principle, be held liable for climate-related impacts. The case, brought by Peruvian farmer Saúl Luciano Lliuya, shows that individuals on the front lines of the climate crisis can force polluters to pay their fair share. </p>
-<p data-line-id="f4f3176f648848d78d1b6b8e1f8c1435"> But litigation alone cannot deliver justice at scale. Governments must establish clear legal frameworks to hold major emitters fully accountable for their role in driving the climate crisis before the damage becomes irreversible. Mechanisms such as mandatory reserves, disclosure rules, insurance schemes, and compensation funds can help internalize liability risks and embed accountability into the system, rather than leaving it to goodwill or the courts. </p>
-<p data-line-id="d42dacc8c3f34413b2997d35b98c7bcd"> The momentum for such measures is building. In countries like the Philippines and Pakistan, as well as US states such as Vermont and New York, lawmakers are advancing “polluter pays” legislation. Remarkably, climate lawsuits, by plaintiffs ranging from <a href="https://www.biv.com/news/environment/bc-first-nation-inches-closer-to-landmark-climate-challenge-against-ottawa-11282212">indigenous groups in Canada</a> to <a href="https://forourclimate.org/newsroom/1113">farmers in Korea</a>, are already invoking the ICJ’s reasoning, and a <a href="https://www.jusbrasil.com.br/noticias/justica-federal-suspende-licencas-de-funcionamento-de-usina-e-mina-de-carvao-por-descumprimento-das-politicas-de-mudancas-climaticas/4560127630?ref=the-wave.net">Brazilian court</a> explicitly cited it when ordering a fossil project to cease operations.  </p>
-<p data-line-id="b4afb41bb1864e5c9f5103b792ae7bf7"> Instead of waiting for the next court ruling, governments should now take steps to uphold the rule of law and assume responsibility for confronting the climate crisis. That means charting a credible path toward drastic emission cuts, accelerating the phaseout of fossil fuels, and ensuring that climate finance is effective, equitable, and fit for purpose. At COP30, international policymakers should harness the current legal momentum by proposing a global levy on fossil-fuel profits and high-emitting sectors, including shipping and aviation, to ensure sustainable financing of the Adaptation Fund and the Loss and Damage Fund. </p>
-<p data-line-id="26f8a15ce9ab4732835582836a025b60"> A decade after the Paris agreement, the world can no longer afford half-measures. Vanuatu has already announced plans to pursue a new <a href="https://carbon-pulse.com/wp-content/uploads/2025/09/VANUATU-PRESS-RELEASE.pdf">UN resolution</a> aimed at translating the ICJ’s opinion into concrete political action. By supporting this initiative and acting decisively now, policymakers can build a global climate regime capable of delivering real solutions at the speed and scale this crisis demands. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Is Trump Ruling Like a King?</title>
-    <link href="https://www.project-syndicate.org/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" />
-    <id>https://www.project-syndicate.org/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10</id>
-    <published>2025-10-29T00:00:06+00:00</published>
-    <updated>2025-10-29T00:00:06+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10">
-<a class="track-event overlay" data-entity-id="69012892896e4de85e39fdec" data-entity-link-name="trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" data-language="english" href="/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" title="Is Trump Ruling Like a King?"><span class="u-tos">Is Trump Ruling Like a King?</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10">Is Trump Ruling Like a King?</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 29, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="carla-norrlof" data-entity-type="member" data-event-action="click" data-href-original="columnist/carla-norrlof" data-language="english" href="columnist/carla-norrlof">Carla Norrlöf </a>
-considers parallels between the current US president and the Tudor monarch Henry VII.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10">
-<a class="track-event overlay" data-entity-id="69012892896e4de85e39fdec" data-entity-link-name="trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" data-language="english" href="/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" title="Is Trump Ruling Like a King?"><span class="u-tos">Is Trump Ruling Like a King?</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/cdd4a82aa492ffd13920678285bf745a.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10">Is Trump Ruling Like a King?</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 29, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="carla-norrlof" data-entity-type="member" data-event-action="click" data-href-original="columnist/carla-norrlof" data-language="english" href="columnist/carla-norrlof">Carla Norrlöf </a>
-considers parallels between the current US president and the Tudor monarch Henry VII.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/trump-ruling-like-a-king-but-still-can-be-checked-by-carla-norrlof-2025-10" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="c1aaad8543e14f4288889fe0256013d7"> WASHINGTON, DC – Kings rule by birth and blessing. They also rule by fear. When millions of protesters came out this month to say, “No Kings,” Donald Trump posted an AI-generated video of himself being crowned, only to insist, the next day, that he is not a king. So, which is it? </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>What AI Means for Growth and Jobs</title>
-    <link href="https://www.project-syndicate.org/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" />
-    <id>https://www.project-syndicate.org/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10</id>
-    <published>2025-10-28T00:00:05+00:00</published>
-    <updated>2025-10-28T00:00:05+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10">
-<a class="track-event overlay" data-entity-id="6900da9b896e4de85e1700a4" data-entity-link-name="ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" data-language="english" href="/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" title="What AI Means for Growth and Jobs"><span class="u-tos">What AI Means for Growth and Jobs</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10">What AI Means for Growth and Jobs</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 28, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="philippe-aghion" data-entity-type="member" data-event-action="click" data-href-original="columnist/philippe-aghion" data-language="english" href="columnist/philippe-aghion">Philippe Aghion </a><span class="vl-divider">, et al.</span>
-think the technology has great potential to boost productivity without harming employment.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10">
-<a class="track-event overlay" data-entity-id="6900da9b896e4de85e1700a4" data-entity-link-name="ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" data-language="english" href="/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" title="What AI Means for Growth and Jobs"><span class="u-tos">What AI Means for Growth and Jobs</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/d16253f4e9e2ad798d51e78eb0d98c31.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10">What AI Means for Growth and Jobs</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 28, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="philippe-aghion" data-entity-type="member" data-event-action="click" data-href-original="columnist/philippe-aghion" data-language="english" href="columnist/philippe-aghion">Philippe Aghion </a><span class="vl-divider">, et al.</span>
-think the technology has great potential to boost productivity without harming employment.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/ai-will-boost-productivity-growth-without-harming-jobs-by-philippe-aghion-et-al-2025-10" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="005b4f650b6b47a2983fbf0f6e0537cb"> PARIS – As more businesses begin to experiment with AI and consider how it might improve their profitability, debates about the implications for workers have intensified. In the United States, the apparent disconnect between soaring stock-market valuations and falling total (non-farm) <a href="https://fred.stlouisfed.org/series/JTSJOL">job openings</a> has fueled media narratives about technologically driven job destruction.</p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>No Kings Means No Barons</title>
-    <link href="https://www.project-syndicate.org/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" />
-    <id>https://www.project-syndicate.org/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10</id>
-    <published>2025-10-28T00:00:04+00:00</published>
-    <updated>2025-10-28T00:00:04+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10">
-<a class="track-event overlay" data-entity-id="6900cbca896e4de85ee86b2c" data-entity-link-name="no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" data-language="english" href="/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" title="No Kings Means No Barons"><span class="u-tos">No Kings Means No Barons</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10">No Kings Means No Barons</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 28, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="yanis-varoufakis" data-entity-type="member" data-event-action="click" data-href-original="columnist/yanis-varoufakis" data-language="english" href="columnist/yanis-varoufakis">Yanis Varoufakis </a>
-explains why resisting autocrats like Donald Trump requires challenging the oligarchs who enable them.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10">
-<a class="track-event overlay" data-entity-id="6900cbca896e4de85ee86b2c" data-entity-link-name="no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" data-language="english" href="/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" title="No Kings Means No Barons"><span class="u-tos">No Kings Means No Barons</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/8de51faf47f0d8f43382504a90bad472.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10">No Kings Means No Barons</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 28, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="yanis-varoufakis" data-entity-type="member" data-event-action="click" data-href-original="columnist/yanis-varoufakis" data-language="english" href="columnist/yanis-varoufakis">Yanis Varoufakis </a>
-explains why resisting autocrats like Donald Trump requires challenging the oligarchs who enable them.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/no-kings-democracy-advocates-must-challenge-oligarchs-must-by-yanis-varoufakis-2025-10" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="8313534d265f46e7a2291a2605954bac"> ATHENS – France, the United Kingdom, the United States, and even Germany are all in fiscal jeopardy, with ballooning liabilities for pensions, welfare programs, and military expenditure that politicians dare not shrink nor fund through higher taxes. Some <a href="https://www.cato.org/blog/fiscal-illusion-deficit-spending">conclude</a> that democracy cannot deliver fiscal prudence because the demos cannot be persuaded to live within its means. But there is an alternative explanation: The cause of our fiscal woes is that we live not in democracies but, rather, under oligarchic rule punctuated by periodic elections. </p>
-</div>]]></content>
-  </entry>
-  <entry>
-    <title>Will AI Bury Future Generations in Cognitive Debt?</title>
-    <link href="https://www.project-syndicate.org/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" />
-    <id>https://www.project-syndicate.org/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10</id>
-    <published>2025-10-28T00:00:03+00:00</published>
-    <updated>2025-10-28T00:00:03+00:00</updated>
-    <summary type="html"><![CDATA[<li class="listing listing--default" data-url="ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10">
-<a class="track-event overlay" data-entity-id="6900a563896e4de85e770bf9" data-entity-link-name="ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" data-language="english" href="/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" title="Will AI Bury Future Generations in Cognitive Debt?"><span class="u-tos">Will AI Bury Future Generations in Cognitive Debt?</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10">Will AI Bury Future Generations in Cognitive Debt?</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 28, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="bertrand-badre" data-entity-type="member" data-event-action="click" data-href-original="columnist/bertrand-badre" data-language="english" href="columnist/bertrand-badre">Bertrand Badré </a> &amp; <a class="track-event listing__author author" data-entity-id="" data-entity-link-name="florian-ingen-housz" data-entity-type="member" data-event-action="click" data-href-original="columnist/florian-ingen-housz" data-language="english" href="columnist/florian-ingen-housz">Florian Ingen-Housz </a>
-
-see the technology threatening the repetitive, formative work that underpins professional excellence.        </p>
-</header>
-</li>]]></summary>
-    <content type="html"><![CDATA[<li class="listing listing--default" data-url="ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10">
-<a class="track-event overlay" data-entity-id="6900a563896e4de85e770bf9" data-entity-link-name="ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" data-entity-type="document" data-event-action="click" data-href-original="/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" data-language="english" href="/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" title="Will AI Bury Future Generations in Cognitive Debt?"><span class="u-tos">Will AI Bury Future Generations in Cognitive Debt?</span></a>
-<figure class="image listing__image image--ratio-list">
-<picture>
-<source media="--small" srcset="https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.2-1-large.1.jpg"/>
-<source media="--large" srcset="https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.4-3-medium.1.jpg"/>
-<source srcset="https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.2-1-medium.1.jpg"/>
-<img alt="" height="310" loading="lazy" src="https://pic1.xuehuaimg.com/proxy/https://webapi.project-syndicate.org/library/19bb2b9200ea2a0c9ae3d8cdb2f8ba03.2-1-large.1.jpg" width="620"/>
-</picture>
-</figure>
-<header class="listing__header">
-<h2 class="listing__title">
-<a href="commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10">Will AI Bury Future Generations in Cognitive Debt?</a>
-</h2>
-<p class="listing__excerpt">
-<span class="bl-pubdate vl-divider">Oct 28, 2025</span>
-<a class="track-event listing__author author" data-entity-id="" data-entity-link-name="bertrand-badre" data-entity-type="member" data-event-action="click" data-href-original="columnist/bertrand-badre" data-language="english" href="columnist/bertrand-badre">Bertrand Badré </a> &amp; <a class="track-event listing__author author" data-entity-id="" data-entity-link-name="florian-ingen-housz" data-entity-type="member" data-event-action="click" data-href-original="columnist/florian-ingen-housz" data-language="english" href="columnist/florian-ingen-housz">Florian Ingen-Housz </a>
-
-see the technology threatening the repetitive, formative work that underpins professional excellence.        </p>
-</header>
-</li>
-<div id="archive" style="margin: 20px; font-weight: bold; color:red;">Full article text:
- | <a href="https://archive.is?run=1&amp;url=https://www.project-syndicate.org/commentary/ai-destroying-traditional-career-automating-learning-by-doing-by-bertrand-badre-and-florian-ingen-housz-2025-10" target="_blank">archive.is</a></div>
-    <br/> <div class="article__body article__body--commentary paywall english" data-page-area="article-body" dir="ltr" itemprop="articleBody">
-<p data-line-id="fdaf8eaa49cc4c96a97d79f4f2238840"> PARIS – The pianist Keith Jarrett’s <em>Köln Concert</em> is one of the greatest pieces of improvisation in the history of jazz – an hour of unrestrained glory, delivered without a score or a plan. But Jarrett’s achievement owed nothing to chance. Rather, it was the outcome of thousands of hours of tedious repetition – endless scales that honed the pianist’s reflexes and muscle memory. Geniuses of improvisation rely on mastery, which itself comes from practice. They are not just winging it. </p>
 </div>]]></content>
   </entry>
 </feed>
